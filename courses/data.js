@@ -73,7 +73,7 @@ let data = [
   {
     name: "Machine learning Tutorial",
     instructor: "State Quest with Josh Starmer",
-    url: "https://www.youtube.com/c/joshstarmer/playlists"
+    url: "https://www.youtube.com/c/joshstarmer/playlists",
     description: "One of the best considered Machine Learning course with detailed explaination. Highly Recommended for beginners in the field of machine Learnin",
     image: "",
     tags: ["Machine Learning", "Statistics"],
