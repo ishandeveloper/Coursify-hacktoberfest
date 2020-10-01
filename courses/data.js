@@ -54,5 +54,13 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
+  {
+    name: "The Complete JavaScript Course 2020",
+    instructor: "Jonas Schmedtmann",
+    url: "https://www.udemy.com/course/the-complete-javascript-course/",
+    description: "Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack",
+    image: "",
+    tags: ["javascript"],
+  },
  
 ];
