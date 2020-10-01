@@ -7,7 +7,7 @@ This repository contains a list of few of the best learning resources out there 
 You can view the current list, live here :
 
 <pre>
-<a href="http://ishandeveloper.com/Coursify-hacktoberfest/">ishandeveloper.com/Coursify-hacktoberfest</a>
+<a href="http://ishandeveloper.com/Coursify-hacktoberfest/">coursify.ishandeveloper.com</a>
 </pre>
 
 
