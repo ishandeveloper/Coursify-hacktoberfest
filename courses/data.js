@@ -18,7 +18,6 @@ let data = [
     image: "intro-react.png",
     tags: ["react", "javascript", "web"],
   },
-
   {
     name: "Flutter Complete Course",
     instructor: "Pawan Kumar",
@@ -28,7 +27,6 @@ let data = [
     image: "",
     tags: ["flutter", "app"],
   },
-
   {
     name: "Intro To Linux",
     instructor: "Ishan Sharma",
@@ -37,13 +35,5 @@ let data = [
       "One of the most important tools for a programmer is the Operating System, it runs your whole device and it’s important to choose the one that suits you the best!",
     image: "intro-linux.png",
     tags: ["linux", "bash"],
-  },
-  {
-    name:'Testing and Debugging in Machine Learning',
-    instructor: 'Google Developers',
-    url:'https://developers.google.com/machine-learning/testing-debugging/',
-    description:'This course describes how, starting from debugging your model all the way to monitoring your pipeline in production.',
-    image: '',
-    tags:['Machine Learning', 'Debugging']
   },
 ];
