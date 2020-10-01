@@ -54,7 +54,7 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
-    {
+  {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -70,6 +70,13 @@ let data = [
     image: "",
     tags: ["python", "data structures",]
   },
-
+  {
+    name: "Javascript Course",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
+    description: "A new javascript course designed, created and recorded fresh in 2020. This course will give you a fantastic start for your javascript journey. After this course you can move to reactjs, AngularJS, nodeJS and many other such JS libraries and framework.",
+    image: "js-course.png",
+    tags: ["javascript", "Web"],
+  },
 
 ];
