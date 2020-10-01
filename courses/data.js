@@ -39,11 +39,12 @@ let data = [
     tags: ["linux", "bash"],
   },
   {
-    name: "React Native - The Practical Guide [2020 Edition]",
-    instructor: "Maximilian Schwarzmuller",
-    url: "https://www.udemy.com/course/react-native-the-practical-guide/",
+    name: "React Native Tutorial for Beginners",
+    instructor: "The Net Ninja",
+    url:
+      "https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
     description:
-      "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+      "Hey gang, and welcome to your first React Native tutorial for beginners. In this series we'll go from novice to ninja and create a React Native app from scratch. irst though, we'll get set up and talk about what React Native actually is. ",
     image: "",
     tags: ["react-native", "javascript"],
   },
