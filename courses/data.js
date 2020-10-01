@@ -54,5 +54,13 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
+  {
+    name: "Flutter & Dart - The Complete Flutter App Development Course",
+    instructor: "Paulo Dichone",
+    url: "https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=DSA_CA_Tech&utm_content=deal4584&utm_term=_._ag_69079291889_._ad_430315047253_._de_c_._dm__._pl__._ti_dsa-620784518527_._li_1002216_._pd__._&gclid=EAIaIQobChMIlcqZ97WT7AIVlInICh10ZwIWEAAYASAAEgLd6fD_BwE",
+    description: "Build Flutter iOS and Android Apps with a Single Codebase - Learn Google's Flutter Mobile Development Framework",
+    image: "",
+    tags: ["flutter", "dart", "app"]
+  },
  
 ];
