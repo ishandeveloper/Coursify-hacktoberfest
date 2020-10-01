@@ -38,4 +38,21 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+  {
+    name: "Machine Learning",
+    instructor: "Andrew Ng",
+    url: "https://www.coursera.org/learn/machine-learning",
+    description:
+      "In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.",
+    image: "",
+    tags: ["Machine Learning", "Stanford", "Andrew Ng"],
+  },
+  {
+    name:'Python for Data Science and Machine Learning Bootcamp',
+    instructor: 'Jose Portilla',
+    url:'https://www.udemy.com/share/101WjcAEMeeVhXQ3UH/',
+    description:'Introductory course for beginners who want to start their machine learning and python journey',
+    image: '',
+    tags:['Machine Learning', 'Scikit']
+  },
 ];
