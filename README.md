@@ -64,13 +64,13 @@ Here are the steps to follow :
 4. Open `courses/data.js` file in your preferred editor.
 
 5. Append your course info in the `data` array by filling out the following JSON Template
-    ```json
+    ```js
     {
       name:'Name of the course',
-      instructor: 'Name of course         instructor',
+      instructor: 'Name of course instructor',
       url:'Link to the course',
-      description:'A short summary         about the course',
-      image: ''
+      description:'A short summary about the course',
+      image: '',
       tags:['Technology', 'Framework']
     }
     ```
