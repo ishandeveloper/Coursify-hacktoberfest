@@ -10,6 +10,14 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
+  name:'Djano Tutorial',
+  instructor: 'Django Girls',
+  url:'https://tutorial.djangogirls.org/en/',
+  description:'A well designed course for beginners ',
+  image: '',
+  tags:['web development', 'Django']
+}
+  {
     name: "Intro To React",
     instructor: "Ishan Sharma",
     url: "https://blog.ishandeveloper.com/react-intro",
