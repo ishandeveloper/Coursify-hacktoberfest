@@ -83,6 +83,14 @@ let data = [
     tags: ["Technology", "Framework", "javascript", "web", "svelte"],
   },
   {
+  name:'Introduction To Python Programming',
+  instructor: 'Avinash Jain, TheCodex',
+  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
+  description:'A Quick and Easy Intro into Python Programming',
+  image: '',
+  tags:['python', 'oops']
+},
+{
     name: "Flutter Firebase - The Full Coursee",
     instructor: "Jeff Delaney",
     url: "https://fireship.io/courses/flutter-firebase/",
