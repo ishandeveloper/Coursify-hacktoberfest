@@ -40,7 +40,8 @@ let data = [
     name: "Neural Networks and Deep Learning",
     instructor: "Andrew Ng",
     url: "https://www.coursera.org/learn/neural-networks-deep-learning",
-    description: "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
+    description:
+      "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
     image: "",
     tags: ["machine learning", "ai", "deep learning", "neural networks"],
   },
@@ -54,13 +55,39 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
-  {
-    name: "Flutter & Dart - The Complete Flutter App Development Course",
-    instructor: "Paulo Dichone",
-    url: "https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=DSA_CA_Tech&utm_content=deal4584&utm_term=_._ag_69079291889_._ad_430315047253_._de_c_._dm__._pl__._ti_dsa-620784518527_._li_1002216_._pd__._&gclid=EAIaIQobChMIlcqZ97WT7AIVlInICh10ZwIWEAAYASAAEgLd6fD_BwE",
-    description: "Build Flutter iOS and Android Apps with a Single Codebase - Learn Google's Flutter Mobile Development Framework",
+   {
+    name: "Fullstack React GraphQL TypeScript Tutorial",
+    instructor: "Ben Awad",
+    url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
+    description: "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
     image: "",
-    tags: ["flutter", "dart", "app"]
+    tags: ["react", "graphql", "typescript", "javascript"],
   },
- 
+  {
+    name: "Data Structures (in Python)",
+    instructor: "LucidProgramming",
+    url: "https://goo.gl/TdJpMi",
+    description:
+      "get familiar with common data structures that are frequently tested on in coding interviews.",
+    image: "",
+    tags: ["python", "data structures"],
+  },
+  {
+    name: "Svelte Tutorial for Beginners",
+    instructor: "NetNinja",
+    url:
+      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+    description:
+      "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
+    image: "svelte-beginner.jpg",
+    tags: ["Technology", "Framework", "javascript", "web", "svelte"],
+  },
+  {
+    name: "Flutter Firebase - The Full Coursee",
+    instructor: "Jeff Delaney",
+    url: "https://fireship.io/courses/flutter-firebase/",
+    description: "This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, runs animations, and shares data between screens.",
+    image: "",
+    tags: ["flutter", "firebase", "app"],
+  },
 ];
