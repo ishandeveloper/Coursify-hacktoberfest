@@ -147,5 +147,13 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
+  },
+  {
+    name: "ReactJS & Redux Basics",
+    instructor: "maximilian schwarzmüller",
+    url: "https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_",
+    description: "If you want to learn the basics of React and Redux, this course is for you",
+    image: "",
+    tags: ["javascript", "react", "redux", "web development"],
+  },
 ];
