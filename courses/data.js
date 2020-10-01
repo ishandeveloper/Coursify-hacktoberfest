@@ -90,4 +90,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+    name: "Machine Learning",
+    instructor: "Andrew Ng",
+    url: "https://www.coursera.org/learn/machine-learning",
+    description: "Machine learning is the science of getting computers to act without being explicitly programmed.This course provided by Stanford University provides a broad introduction to machine learning, datamining, and statistical pattern recognition. ",
+    image: "courses/images/AndrewNg.jpg",
+    tags: ["Machine Learning", "Artificial Neural Network", "Logistic Regression","Machine Learning Algorithms"],
+  },
 ];
