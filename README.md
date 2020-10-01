@@ -108,6 +108,10 @@ This project uses SASS/SCSS syntax for styling.
 4. Confirm your changes on the client and in `assets/main.css`
 5. Commit all of the following files: `assets/main.scss`, `assets/main.css` and `assets/main.css.map`
 
+### Contributors
+
+[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/0)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/0)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/1)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/1)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/2)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/2)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/3)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/3)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/4)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/4)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/5)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/5)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/6)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/6)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/7)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/7)
+
 ##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
