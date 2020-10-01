@@ -55,8 +55,7 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
-
-    {
+   {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -84,6 +83,7 @@ let data = [
     tags: ["Technology", "Framework", "javascript", "web", "svelte"],
   },
   {
+
     name: "React JS Crash Course",
     instructor: "Brad Traversy",
     url:
