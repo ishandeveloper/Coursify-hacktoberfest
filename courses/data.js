@@ -98,4 +98,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+    name:'Flutter Tutorials for Beginners',
+    instructor: 'The Growing Developer',
+    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    image: '',
+    tags:['Flutter', 'Firebase','App development','Example apps']
+}
 ];
