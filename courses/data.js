@@ -10,6 +10,14 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
+  name:'Djano Tutorial',
+  instructor: 'Django Girls',
+  url:'https://tutorial.djangogirls.org/en/',
+  description:'A well designed course for beginners ',
+  image: '',
+  tags:['web development', 'Django']
+},
+  {
     name: "Intro To React",
     instructor: "Ishan Sharma",
     url: "https://blog.ishandeveloper.com/react-intro",
@@ -83,6 +91,14 @@ let data = [
     tags: ["Technology", "Framework", "javascript", "web", "svelte"],
   },
   {
+  name:'Introduction To Python Programming',
+  instructor: 'Avinash Jain, TheCodex',
+  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
+  description:'A Quick and Easy Intro into Python Programming',
+  image: '',
+  tags:['python', 'oops']
+},
+{
     name: "Flutter Firebase - The Full Coursee",
     instructor: "Jeff Delaney",
     url: "https://fireship.io/courses/flutter-firebase/",
@@ -96,6 +112,14 @@ let data = [
     url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
     description: "This is a course for beginners about typescript",
     image: "",
-    tags: ["javascript", "typescript", "web", "Portuguese", "Brazil"],
+    tags: ["javascript", "typescript", "web", "Portuguese"],
   },
+  {
+    name:'Flutter Tutorials for Beginners',
+    instructor: 'The Growing Developer',
+    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    image: '',
+    tags:['Flutter', 'Firebase','App development']
+}
 ];
