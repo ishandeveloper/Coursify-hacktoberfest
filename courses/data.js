@@ -54,5 +54,15 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
+  {
+    name: "Python Tutorial for Beginners",
+    instructor: "Codewithharry",
+    url:
+      "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
+    description:
+      "This is python tutorial for beginners in hindi",
+    image: "",
+    tags: ["Python", "Hindi"],
+  },
  
 ];
