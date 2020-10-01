@@ -93,4 +93,12 @@ let data = [
     image: "bradreactjs.jpg",
     tags: ["React JS", "Javascript", "webdev", "Brad Traversy", "Traversy Media"],
   },
+  {
+    name: "Flutter Firebase - The Full Coursee",
+    instructor: "Jeff Delaney",
+    url: "https://fireship.io/courses/flutter-firebase/",
+    description: "This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, runs animations, and shares data between screens.",
+    image: "",
+    tags: ["flutter", "firebase", "app"],
+  },
 ];
