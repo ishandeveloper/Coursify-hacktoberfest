@@ -47,5 +47,14 @@ let data = [
       "This is one of the best courses for students who are intersted in learing app development using React Native.",
     image: "Multiplatform-Mobile-App-Development-with-React-Native.png",
     tags: ["app-development", "React_Native"],
+  },
+  {
+    name: "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
+    instructor: "Edureka",
+    url: "https://www.youtube.com/watch?v=Q33KBiDriJY",
+    description:
+      "A well explained crash course on web development by Edureka",
+    image: "Web-Development.png",
+    tags: ["web-development", "Edureka"],
   }
 ];
