@@ -16,7 +16,7 @@ let data = [
   description:'A well designed course for beginners ',
   image: '',
   tags:['web development', 'Django']
-}
+},
   {
     name: "Intro To React",
     instructor: "Ishan Sharma",
@@ -107,11 +107,19 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
+    name: "Mini-curso de TypeScript",
+    instructor: "Willian Justen",
+    url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+    description: "This is a course for beginners about typescript",
+    image: "",
+    tags: ["javascript", "typescript", "web", "Portuguese"],
+  },
+  {
     name:'Flutter Tutorials for Beginners',
     instructor: 'The Growing Developer',
     url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
-    tags:['Flutter', 'Firebase','App development','Example apps']
+    tags:['Flutter', 'Firebase','App development']
 }
 ];
