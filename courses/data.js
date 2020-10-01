@@ -54,5 +54,12 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
- 
+  {
+    name: 'Front-End JavaScript Frameworks: Angular',
+    instructor: 'Jogesh K. Muppala, Associate Professor - THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY',
+    url:'https://www.coursera.org/learn/angular/home/welcome',
+    description:'This course concentrates mainly on Javascript based front-end frameworks, and in particular the Angular framework (Currently Ver. 6.x). This course will use Typescript for developing Angular application.',
+    image: 'https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/18/0505700a1611e7996331f6029a1fe7/angular.png?auto=format%2Ccompress&dpr=1',
+    tags:['Web', 'Typescript', 'Angular']
+  }
 ];
