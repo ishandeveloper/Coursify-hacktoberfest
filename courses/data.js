@@ -121,5 +121,13 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
+},
+{
+  name:'Flutter Tutorials for BeginnersThe Complete Web Developer in 2020: Zero to Mastery',
+  instructor: 'Andrei Neagoie',
+  url:'https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/',
+  description:`This is the tutorial you've been looking for to become a modern web developer in 2020 and 2021. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want.`,
+  image: '',
+  tags:['html', 'css','javascript', 'react', 'nodejs', 'web']
 }
 ];
