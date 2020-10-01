@@ -54,5 +54,12 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
- 
+  {
+    name: "Data Structures (in Python)",
+    instructor: "LucidProgramming",
+    url: "https://goo.gl/TdJpMi",
+    description: "get familiar with common data structures that are frequently tested on in coding interviews.",
+    image: "",
+    tags: ["data", "python", "stack", "queue", "linked list", "trees", "search"]
+  }
 ];
