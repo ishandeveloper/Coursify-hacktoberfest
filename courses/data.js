@@ -121,5 +121,13 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
+  },
+  {
+  name:'Neural Networks From Scratch',
+  instructor: 'Harrison Kinsley(sentdex)',
+  url:'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex',
+  description:'This Accompanies the neural networks from scratch book and as per its name, It aims to help you learn to build neural networks from scratch',
+  image: 'nnfs.png',
+  tags:['machine learning', 'ai','neural networks', 'deep learning']
+  }
 ];
