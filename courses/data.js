@@ -90,4 +90,20 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+    name:'The Odin Project',
+    instructor: 'The Odin Project',
+    url:'https://theodinproject.com/',
+    description:'The Odin Project is an amazing website which lets you get started with a bunch of web technologies, and it aims to make you become a full stack developer.',
+    image: '',
+    tags:['web', 'javascript', 'ruby', 'rails', 'database']
+  },
+  {
+    name:'The Modern Javascript Tutorial',
+    instructor:'Ilya Kantor',
+    url:'https://javascript.info/',
+    description:'javascript.info provides a tutorial on modern Javascript, it covers both the basics and the advanced concepts and it\'s simply perfect for beginners.',
+    image: '',
+    tags:['web', 'javascript']
+  }
 ];
