@@ -54,5 +54,13 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
+  {
+    name:'ReactJS / Redux Tutorial',
+    instructor: 'Maximilian Schwarzmuller',
+    url:'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
+    description:'Covers basic concept of reactjs',
+    image: '',
+    tags:['Web Development', 'ReactJS']
+  }
  
 ];
