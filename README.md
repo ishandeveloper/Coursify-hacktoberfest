@@ -93,7 +93,8 @@ Here are the steps to follow :
 
 If the above guide was tough for you to follow, you can follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
-That's it! You've succesfully created your first Pull Request and made your first contribution to the open source community!
+## That's it! 
+#### You've succesfully created your first Pull Request and made your first contribution to the open source community!
 
 I'll be merging your pull requests soon enough and you'll be able to see the changes live [here](http://ishandeveloper.com/Coursify-hacktoberfest/).
 
