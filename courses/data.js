@@ -38,16 +38,7 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
- 
-  {
-    name: "Multiplatform Mobile App Development with React Native",
-    instructor: "Jogesh K. Muppala",
-    url: "https://www.coursera.org/learn/react-native?",
-    description:
-      "This is one of the best courses for students who are intersted in learing app development using React Native.",
-    image: "Multiplatform-Mobile-App-Development-with-React-Native.png",
-    tags: ["app-development", "React_Native"],
-  },
+
   {
     name: "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
     instructor: "Edureka",
