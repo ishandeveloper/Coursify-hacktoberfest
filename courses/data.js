@@ -96,6 +96,6 @@ let data = [
     url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
     description: "This is a course for beginners about typescript",
     image: "",
-    tags: ["javascript", "typescript", "web"],
+    tags: ["javascript", "typescript", "web", "Portuguese", "Brazil"],
   },
 ];
