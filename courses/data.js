@@ -40,7 +40,8 @@ let data = [
     name: "Neural Networks and Deep Learning",
     instructor: "Andrew Ng",
     url: "https://www.coursera.org/learn/neural-networks-deep-learning",
-    description: "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
+    description:
+      "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
     image: "",
     tags: ["machine learning", "ai", "deep learning", "neural networks"],
   },
@@ -54,11 +55,12 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
-    {
+  {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
-    description: "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
+    description:
+      "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
     image: "",
     tags: ["react", "graphql", "typescript", "javascript"],
   },
@@ -66,10 +68,18 @@ let data = [
     name: "Data Structures (in Python)",
     instructor: "LucidProgramming",
     url: "https://goo.gl/TdJpMi",
-    description: "get familiar with common data structures that are frequently tested on in coding interviews.",
+    description:
+      "get familiar with common data structures that are frequently tested on in coding interviews.",
     image: "",
-    tags: ["python", "data structures",]
+    tags: ["python", "data structures"],
   },
-
-
+  {
+    name: "Web Development Using Flask and Python",
+    instructor: "CodeWithHarry",
+    url: "https://bit.ly/3n85AjH",
+    description:
+      "This course will assume only a little basic understanding of python programming language from you and will guide you on creating you own beautiful website.",
+    image: "",
+    tags: ["python", "flask"],
+  },
 ];
