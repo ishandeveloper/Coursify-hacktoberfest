@@ -83,4 +83,12 @@ let data = [
     image: "svelte-beginner.jpg",
     tags: ["Technology", "Framework", "javascript", "web", "svelte"],
   },
+  {
+  name:'Introduction To Python Programming',
+  instructor: 'Avinash Jain, TheCodex',
+  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
+  description:'A Quick and Easy Intro into Python Programming',
+  image: '',
+  tags:['python', 'oops']
+}
 ];
