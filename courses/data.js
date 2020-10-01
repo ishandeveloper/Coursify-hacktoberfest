@@ -90,4 +90,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+  name:'Big data and Hadoop Full Course',
+  instructor: 'EDUREKA',
+  url:'https://www.youtube.com/watch?v=1vbXmCrkT3Y',
+  description:'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
+  image: '',
+  tags:['Bigdata', 'Hadoop']
+},
 ];
