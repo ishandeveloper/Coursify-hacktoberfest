@@ -44,6 +44,6 @@ let data = [
     url: "https://www.coursera.org/learn/neural-networks-deep-learning",
     description: "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
     image: "",
-    tages: ["machine learning", "ai", "deep learning", "neural networks"]
+    tags: ["machine learning", "ai", "deep learning", "neural networks"],
   }
 ];
