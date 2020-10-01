@@ -90,4 +90,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+    name: "JavaScript: The Hard Parts, v2",
+    instructor:"Will Sentance",
+    url:"https://frontendmasters.com/courses/javascript-hard-parts-v2/",
+    image:"",
+    tags: ["javascript","functions","asynchronous"]
+
+  },
 ];
