@@ -55,8 +55,7 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
-
-    {
+   {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -90,5 +89,13 @@ let data = [
   description:'A Quick and Easy Intro into Python Programming',
   image: '',
   tags:['python', 'oops']
-}
+},
+{
+    name: "Flutter Firebase - The Full Coursee",
+    instructor: "Jeff Delaney",
+    url: "https://fireship.io/courses/flutter-firebase/",
+    description: "This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, runs animations, and shares data between screens.",
+    image: "",
+    tags: ["flutter", "firebase", "app"],
+  },
 ];
