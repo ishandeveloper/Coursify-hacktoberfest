@@ -38,4 +38,13 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+  {
+    name: "The Complete 2020 Web Development Bootcamp",
+    instructor: "Dr. Angela Yu",
+    url: "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+    description:
+      "This is one of the best courses for students who are intersted in learing full stack development",
+    image: "The-Complete-2020-Web-Development-Bootcamp.png",
+    tags: ["full-stack", "MERN"],
+  }
 ];
