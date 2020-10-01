@@ -127,7 +127,7 @@ let data = [
     instructor: 'Dr. Angela Yu',
     url:'https://www.udemy.com/course/flutter-bootcamp-with-dart/',
     description:'Officially created in collaboration with the Google Flutter team.',
-    image: 'https://img-b.udemycdn.com/course/240x135/2259120_305f_6.jpg?secure=Qpx9ILxcus0rSJAcSb61TA%3D%3D%2C1601647060',
+    image: '',
     tags:['Flutter', 'Firebase','App development','Cross-Platform','Google']
 },
   {
@@ -135,7 +135,7 @@ let data = [
     instructor: 'Stephen Grider',
     url:'https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/',
     description:'Everything you need to know for building mobile apps with Flutter and Dart, including RxDart and Animations!',
-    image: 'https://img-b.udemycdn.com/course/240x135/1736426_5cc3_3.jpg?secure=36J2zVe6z2V1yF16NVrF2g%3D%3D%2C1601646064',
+    image: '',
     tags:['Flutter', 'RxDart','App development','Cross-Platform','Animations']
 }
 ];
