@@ -123,11 +123,11 @@ let data = [
     tags:['Flutter', 'Firebase','App development']
 },
 {
-  name:'Flutter Tutorials for BeginnersThe Complete Web Developer in 2020: Zero to Mastery',
-  instructor: 'Andrei Neagoie',
-  url:'https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/',
-  description:`This is the tutorial you've been looking for to become a modern web developer in 2020 and 2021. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want.`,
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
   image: '',
-  tags:['html', 'css','javascript', 'react', 'nodejs', 'web']
+  tags:[ 'javascript', 'web']
 }
 ];
