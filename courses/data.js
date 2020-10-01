@@ -28,7 +28,6 @@ let data = [
     image: "",
     tags: ["flutter", "app"],
   },
-
   {
     name: "Intro To Linux",
     instructor: "Ishan Sharma",
@@ -37,5 +36,14 @@ let data = [
       "One of the most important tools for a programmer is the Operating System, it runs your whole device and it’s important to choose the one that suits you the best!",
     image: "intro-linux.png",
     tags: ["linux", "bash"],
+  },
+  {
+    name: "Angular - The Complete Guide",
+    instructor: "Maximilian Schwarzmüller",
+    url: "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+    description:
+      "One of the best courses on angular.It helps you start from scratch and end up in a very good Angular developer",
+    image: "angular.png",
+    tags: ["angular", "typescript", "javascript"],
   },
 ];
