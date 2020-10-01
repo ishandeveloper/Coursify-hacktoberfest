@@ -38,4 +38,13 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+  {
+    name: "React Native - The Practical Guide [2020 Edition]",
+    instructor: "Maximilian Schwarzmuller",
+    url: "https://www.udemy.com/course/react-native-the-practical-guide/",
+    description:
+      "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+    image: "",
+    tags: ["react-native", "javascript"],
+  },
 ];
