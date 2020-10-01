@@ -40,7 +40,8 @@ let data = [
     name: "Neural Networks and Deep Learning",
     instructor: "Andrew Ng",
     url: "https://www.coursera.org/learn/neural-networks-deep-learning",
-    description: "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
+    description:
+      "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
     image: "",
     tags: ["machine learning", "ai", "deep learning", "neural networks"],
   },
@@ -66,9 +67,28 @@ let data = [
     name: "Data Structures (in Python)",
     instructor: "LucidProgramming",
     url: "https://goo.gl/TdJpMi",
-    description: "get familiar with common data structures that are frequently tested on in coding interviews.",
+    description:
+      "get familiar with common data structures that are frequently tested on in coding interviews.",
     image: "",
-    tags: ["python", "data structures",]
+    tags: ["python", "data structures"],
+  },
+  {
+    name: "Svelte Tutorial for Beginners",
+    instructor: "NetNinja",
+    url:
+      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+    description:
+      "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
+    image: "svelte-beginner.jpg",
+    tags: ["Technology", "Framework", "javascript", "web", "svelte"],
+  },
+  {
+    name: "Flutter Firebase - The Full Coursee",
+    instructor: "Jeff Delaney",
+    url: "https://fireship.io/courses/flutter-firebase/",
+    description: "This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, runs animations, and shares data between screens.",
+    image: "",
+    tags: ["flutter", "firebase", "app"],
   },
   {
     name: "Javascript Course",
