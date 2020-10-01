@@ -70,6 +70,14 @@ let data = [
     image: "",
     tags: ["python", "data structures",]
   },
+  {
+    name: "Adobe XD Tutorials",
+    instructor: "DesignCourse",
+    url: "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
+    description: "A great resource to get started with UI/UX Design using Adobe XD",
+    image: "",
+    tags: ["Adobe XD", "UI/UX"]
+  },
 
 
 ];
