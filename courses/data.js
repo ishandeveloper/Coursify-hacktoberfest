@@ -54,5 +54,12 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
- 
+  {
+    name: "Fullstack React GraphQL TypeScript Tutorial",
+    instructor: "Ben Awad",
+    url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
+    description: "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
+    image: "",
+    tags: ["react", "nextjs", "nodejs", "graphql", "typescript", "javascript"],
+  },
 ];
