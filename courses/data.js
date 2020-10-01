@@ -90,4 +90,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+    name: "Mini-curso de TypeScript",
+    instructor: "Willian Justen",
+    url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+    description: "This is a course for beginners about typescript",
+    image: "",
+    tags: ["javascript", "typescript", "web"],
+  },
 ];
