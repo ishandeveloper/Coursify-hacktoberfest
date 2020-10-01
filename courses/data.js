@@ -63,6 +63,14 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
+ {
+ 	name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
+ 	instructor: "Katacoda",
+ 	url: "https://www.katacoda.com/courses/docker",
+ 	description: "If you are beginner with docker and containers take this Browser-Based Interactive course and improve your skills in docker and build your own docker and containers",
+ 	image: "",
+ 	tags: ["docker", "containers"]
+ },
   {
     name: "Python Tutorial for Beginners",
     instructor: "Codewithharry",
