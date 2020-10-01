@@ -91,7 +91,7 @@ let data = [
     description:
       "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
     image: "bradreactjs.jpg",
-    tags: ["React JS", "Javascript", "webdev", "Brad Traversy", "Traversy Media"],
+    tags: ["React JS", "Javascript", "react", "Brad Traversy", "Traversy Media"],
   },
   {
     name: "Flutter Firebase - The Full Coursee",
