@@ -54,5 +54,15 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
+  {
+    name: "Automate the Boring Stuff with Python",
+    instructor: "Al Sweigart",
+    url:
+      "https://automatetheboringstuff.com",
+    description:
+      "In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required.",
+    image: "",
+    tags: ["python", "automation"],
+  },
  
 ];
