@@ -98,4 +98,12 @@ let data = [
     image: "",
     tags: ["flutter", "firebase", "app"],
   },
+  {
+    name:'Small parts of web design in video tutorials',
+    instructor: 'Kashyap Kumar',
+    url:'https://www.youtube.com/c/CodingOmega',
+    description:'This is a youtube channel which focuses on making or designing the simple and small parts of web. You can find a lot of video tutorials here.',
+    image: '',
+    tags:['web design', 'website', 'CodingOmega', 'html', 'css', 'javascript']
+  }
 ];
