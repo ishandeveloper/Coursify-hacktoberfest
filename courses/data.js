@@ -80,6 +80,6 @@ let data = [
     description:
       "This course will assume only a little basic understanding of python programming language from you and will guide you on creating you own beautiful website.",
     image: "",
-    tags: ["python", "flask"],
+    tags: ["Python", "Flask"],
   },
 ];
