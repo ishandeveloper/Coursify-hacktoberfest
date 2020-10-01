@@ -10,13 +10,13 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
-  name:'Djano Tutorial',
-  instructor: 'Django Girls',
-  url:'https://tutorial.djangogirls.org/en/',
-  description:'A well designed course for beginners ',
-  image: '',
-  tags:['web development', 'Django']
-},
+    name: 'Djano Tutorial',
+    instructor: 'Django Girls',
+    url: 'https://tutorial.djangogirls.org/en/',
+    description: 'A well designed course for beginners ',
+    image: '',
+    tags: ['web development', 'Django']
+  },
   {
     name: "Intro To React",
     instructor: "Ishan Sharma",
@@ -63,7 +63,7 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
-   {
+  {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -91,14 +91,14 @@ let data = [
     tags: ["Technology", "Framework", "javascript", "web", "svelte"],
   },
   {
-  name:'Introduction To Python Programming',
-  instructor: 'Avinash Jain, TheCodex',
-  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
-  description:'A Quick and Easy Intro into Python Programming',
-  image: '',
-  tags:['python', 'oops']
-},
-{
+    name: 'Introduction To Python Programming',
+    instructor: 'Avinash Jain, TheCodex',
+    url: 'https://www.udemy.com/course/pythonforbeginnersintro/',
+    description: 'A Quick and Easy Intro into Python Programming',
+    image: '',
+    tags: ['python', 'oops']
+  },
+  {
     name: "Flutter Firebase - The Full Coursee",
     instructor: "Jeff Delaney",
     url: "https://fireship.io/courses/flutter-firebase/",
@@ -115,11 +115,19 @@ let data = [
     tags: ["javascript", "typescript", "web", "Portuguese"],
   },
   {
-    name:'Flutter Tutorials for Beginners',
+    name: 'Flutter Tutorials for Beginners',
     instructor: 'The Growing Developer',
-    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
-    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    url: 'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description: 'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
-    tags:['Flutter', 'Firebase','App development']
-}
+    tags: ['Flutter', 'Firebase', 'App development']
+  },
+  {
+    name: "The Cherno C++ Playlist",
+    instructor: "Yan Chernikov",
+    url: "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+    description: "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
+    image: "https://i.ytimg.com/vi/18c3MTX0PK0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCawSHrTGlzkfBmI3Z78g9G4nNTsg",
+    tags: ["C++", "Technology", "C", "Cpp"],
+  },
 ];
