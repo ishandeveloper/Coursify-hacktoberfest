@@ -121,5 +121,13 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
+  },
+  {
+    name:'Android Development Basics',
+    instructor: 'Anuj Kumar Sharma',
+    url:'https://www.youtube.com/watch?v=mndwTFO9glI&list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb',
+    description:'A beginner friendly course to get started with Android App Development',
+    image: '',
+    tags:['Java', 'Kotlin', 'Android', 'App']
+  }
 ];
