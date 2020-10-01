@@ -98,6 +98,16 @@ If the above guide was tough for you to follow, you can follow the instructions 
 
 I'll be merging your pull requests soon enough and you'll be able to see the changes live [here](http://ishandeveloper.com/Coursify-hacktoberfest/).
 
+### Making Styling Changes
+
+This project uses SASS/SCSS syntax for styling.
+
+1. Make all styling changes inside of `assets/main.scss` - do not edit `assets/main.css` directly.
+2. To see/save your changes, install SASS for the command line: `npm i -g sass`
+3. Run the SASS compile command from the project root: `sass assets/main.scss assets/main.css`
+4. Confirm your changes on the client and in `assets/main.css`
+5. Commit all of the following files: `assets/main.scss`, `assets/main.css` and `assets/main.css.map`
+
 ##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
