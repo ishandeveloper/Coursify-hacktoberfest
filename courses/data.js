@@ -18,7 +18,6 @@ let data = [
     image: "intro-react.png",
     tags: ["react", "javascript", "web"],
   },
-
   {
     name: "Flutter Complete Course",
     instructor: "Pawan Kumar",
@@ -28,7 +27,6 @@ let data = [
     image: "",
     tags: ["flutter", "app"],
   },
-
   {
     name: "Intro To Linux",
     instructor: "Ishan Sharma",
@@ -38,6 +36,7 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+<<<<<<< HEAD
   {
     name:'Testing and Debugging in Machine Learning',
     instructor: 'Google Developers',
@@ -46,4 +45,6 @@ let data = [
     image: '',
     tags:['Machine Learning', 'Debugging']
   },
+=======
+>>>>>>> 73684f5f0ea78e6c8427e4cfba4d390cd62c4ceb
 ];
