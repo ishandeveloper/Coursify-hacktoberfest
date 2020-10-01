@@ -121,5 +121,14 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
+},
+	{
+	    name:'Tensorflow Specialization',
+	    instructor: 'Laurence Moroney, Andrew Ng',
+	    url:'https://www.coursera.org/professional-certificates/tensorflow-in-practice',
+	    description:'This 4 course series is meant to master deep learning using Tensorflow. Curated by deeplearning.ai with courses on Neural Networks and Time Series.',
+	    image: '',
+	    tags:['Tensorflow', 'Deep Learning','Neural Networks', 'Time Series']
+	}
+
 ];
