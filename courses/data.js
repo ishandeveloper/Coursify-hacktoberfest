@@ -115,6 +115,14 @@ let data = [
     tags: ["javascript", "typescript", "web", "Portuguese"],
   },
   {
+    name: "Intro to 3D Game Development",
+    instructor: "Unite Boston Unity Team",
+    url: "https://learn.unity.com/project/tanks-tutorial",
+    description: "This is a course for beginners to create a basic 3d game",
+    image: "",
+    tags: ["GameDev", "C#", "English", "Unity"],
+  },
+  {
     name:'Flutter Tutorials for Beginners',
     instructor: 'The Growing Developer',
     url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
