@@ -54,12 +54,5 @@ let data = [
     image: 'svelte-beginner.jpg',
     tags:['Technology', 'Framework',"javascript", "web","svelte"]
   },
-  {
-    name:'Fullstack React GraphQL TypeScript Tutorial',
-    instructor: 'Ben Awad',
-    url:'https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=31282s',
-    description: "A fullstack project course that teaches you how to build a backend and frontend from scratch then deploy it. ",
-    image: ' ',
-    tags:['Technology', 'Framework',"javascript", "web","react",'graphql','typescript','PostgreSQL']
-  },
+  
 ];
