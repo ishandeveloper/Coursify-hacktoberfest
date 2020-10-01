@@ -121,5 +121,13 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
+  },
+  {
+    name: "Learn Spring Framework in 4 Hours",
+    instructor: "Edureka",
+    url: "https://www.youtube.com/watch?v=VvGjZgqojMc",
+    description: "This Edureka Spring Full Course video will help you learn Spring Framework from scratch with examples. This Spring Tutorial is ideal for both beginners as well as professionals who want to master the Spring Framework",
+    image: "",
+    tags: ["Java", "web"],
+  }
 ];
