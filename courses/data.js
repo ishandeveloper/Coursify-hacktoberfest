@@ -54,5 +54,13 @@ let data = [
     image: "",
     tags: ["react-native", "javascript"],
   },
- 
+  {
+    name: "Learn Flutter - Beginners Course",
+    instructor: "Mayuresh Wankhede",
+    url: "https://www.udemy.com/course/learn-flutter-beginners-course/",
+    description:
+      "Build Android and iOS apps with a flutter framework .",
+    image: "",
+    tags: ["flutter", "app"],
+  },
 ];
