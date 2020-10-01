@@ -45,5 +45,21 @@ let data = [
     description: "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
     image: "",
     tags: ["machine learning", "ai", "deep learning", "neural networks"],
-  }
+  },
+  {
+    name:'Svelte Tutorial for Beginners',
+    instructor: 'NetNinja',
+    url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO',
+    description: "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
+    image: 'svelte-beginner.jpg',
+    tags:['Technology', 'Framework',"javascript", "web","svelte"]
+  },
+  {
+    name:'Fullstack React GraphQL TypeScript Tutorial',
+    instructor: 'Ben Awad',
+    url:'https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=31282s',
+    description: "A fullstack project course that teaches you how to build a backend and frontend from scratch then deploy it. ",
+    image: '',
+    tags:['Technology', 'Framework',"javascript", "web","react",'graphql','typescript','PostgreSQL']
+  },
 ];
