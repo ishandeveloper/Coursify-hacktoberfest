@@ -44,6 +44,16 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+
+  {
+    name: "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
+    instructor: "Edureka",
+    url: "https://www.youtube.com/watch?v=Q33KBiDriJY",
+    description:
+      "A well explained crash course on web development by Edureka",
+    image: "Web-Development.png",
+    tags: ["web-development", "Edureka"],
+  },
   {
     name: "Neural Networks and Deep Learning",
     instructor: "Andrew Ng",
@@ -141,7 +151,7 @@ let data = [
     description:
       "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
     image: "svelte-beginner.jpg",
-    tags: ["Technology", "Framework", "javascript", "web", "svelte"],
+    tags: ["javascript", "web", "svelte"],
   },
   {
     name: "React JS Crash Course",
@@ -151,7 +161,7 @@ let data = [
     description:
       "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
     image: "bradreactjs.jpg",
-    tags: ["React JS", "Javascript", "react", "Brad Traversy", "Traversy Media"],
+    tags: ["Javascript", "react" ],
   },
  {
   name:'Introduction To Python Programming',
@@ -207,6 +217,6 @@ let data = [
   url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
   description:'Intro to DS and Algo',
   image: '',
-  tags:['Technology', 'Java']
+  tags:['Data Structures', 'Java']
 }
 ];
