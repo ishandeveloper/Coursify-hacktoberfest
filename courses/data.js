@@ -117,6 +117,16 @@ let data = [
     tags: ["Technology", "Framework", "javascript", "web", "svelte"],
   },
   {
+    name: "React JS Crash Course",
+    instructor: "Brad Traversy",
+    url:
+      "https://youtu.be/sBws8MSXN7A",
+    description:
+      "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
+    image: "bradreactjs.jpg",
+    tags: ["React JS", "Javascript", "react", "Brad Traversy", "Traversy Media"],
+  },
+ {
   name:'Introduction To Python Programming',
   instructor: 'Avinash Jain, TheCodex',
   url:'https://www.udemy.com/course/pythonforbeginnersintro/',
