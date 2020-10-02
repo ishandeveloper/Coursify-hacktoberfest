@@ -301,6 +301,13 @@ let data = [
   tags:['flutter', 'dart', 'dev']
 },
 {
+  name: "React Native Crash Course 2020",
+  instructor: "Brad Traversy",
+  url:"https://www.youtube.com/watch?v=Hf4MJH0jDb4",
+  description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
+  image: "",
+  tags: ["Javascript", "react", "react native" ],
+},{
   name:'Flutter Tutorial for Beginners',
   instructor: 'Net ninja',
   url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
