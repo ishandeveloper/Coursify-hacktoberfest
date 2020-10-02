@@ -244,6 +244,14 @@ let data = [
     tags:['Flutter', 'Firebase','App development']
   },
   {
+    name: "Learn Spring Framework in 4 Hours",
+    instructor: "Edureka",
+    url: "https://www.youtube.com/watch?v=VvGjZgqojMc",
+    description: "This Edureka Spring Full Course video will help you learn Spring Framework from scratch with examples. This Spring Tutorial is ideal for both beginners as well as professionals who want to master the Spring Framework",
+    image: "",
+    tags: ["Java", "web"],
+  },
+  {
   name:'Neural Networks From Scratch',
   instructor: 'Harrison Kinsley(sentdex)',
   url:'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex',
