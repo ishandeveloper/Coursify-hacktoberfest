@@ -44,6 +44,16 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+
+  {
+    name: "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
+    instructor: "Edureka",
+    url: "https://www.youtube.com/watch?v=Q33KBiDriJY",
+    description:
+      "A well explained crash course on web development by Edureka",
+    image: "Web-Development.png",
+    tags: ["web-development", "Edureka"],
+  },
   {
     name: "Neural Networks and Deep Learning",
     instructor: "Andrew Ng",
@@ -141,7 +151,7 @@ let data = [
     description:
       "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
     image: "svelte-beginner.jpg",
-    tags: ["Technology", "Framework", "javascript", "web", "svelte"],
+    tags: ["javascript", "web", "svelte"],
   },
   {
     name: "React JS Crash Course",
@@ -151,7 +161,15 @@ let data = [
     description:
       "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
     image: "bradreactjs.jpg",
-    tags: ["React JS", "Javascript", "react", "Brad Traversy", "Traversy Media"],
+    tags: ["Javascript", "react" ],
+  },
+  {
+    name: "That Weird JavaScript Course",
+    instructor: "Fireship.io",
+    url: "https://fireship.io/courses/javascript/",
+    description: "That Weird JavaScript Course takes a unique approach towards teaching fundamental programming concepts. Not only will you learn practical techniques for building apps, but you will also gain knowledge about the history, science, and culture that surrounds the world’s most widely-used programming language.",
+    image: "that-weird-javascript-course.png",
+    tags: ["javascript", "nodejs",]
   },
  {
   name:'Introduction To Python Programming',
@@ -168,6 +186,29 @@ let data = [
     description: "This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, runs animations, and shares data between screens.",
     image: "",
     tags: ["flutter", "firebase", "app"],
+  },
+  {
+    name:'Single Page Web Applications with AngularJS',
+    instructor: 'Yaakov Chaikin',
+    url:'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
+    description:'In this course, we will explore the core design of AngularJS 1.x (latest version of AngularJS 1), its components and code organization techniques. Consider joining this course to gain skills in one of the most popular Single Page Application (SPA) frameworks today, AngularJS. At the end of this course, you will build a fully functional, well organized and tested web application using AngularJS and deploy it to the cloud.',
+    image: '',
+    tags:['Web development', 'AngularJS 1.x']
+  },
+  {
+  name:'Big data and Hadoop Full Course',
+  instructor: 'EDUREKA',
+  url:'https://www.youtube.com/watch?v=1vbXmCrkT3Y',
+  description:'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
+  image: '',
+  tags:['Bigdata', 'Hadoop']
+},{
+    name: "Javascript Course",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
+    description: "A new javascript course designed, created and recorded fresh in 2020. This course will give you a fantastic start for your javascript journey. After this course you can move to reactjs, AngularJS, nodeJS and many other such JS libraries and framework.",
+    image: "js-course.png",
+    tags: ["javascript", "Web"],
   },
   {
     name: "Mini-curso de TypeScript",
@@ -201,4 +242,20 @@ let data = [
   image: "",
   tags: ["Angular", "typescript", "javascript"],
 },
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+}
 ];
