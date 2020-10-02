@@ -155,5 +155,13 @@ let data = [
   description:`javascript algorithms and data structures certification`,
   image: '',
   tags:[ 'javascript', 'web']
+},
+{
+  name:'Curso de JavaScript e ECMAScript para iniciantes',
+  instructor: 'Gustavo Guanabara',
+  url:'https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1',
+  description:'Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS.',
+  image: '',
+  tags:['JavaScript', 'Web', 'Front-end']
 }
 ];
