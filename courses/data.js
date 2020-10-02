@@ -309,5 +309,12 @@ let data = [{
     description: "The series Javascript tutorial for beginners will keep on continuing from beginner level to advance ",
     image: "",
     tags: ["javascript", "Web Development"],
+  }, {
+    name: "Learn Dart: First Step to Flutter",
+    instructor: "Educative",
+    url: "https://www.educative.io/courses/learn-dart-first-step-to-flutter",
+    description: "TThis course will help you learn the fundamentals of Dart, and get you started on your journey to learning Flutter. Start learning today. ",
+    image: "",
+    tags: ["Flutter", "Dart", "App Development"],
   }
 ];
