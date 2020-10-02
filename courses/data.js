@@ -127,6 +127,14 @@ let data = [
     tags: ["python", "data structures"],
   },
   {
+    name: "Machine learning Tutorial",
+    instructor: "State Quest with Josh Starmer",
+    url: "https://www.youtube.com/c/joshstarmer/playlists",
+    description: "One of the best considered Machine Learning course with detailed explaination. Highly Recommended for beginners in the field of machine Learnin",
+    image: "",
+    tags: ["Machine Learning", "Statistics"],
+  },
+  {
     name: "Web Development Using Flask and Python",
     instructor: "CodeWithHarry",
     url: "https://bit.ly/3n85AjH",
@@ -188,6 +196,14 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
+    name: "Machine Learning",
+    instructor: "Andrew Ng",
+    url: "https://www.coursera.org/learn/machine-learning",
+    description: "Machine learning is the science of getting computers to act without being explicitly programmed.This course provided by Stanford University provides a broad introduction to machine learning, datamining, and statistical pattern recognition. ",
+    image: "courses/images/AndrewNg.jpg",
+    tags: ["Machine Learning", "Artificial Neural Network", "Logistic Regression","Machine Learning Algorithms"],
+  },
+  {
     name:'Single Page Web Applications with AngularJS',
     instructor: 'Yaakov Chaikin',
     url:'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
@@ -202,7 +218,8 @@ let data = [
   description:'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
   image: '',
   tags:['Bigdata', 'Hadoop']
-},{
+},
+  {
     name: "Javascript Course",
     instructor: "Hitesh Choudhary",
     url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
@@ -225,8 +242,33 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
+  },
+  {
+  name:'Neural Networks From Scratch',
+  instructor: 'Harrison Kinsley(sentdex)',
+  url:'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex',
+  description:'This Accompanies the neural networks from scratch book and as per its name, It aims to help you learn to build neural networks from scratch',
+  image: 'nnfs.png',
+  tags:['machine learning', 'ai','neural networks', 'deep learning']
+  }
+,
+  {
+    name: "A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial",
+    instructor: "Dev Ed",
+    url: "https://www.youtube.com/watch?v=vjf774RKrLc&t=686s",
+    description: "If you are a beginner with nodejs, express or mongodb ,this tutorial will give you a good idea of how these technologies work well together.",
+    image: "",
+    tags: ["javascript", "nodejs", "express", "MongoDB"],
 },
 {
+  name:'Ethical Hacking using Python',
+  instructor: 'Alexis Ahmed',
+  url:'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+  description:'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+  image: '',
+  tags:['Python', 'Hacking','Scripting','Beginner to Advanced']
+},
+  {
   name:'Introduction to JavaScript',
   instructor: 'freeCodeCamp',
   url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
@@ -265,5 +307,20 @@ let data = [
   description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
   image: "",
   tags: ["Javascript", "react", "react native" ],
+},{
+  name:'Flutter Tutorial for Beginners',
+  instructor: 'Net ninja',
+  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
+  description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
+  image: '',
+  tags:['flutter', 'App development']
 },
+{
+  name:'Clustering Data in Google Maps and React',
+  instructor: 'Leigh Halliday',
+  url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
+  description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
+  image: '',
+  tags:['React', 'Javascript','Google Maps API']
+}
 ];
