@@ -102,7 +102,8 @@ let data = [
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
-    description: "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
+    description:
+      "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
     image: "",
     tags: ["react", "graphql", "typescript", "javascript"],
   },
@@ -114,6 +115,15 @@ let data = [
       "get familiar with common data structures that are frequently tested on in coding interviews.",
     image: "",
     tags: ["python", "data structures"],
+  },
+  {
+    name: "Web Development Using Flask and Python",
+    instructor: "CodeWithHarry",
+    url: "https://bit.ly/3n85AjH",
+    description:
+      "This course will assume only a little basic understanding of python programming language from you and will guide you on creating you own beautiful website.",
+    image: "",
+    tags: ["Python", "Flask"],
   },
   {
     name: "Adobe XD Tutorials",
