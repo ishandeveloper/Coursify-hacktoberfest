@@ -257,5 +257,13 @@ let data = [
   description:'Intro to Flutter and Dart, Building over 8 fully-fledged apps',
   image: "flutter-dart.png",
   tags:['Flutter', 'Dart','App development'],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
 }
 ];
