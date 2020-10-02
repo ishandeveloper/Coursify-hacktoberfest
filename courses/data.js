@@ -121,7 +121,7 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
+},
   {
     name: "A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial",
     instructor: "Dev Ed",
