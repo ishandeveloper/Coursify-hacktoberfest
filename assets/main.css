@@ -35,7 +35,7 @@ body {
   height: 60px;
 }
 
-.main__navbar a {
+.main__navbar .github {
   background: #9c4668;
   padding: 0.25rem 1.5rem;
   border-radius: 50px;
@@ -45,26 +45,26 @@ body {
   transition: all ease-in-out 250ms;
 }
 
-.main__navbar a h4 {
+.main__navbar .github h4 {
   font-size: 1.1em;
   font-weight: 500;
 }
 
-.main__navbar a h4:before {
+.main__navbar .github h4:before {
   content: "Contribute on ";
 }
 
 @media screen and (max-width: 720px) {
-  .main__navbar a h4:before {
+  .main__navbar .github h4:before {
     content: "";
   }
 }
 
-.main__navbar a h4 i {
+.main__navbar .github h4 i {
   margin-left: 0.2rem;
 }
 
-.main__navbar a:hover {
+.main__navbar .github:hover {
   padding: 0.25rem 1.75rem;
   font-size: 1.1em;
   background: #444444;
