@@ -322,5 +322,13 @@ let data = [
   description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
   image: '',
   tags:['React', 'Javascript','Google Maps API']
+},
+{
+    name:'Windows Command Line Tutorials',
+    instructor: 'Bucky Roberts - thenewboston ',
+    url:'https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu',
+    description:'Learn basics of Command Prompt with a series of short videos',
+    image: '',
+    tags:['Command Prompt', 'Basics']
 }
 ];
