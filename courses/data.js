@@ -121,8 +121,8 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-}
-{
+  },
+   {
   name:'Flutter Tutorial for Beginners',
   instructor: 'Net ninja',
   url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
