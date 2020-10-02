@@ -145,6 +145,7 @@ body {
 }
 
 .courses__wrapper {
+  position: relative;
   padding: 5em 5em;
   overflow-x: hidden;
 }
@@ -274,5 +275,47 @@ body {
 .courses__wrapper .courses__list .courses__card .course__call_to_action:hover {
   background: #9c4668;
   color: white;
+}
+
+.courses__wrapper .pagination {
+  margin: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.courses__wrapper .pagination a {
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 5px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+
+.courses__wrapper .pagination a.active {
+  background-color: #9c4668;
+  color: white;
+}
+
+.courses__wrapper .pagination a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+.filter__message {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  margin-bottom: 25px;
+}
+
+.filter__message--tagname {
+  text-decoration: underline;
 }
 /*# sourceMappingURL=main.css.map */
