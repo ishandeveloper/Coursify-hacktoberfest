@@ -2,8 +2,10 @@ let data = [
   {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
-    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
-    description: "A step by step walk-through what Node JS is, and how it all works. We'll also be creating a Node JS application from scratch using express, and hook it up to MongoDB - a noSQL database perfect for using with Node.",
+    url:
+      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+    description:
+      "A step by step walk-through what Node JS is, and how it all works. We'll also be creating a Node JS application from scratch using express, and hook it up to MongoDB - a noSQL database perfect for using with Node.",
     image: "",
     tags: ["nodejs", "javascript", "web"],
   },
@@ -110,7 +112,8 @@ let data = [
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
-    description: "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
+    description:
+      "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
     image: "",
     tags: ["react", "graphql", "typescript", "javascript"],
   },
@@ -193,7 +196,6 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
-<<<<<<< HEAD
     name: "Machine Learning",
     instructor: "Andrew Ng",
     url: "https://www.coursera.org/learn/machine-learning",
@@ -202,13 +204,10 @@ let data = [
     tags: ["Machine Learning", "Artificial Neural Network", "Logistic Regression", "Machine Learning Algorithms"],
   },
   {
-=======
->>>>>>> 597fa214c5a43d049fa24b5926378c2fead013b6
     name: 'Single Page Web Applications with AngularJS',
     instructor: 'Yaakov Chaikin',
     url: 'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
     description: 'In this course, we will explore the core design of AngularJS 1.x (latest version of AngularJS 1), its components and code organization techniques. Consider joining this course to gain skills in one of the most popular Single Page Application (SPA) frameworks today, AngularJS. At the end of this course, you will build a fully functional, well organized and tested web application using AngularJS and deploy it to the cloud.',
-<<<<<<< HEAD
     image: '',
     tags: ['Web development', 'AngularJS 1.x']
   },
@@ -221,19 +220,6 @@ let data = [
     tags: ['Bigdata', 'Hadoop']
   },
   {
-=======
-    image: '',
-    tags: ['Web development', 'AngularJS 1.x']
-  },
-  {
-    name: 'Big data and Hadoop Full Course',
-    instructor: 'EDUREKA',
-    url: 'https://www.youtube.com/watch?v=1vbXmCrkT3Y',
-    description: 'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
-    image: '',
-    tags: ['Bigdata', 'Hadoop']
-  }, {
->>>>>>> 597fa214c5a43d049fa24b5926378c2fead013b6
     name: "Javascript Course",
     instructor: "Hitesh Choudhary",
     url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
@@ -254,7 +240,6 @@ let data = [
     instructor: 'The Growing Developer',
     url: 'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
     description: 'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
-<<<<<<< HEAD
     image: '',
     tags: ['Flutter', 'Firebase', 'App development']
   },
@@ -289,17 +274,6 @@ let data = [
     url: 'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
     description: `javascript algorithms and data structures certification`,
     image: '',
-=======
-    image: '',
-    tags: ['Flutter', 'Firebase', 'App development']
-  },
-  {
-    name: 'Introduction to JavaScript',
-    instructor: 'freeCodeCamp',
-    url: 'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
-    description: `javascript algorithms and data structures certification`,
-    image: '',
->>>>>>> 597fa214c5a43d049fa24b5926378c2fead013b6
     tags: ['javascript', 'web']
   },
   {
@@ -327,7 +301,6 @@ let data = [
     tags: ['flutter', 'dart', 'dev']
   },
   {
-<<<<<<< HEAD
     name: "React Native Crash Course 2020",
     instructor: "Brad Traversy",
     url: "https://www.youtube.com/watch?v=Hf4MJH0jDb4",
@@ -352,25 +325,12 @@ let data = [
   },
   {
 
-=======
->>>>>>> 597fa214c5a43d049fa24b5926378c2fead013b6
     name: 'Algorithms',
     instructor: 'Abdul Bari',
     url: 'https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw',
     description: 'Much Needed Course for Algorithms',
     image: 'abdulbari.jpg',
     tags: ['C++', 'Algorithms', 'Data Structure']
-<<<<<<< HEAD
 
-=======
-  },
-  {
-    name: 'Python Tutorial',
-    instructor: 'Corey Schafer',
-    url: 'https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU',
-    description: 'An in-depth look at the Python programming language. Learn about Python development, tips and tricks, walkthroughs, and best practices.',
-    image: 'corey.jpg',
-    tags: ['Python', 'Flask', 'Django']
->>>>>>> 597fa214c5a43d049fa24b5926378c2fead013b6
   }
 ];
