@@ -155,5 +155,13 @@ let data = [
   description:`javascript algorithms and data structures certification`,
   image: '',
   tags:[ 'javascript', 'web']
+},
+{
+  name:"CS50's Introduction to Computer Science",
+  instructor: 'David and team',
+  url:'https://www.edx.org/course/cs50s-introduction-to-computer-science',
+  description:`jAn introduction to the intellectual enterprises of computer science and the art of programming.`,
+  image: '',
+  tags:[ 'programming', 'computer science', 'coding']
 }
 ];
