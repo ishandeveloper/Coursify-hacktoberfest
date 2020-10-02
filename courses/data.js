@@ -299,4 +299,12 @@ let data = [
   image: '',
   tags:['flutter', 'App development']
 }
+{
+  name:'Clustering Data in Google Maps and React',
+  instructor: 'Leigh Halliday',
+  url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
+  description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
+  image: '',
+  tags:['React', 'Javascript','Google Maps API']
+}
 ];
