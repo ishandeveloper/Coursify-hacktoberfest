@@ -188,6 +188,14 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
+    name: "Javascript Course",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
+    description: "A new javascript course designed, created and recorded fresh in 2020. This course will give you a fantastic start for your javascript journey. After this course you can move to reactjs, AngularJS, nodeJS and many other such JS libraries and framework.",
+    image: "js-course.png",
+    tags: ["javascript", "Web"],
+  },
+  {
     name: "Mini-curso de TypeScript",
     instructor: "Willian Justen",
     url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
