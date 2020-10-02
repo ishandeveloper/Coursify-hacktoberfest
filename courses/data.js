@@ -163,5 +163,13 @@ let data = [
   description:'Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS.',
   image: '',
   tags:['JavaScript', 'Web', 'Front-end']
+},
+{
+  name:'Curso de Python 3 - Mundo 1: Fundamentos',
+  instructor: 'Gustavo Guanabara',
+  url:'https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6',
+  description:'1º de 3 Mundos lançados! Fácil de aprender, com código limpo e organizado, Python vem ganhando cada vez mais espaço, e chegou a sua hora de aprender.',
+  image: '',
+  tags:['Python', 'Back-end']
 }
 ];
