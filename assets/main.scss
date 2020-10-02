@@ -115,6 +115,7 @@ body {
 }
 
 .courses__wrapper {
+  position: relative;
   padding: 5em 5em;
   overflow-x: hidden;
 
@@ -211,5 +212,16 @@ body {
         }
       }
     }
+  }
+}
+
+.filter__message {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  margin-bottom: 25px;
+
+  &--tagname {
+    text-decoration: underline;
   }
 }
