@@ -258,5 +258,4 @@ let data = [
   image: 'goelvaibhav009.png',
   tags:['flutter', 'dart', 'dev']
 }
-
 ];
