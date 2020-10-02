@@ -95,7 +95,7 @@ let data = [
     instructor:"Will Sentance",
     url:"https://frontendmasters.com/courses/javascript-hard-parts-v2/",
     image:"",
-    tags: ["javascript","functions","asynchronous"]
+    tags: ["javascript","functions","asynchronous"],
 
   },
 ];
