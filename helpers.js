@@ -6,12 +6,12 @@
  * @param {String} url 
  */
 function getParameterByName(paramName, url = window.location.href) {
-  const strippedParam = paramName.replace(/[\[\]]/g, '\\$&');
-  const regex = new RegExp('[?&]' + strippedParam + '(=([^&#]*)|&|#|$)');
-  const results = regex.exec(url);
+	const strippedParam = paramName.replace(/[\[\]]/g, '\\$&');
+	const regex = new RegExp('[?&]' + strippedParam + '(=([^&#]*)|&|#|$)');
+	const results = regex.exec(url);
 
-  if (!results || !results[2]) {
-    return '';
-  }
-  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+	if (!results || !results[2]) {
+		return '';
+	}
+	return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
