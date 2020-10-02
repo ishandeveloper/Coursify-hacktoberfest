@@ -10,6 +10,14 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
+  name:'Djano Tutorial',
+  instructor: 'Django Girls',
+  url:'https://tutorial.djangogirls.org/en/',
+  description:'A well designed course for beginners ',
+  image: '',
+  tags:['web development', 'Django']
+},
+  {
     name: "Intro To React",
     instructor: "Ishan Sharma",
     url: "https://blog.ishandeveloper.com/react-intro",
@@ -56,6 +64,41 @@ let data = [
     tags: ["react-native", "javascript"],
   },
   {
+    name: "Learn Flutter - Beginners Course",
+    instructor: "Mayuresh Wankhede",
+    url: "https://www.udemy.com/course/learn-flutter-beginners-course/",
+    description:
+      "Build Android and iOS apps with a flutter framework .",
+    image: "",
+    tags: ["flutter", "app"],
+  },
+  {
+    name:'ReactJS / Redux Tutorial',
+    instructor: 'Maximilian Schwarzmuller',
+    url:'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
+    description:'Covers basic concept of reactjs',
+    image: '',
+    tags:['Web Development', 'ReactJS']
+  },
+ {
+ 	name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
+ 	instructor: "Katacoda",
+ 	url: "https://www.katacoda.com/courses/docker",
+ 	description: "If you are beginner with docker and containers take this Browser-Based Interactive course and improve your skills in docker and build your own docker and containers",
+ 	image: "",
+ 	tags: ["docker", "containers"]
+ },
+  {
+    name: "Python Tutorial for Beginners",
+    instructor: "Codewithharry",
+    url:
+      "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
+    description:
+      "This is python tutorial for beginners in hindi",
+    image: "",
+    tags: ["Python", "Hindi"],
+  },
+   {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -82,4 +125,80 @@ let data = [
     image: "",
     tags: ["Python", "Flask"],
   },
+  {
+    name: "Adobe XD Tutorials",
+    instructor: "DesignCourse",
+    url: "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
+    description: "A great resource to get started with UI/UX Design using Adobe XD",
+    image: "",
+    tags: ["Adobe XD", "UI/UX"]
+  },
+  {
+    name: "Svelte Tutorial for Beginners",
+    instructor: "NetNinja",
+    url:
+      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+    description:
+      "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
+    image: "svelte-beginner.jpg",
+    tags: ["Technology", "Framework", "javascript", "web", "svelte"],
+  },
+  {
+    name: "React JS Crash Course",
+    instructor: "Brad Traversy",
+    url:
+      "https://youtu.be/sBws8MSXN7A",
+    description:
+      "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
+    image: "bradreactjs.jpg",
+    tags: ["React JS", "Javascript", "react", "Brad Traversy", "Traversy Media"],
+  },
+ {
+  name:'Introduction To Python Programming',
+  instructor: 'Avinash Jain, TheCodex',
+  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
+  description:'A Quick and Easy Intro into Python Programming',
+  image: '',
+  tags:['python', 'oops']
+},
+{
+    name: "Flutter Firebase - The Full Coursee",
+    instructor: "Jeff Delaney",
+    url: "https://fireship.io/courses/flutter-firebase/",
+    description: "This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, runs animations, and shares data between screens.",
+    image: "",
+    tags: ["flutter", "firebase", "app"],
+  },
+  {
+    name: "Mini-curso de TypeScript",
+    instructor: "Willian Justen",
+    url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+    description: "This is a course for beginners about typescript",
+    image: "",
+    tags: ["javascript", "typescript", "web", "Portuguese"],
+  },
+  {
+    name:'Flutter Tutorials for Beginners',
+    instructor: 'The Growing Developer',
+    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    image: '',
+    tags:['Flutter', 'Firebase','App development']
+},
+{
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "",
+  tags: ["Angular", "typescript", "javascript"],
+},
 ];
