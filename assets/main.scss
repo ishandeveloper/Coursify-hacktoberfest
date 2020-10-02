@@ -123,6 +123,81 @@ body {
         padding: 0;
     }
 
+    .search__field{
+        padding-bottom: 3em;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    
+        @media screen and (max-width: 720px) {
+          margin-top: 80px;
+        }
+    
+        .search__field__container{
+            position: relative;
+            height:30px ;
+            display: flex;      
+            .search__bar{
+                margin-right: 10px;
+                border: none;
+                border-bottom: 2px solid grey;
+                padding: 2px;
+                background: transparent;
+        
+                &:focus{
+                outline: none;
+                border-bottom: 2px solid black;
+                transition: 0.2s;
+                }
+                &:focus ~ .placeholder{
+                top: -80%;
+                font-size: .9rem;
+                color: black;
+                }
+            }
+        
+            .search__button{
+                font-size: 20px;
+                padding: 5px;
+                background: #9c4668;
+                color: white;
+                border-radius: 10%;
+                cursor: pointer;
+                transition: 0.2s;
+                &:active{
+                background: #642d43;
+                }
+            }
+        
+            .placeholder{
+                position: absolute;
+                top: 0;
+                left: 0;
+                font-size: 1.2rem;
+                color: grey;
+                transition: .3s;
+                pointer-events: none;
+            }
+            }
+        
+            .all__courses{
+                display: none;
+                margin-top: 15px;
+                background: #9c4668;
+                color: white;
+                padding: 5px;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: 0.2s;
+                &:active{
+                    background: #642d43;
+                }
+            }
+      }
+    
+
     .courses__list {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -142,8 +217,8 @@ body {
             position: relative;
 
             @media screen and (max-width: 720px) {
-                width: 100%;
-                margin: 1rem 0;
+                width: 90%;
+                margin: 1rem auto;
             }
 
             .course__image {

@@ -115,3 +115,37 @@ $('.pagination .pagination__link').on('click', function (e) {
 	urlParams.set('page', page);
 	window.location.search = urlParams;
 });
+
+// Implementing Search Field
+const courses_list = document.querySelector(".courses__list");
+const search_bar = document.querySelector(".search__bar");
+const search_button = document.querySelector(".search__button");
+const all_courses = document.querySelector('.all__courses')
+let searchQuery = search_bar.value;
+let searched = false;
+
+search_bar.addEventListener('change', (e) => {
+	e.preventDefault();
+	searchQuery = e.target.value;
+})
+
+search_button.addEventListener('click', () => {
+	if(searchQuery.length){
+		courses_list.innerHTML="";
+		search_bar.value = "";
+		const searchedCourses = data.filter(course => course.name.toLowerCase().includes(searchQuery.toLowerCase()));
+		display(1, searchedCourses);
+		pagination(1, searchedCourses);
+		all_courses.style.display = 'block';
+		searchQuery = "";
+	}
+})
+
+all_courses.addEventListener('click', () => {
+	courses_list.innerHTML="";
+	search_bar.value = "";  
+	searchQuery = "";
+	display(1, data);
+	pagination(1,data);
+	all_courses.style.display = 'none';
+  })
