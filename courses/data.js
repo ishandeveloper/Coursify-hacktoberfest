@@ -155,5 +155,14 @@ let data = [
   description:`javascript algorithms and data structures certification`,
   image: '',
   tags:[ 'javascript', 'web']
+},
+{
+  name:'UIButtons in Swift',
+  instructor: 'Neeraj Gupta',
+  url:'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
+  description:'This course will instruct you about UIButtons in Swift',
+  image: 'UI_Buttons_in_Swift.jpeg',
+  tags:['Swift', 'iOS','UIKit','apple']
 }
+
 ];
