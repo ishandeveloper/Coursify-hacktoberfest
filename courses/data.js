@@ -257,5 +257,13 @@ let data = [
   description:'Simple App State-Management in Flutter',
   image: 'goelvaibhav009.png',
   tags:['flutter', 'dart', 'dev']
+},
+{
+  name:'Cloud Fundamentals',
+  instructor: 'IBM Cloud',
+  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
+  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
+  image: 'Cloud.png',
+  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
 }
 ];
