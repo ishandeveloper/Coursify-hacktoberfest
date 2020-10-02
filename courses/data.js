@@ -249,5 +249,13 @@ let data = [
   description:'Intro to DS and Algo',
   image: '',
   tags:['Data Structures', 'Java']
+},
+{
+  name:'Introduction to Flutter Development Using Dart',
+  instructor: 'Angela Yu',
+  url:'https://www.appbrewery.co/p/intro-to-flutter',
+  description:'Intro to Flutter and Dart, Building over 8 fully-fledged apps',
+  image: "flutter-dart.png",
+  tags:['Flutter', 'Dart','App development'],
 }
 ];
