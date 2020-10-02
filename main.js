@@ -104,6 +104,65 @@ function pagination(page = 1, data = []) {
 	$('.pagination').html(paginationHTML);
 }
 
+coursesFilteredByTag.forEach((course) => {
+  $(".courses__list").append(`
+  <div class="courses__card">
+          <img
+            src="./courses/images/${course.image}"
+            alt="Course Image"
+            class="course__image"
+            onerror="this.onerror=null; this.src='./assets/images/default.png'"
+          />
+
+          <div class="course__info">
+            <div class="course__tags">
+            ${course.tags
+              .map((tag) => `<a href="?courseTag=${tag}"><div class="course__tag">${tag}</div></a>`)
+              .join("")}
+            </div>
+            <div class="course__name">${course.name}</div>
+            <div class="course__instructor">${course.instructor}</div>
+            <div class="course__description">
+              ${course.description.substring(0, 100)}..
+            </div>
+            <a target="_blank" class="course__call_to_action" href="${
+              course.url
+            }"> Learn More </a>
+          </div>
+          
+        </div>
+  `);
+});
+
+/*
+  Code For Back-Top-Top button
+*/
+const scrollToTopButton = document.getElementById('js-top');
+
+const scrollFunc = () => {
+  let y = window.scrollY;
+  if (y > 0) {
+    scrollToTopButton.className = "top-link show";
+  } else {
+    scrollToTopButton.className = "top-link hide";
+  }
+};
+
+window.addEventListener("scroll", scrollFunc);
+
+const scrollToTop = () => {
+  const c = document.documentElement.scrollTop || document.body.scrollTop;
+  if (c > 0) {
+    window.requestAnimationFrame(scrollToTop);
+    window.scrollTo(0, c - c / 10);
+  }
+};
+
+scrollToTopButton.onclick = function(e) {
+  e.preventDefault();
+  scrollToTop();
+}
+
 // Handle Pagination click event
 $('.pagination .pagination__link').on('click', function (e) {
 	e.preventDefault();
@@ -115,6 +174,7 @@ $('.pagination .pagination__link').on('click', function (e) {
 	urlParams.set('page', page);
 	window.location.search = urlParams;
 });
+
 
 // Implementing Search Field
 const courses_list = document.querySelector(".courses__list");
@@ -149,3 +209,4 @@ all_courses.addEventListener('click', () => {
 	pagination(1,data);
 	all_courses.style.display = 'none';
   })
+
