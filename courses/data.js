@@ -156,4 +156,12 @@ let data = [
   image: '',
   tags:[ 'javascript', 'web']
 }
+{
+  name:'CS50s Introduction to Computer Science',
+  instructor: 'David J Malan',
+  url:'https://www.edx.org/course/cs50s-introduction-to-computer-science',
+  description: 'Introduction to Computer Science with C and Python' ,
+  image: '',
+  tags:[ 'C', 'Python', 'SQL']
+}
 ];
