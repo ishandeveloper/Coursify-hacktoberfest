@@ -188,6 +188,14 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
+    name:'Single Page Web Applications with AngularJS',
+    instructor: 'Yaakov Chaikin',
+    url:'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
+    description:'In this course, we will explore the core design of AngularJS 1.x (latest version of AngularJS 1), its components and code organization techniques. Consider joining this course to gain skills in one of the most popular Single Page Application (SPA) frameworks today, AngularJS. At the end of this course, you will build a fully functional, well organized and tested web application using AngularJS and deploy it to the cloud.',
+    image: '',
+    tags:['Web development', 'AngularJS 1.x']
+  },
+  {
   name:'Big data and Hadoop Full Course',
   instructor: 'EDUREKA',
   url:'https://www.youtube.com/watch?v=1vbXmCrkT3Y',
