@@ -282,7 +282,7 @@ let data = [
   description:'Simple App State-Management in Flutter',
   image: 'goelvaibhav009.png',
   tags:['flutter', 'dart', 'dev']
-}
+},
 {
   name:'Flutter Tutorial for Beginners',
   instructor: 'Net ninja',
