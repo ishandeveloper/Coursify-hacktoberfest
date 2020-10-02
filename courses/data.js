@@ -322,5 +322,13 @@ let data = [
   description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
   image: '',
   tags:['React', 'Javascript','Google Maps API']
+},
+{
+  name:'Flutter & Dart - The Complete Guide [2020 Edition]',
+  instructor: 'Maximilian Schwarzmüller of course instructor',
+  url:'https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/',
+  description:'A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps',
+  image: '',
+  tags:['flutter', 'Dart', 'App development']
 }
 ];
