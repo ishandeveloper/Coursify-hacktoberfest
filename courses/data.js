@@ -10,13 +10,13 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
-  name:'Djano Tutorial',
-  instructor: 'Django Girls',
-  url:'https://tutorial.djangogirls.org/en/',
-  description:'A well designed course for beginners ',
-  image: '',
-  tags:['web development', 'Django']
-},
+    name: 'Djano Tutorial',
+    instructor: 'Django Girls',
+    url: 'https://tutorial.djangogirls.org/en/',
+    description: 'A well designed course for beginners ',
+    image: '',
+    tags: ['web development', 'Django']
+  },
   {
     name: "Intro To React",
     instructor: "Ishan Sharma",
@@ -83,21 +83,21 @@ let data = [
     tags: ["flutter", "app"],
   },
   {
-    name:'ReactJS / Redux Tutorial',
+    name: 'ReactJS / Redux Tutorial',
     instructor: 'Maximilian Schwarzmuller',
-    url:'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
-    description:'Covers basic concept of reactjs',
+    url: 'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
+    description: 'Covers basic concept of reactjs',
     image: '',
-    tags:['Web Development', 'ReactJS']
+    tags: ['Web Development', 'ReactJS']
   },
- {
- 	name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
- 	instructor: "Katacoda",
- 	url: "https://www.katacoda.com/courses/docker",
- 	description: "If you are beginner with docker and containers take this Browser-Based Interactive course and improve your skills in docker and build your own docker and containers",
- 	image: "",
- 	tags: ["docker", "containers"]
- },
+  {
+    name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
+    instructor: "Katacoda",
+    url: "https://www.katacoda.com/courses/docker",
+    description: "If you are beginner with docker and containers take this Browser-Based Interactive course and improve your skills in docker and build your own docker and containers",
+    image: "",
+    tags: ["docker", "containers"]
+  },
   {
     name: "Python Tutorial for Beginners",
     instructor: "Codewithharry",
@@ -108,7 +108,7 @@ let data = [
     image: "",
     tags: ["Python", "Hindi"],
   },
-   {
+  {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -169,7 +169,7 @@ let data = [
     description:
       "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
     image: "bradreactjs.jpg",
-    tags: ["Javascript", "react" ],
+    tags: ["Javascript", "react"],
   },
   {
     name: "That Weird JavaScript Course",
@@ -179,15 +179,15 @@ let data = [
     image: "that-weird-javascript-course.png",
     tags: ["javascript", "nodejs",]
   },
- {
-  name:'Introduction To Python Programming',
-  instructor: 'Avinash Jain, TheCodex',
-  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
-  description:'A Quick and Easy Intro into Python Programming',
-  image: '',
-  tags:['python', 'oops']
-},
-{
+  {
+    name: 'Introduction To Python Programming',
+    instructor: 'Avinash Jain, TheCodex',
+    url: 'https://www.udemy.com/course/pythonforbeginnersintro/',
+    description: 'A Quick and Easy Intro into Python Programming',
+    image: '',
+    tags: ['python', 'oops']
+  },
+  {
     name: "Flutter Firebase - The Full Coursee",
     instructor: "Jeff Delaney",
     url: "https://fireship.io/courses/flutter-firebase/",
@@ -201,24 +201,24 @@ let data = [
     url: "https://www.coursera.org/learn/machine-learning",
     description: "Machine learning is the science of getting computers to act without being explicitly programmed.This course provided by Stanford University provides a broad introduction to machine learning, datamining, and statistical pattern recognition. ",
     image: "courses/images/AndrewNg.jpg",
-    tags: ["Machine Learning", "Artificial Neural Network", "Logistic Regression","Machine Learning Algorithms"],
+    tags: ["Machine Learning", "Artificial Neural Network", "Logistic Regression", "Machine Learning Algorithms"],
   },
   {
-    name:'Single Page Web Applications with AngularJS',
+    name: 'Single Page Web Applications with AngularJS',
     instructor: 'Yaakov Chaikin',
-    url:'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
-    description:'In this course, we will explore the core design of AngularJS 1.x (latest version of AngularJS 1), its components and code organization techniques. Consider joining this course to gain skills in one of the most popular Single Page Application (SPA) frameworks today, AngularJS. At the end of this course, you will build a fully functional, well organized and tested web application using AngularJS and deploy it to the cloud.',
+    url: 'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
+    description: 'In this course, we will explore the core design of AngularJS 1.x (latest version of AngularJS 1), its components and code organization techniques. Consider joining this course to gain skills in one of the most popular Single Page Application (SPA) frameworks today, AngularJS. At the end of this course, you will build a fully functional, well organized and tested web application using AngularJS and deploy it to the cloud.',
     image: '',
-    tags:['Web development', 'AngularJS 1.x']
+    tags: ['Web development', 'AngularJS 1.x']
   },
   {
-  name:'Big data and Hadoop Full Course',
-  instructor: 'EDUREKA',
-  url:'https://www.youtube.com/watch?v=1vbXmCrkT3Y',
-  description:'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
-  image: '',
-  tags:['Bigdata', 'Hadoop']
-},
+    name: 'Big data and Hadoop Full Course',
+    instructor: 'EDUREKA',
+    url: 'https://www.youtube.com/watch?v=1vbXmCrkT3Y',
+    description: 'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
+    image: '',
+    tags: ['Bigdata', 'Hadoop']
+  },
   {
     name: "Javascript Course",
     instructor: "Hitesh Choudhary",
@@ -236,22 +236,22 @@ let data = [
     tags: ["javascript", "typescript", "web", "Portuguese"],
   },
   {
-    name:'Flutter Tutorials for Beginners',
+    name: 'Flutter Tutorials for Beginners',
     instructor: 'The Growing Developer',
-    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
-    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    url: 'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description: 'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
-    tags:['Flutter', 'Firebase','App development']
+    tags: ['Flutter', 'Firebase', 'App development']
   },
   {
-  name:'Neural Networks From Scratch',
-  instructor: 'Harrison Kinsley(sentdex)',
-  url:'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex',
-  description:'This Accompanies the neural networks from scratch book and as per its name, It aims to help you learn to build neural networks from scratch',
-  image: 'nnfs.png',
-  tags:['machine learning', 'ai','neural networks', 'deep learning']
+    name: 'Neural Networks From Scratch',
+    instructor: 'Harrison Kinsley(sentdex)',
+    url: 'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex',
+    description: 'This Accompanies the neural networks from scratch book and as per its name, It aims to help you learn to build neural networks from scratch',
+    image: 'nnfs.png',
+    tags: ['machine learning', 'ai', 'neural networks', 'deep learning']
   }
-,
+  ,
   {
     name: "A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial",
     instructor: "Dev Ed",
@@ -259,68 +259,78 @@ let data = [
     description: "If you are a beginner with nodejs, express or mongodb ,this tutorial will give you a good idea of how these technologies work well together.",
     image: "",
     tags: ["javascript", "nodejs", "express", "MongoDB"],
-},
-{
-  name:'Ethical Hacking using Python',
-  instructor: 'Alexis Ahmed',
-  url:'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
-  description:'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
-  image: '',
-  tags:['Python', 'Hacking','Scripting','Beginner to Advanced']
-},
+  },
   {
-  name:'Introduction to JavaScript',
-  instructor: 'freeCodeCamp',
-  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
-  description:`javascript algorithms and data structures certification`,
-  image: '',
-  tags:[ 'javascript', 'web']
-},
-{
-  name: "Angular Crash Course for Beginners",
-  instructor: "Hitesh Choudhary",
-  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
-  tags: ["Angular", "typescript", "javascript"],
-},
+    name: 'Ethical Hacking using Python',
+    instructor: 'Alexis Ahmed',
+    url: 'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+    description: 'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+    image: '',
+    tags: ['Python', 'Hacking', 'Scripting', 'Beginner to Advanced']
+  },
   {
-  name:'Data Structure and Algorithms',
-  instructor: 'Rahul Garg',
-  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
-  description:'Intro to DS and Algo',
-  image: '',
-  tags:['Data Structures', 'Java']
-},
-{
-  name:'Data Structure and Algorithms',
-  instructor: 'Vaibhav Goel',
-  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
-  description:'Simple App State-Management in Flutter',
-  image: 'goelvaibhav009.png',
-  tags:['flutter', 'dart', 'dev']
-},
-{
-  name: "React Native Crash Course 2020",
-  instructor: "Brad Traversy",
-  url:"https://www.youtube.com/watch?v=Hf4MJH0jDb4",
-  description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
-  image: "",
-  tags: ["Javascript", "react", "react native" ],
-},{
-  name:'Flutter Tutorial for Beginners',
-  instructor: 'Net ninja',
-  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
-  description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
-  image: '',
-  tags:['flutter', 'App development']
-},
-{
-  name:'Clustering Data in Google Maps and React',
-  instructor: 'Leigh Halliday',
-  url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
-  description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
-  image: '',
-  tags:['React', 'Javascript','Google Maps API']
-}
+    name: 'Introduction to JavaScript',
+    instructor: 'freeCodeCamp',
+    url: 'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+    description: `javascript algorithms and data structures certification`,
+    image: '',
+    tags: ['javascript', 'web']
+  },
+  {
+    name: "Angular Crash Course for Beginners",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+    description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+    image: "",
+    tags: ["Angular", "typescript", "javascript"],
+  },
+  {
+    name: 'Data Structure and Algorithms',
+    instructor: 'Rahul Garg',
+    url: 'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+    description: 'Intro to DS and Algo',
+    image: '',
+    tags: ['Data Structures', 'Java']
+  },
+  {
+    name: 'Data Structure and Algorithms',
+    instructor: 'Vaibhav Goel',
+    url: 'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+    description: 'Simple App State-Management in Flutter',
+    image: 'goelvaibhav009.png',
+    tags: ['flutter', 'dart', 'dev']
+  },
+  {
+    name: "React Native Crash Course 2020",
+    instructor: "Brad Traversy",
+    url: "https://www.youtube.com/watch?v=Hf4MJH0jDb4",
+    description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
+    image: "",
+    tags: ["Javascript", "react", "react native"],
+  }, {
+    name: 'Flutter Tutorial for Beginners',
+    instructor: 'Net ninja',
+    url: 'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
+    description: 'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
+    image: '',
+    tags: ['flutter', 'App development']
+  },
+  {
+    name: 'Clustering Data in Google Maps and React',
+    instructor: 'Leigh Halliday',
+    url: 'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
+    description: 'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
+    image: '',
+    tags: ['React', 'Javascript', 'Google Maps API']
+  },
+  {
+
+    name: 'Algorithms',
+    instructor: 'Abdul Bari',
+    url: 'https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw',
+    description: 'Much Needed Course for Algorithms',
+    image: 'abdulbari.jpg',
+    tags: ['C++', 'Algorithms', 'Data Structure']
+
+  }
 ];
