@@ -201,4 +201,12 @@ let data = [
   image: "",
   tags: ["Angular", "typescript", "javascript"],
 },
+  {
+    name: "Vue JS 2 Tutorial",
+    instructor: "The Net Ninja",
+    url: "https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa",
+    description: "This is a course for beginners about Vue JS Frontend Development.",
+    image: "",
+    tags: ["javascript", "vue js", "web", "frontend"],
+  }
 ];
