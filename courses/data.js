@@ -163,6 +163,14 @@ let data = [
     image: "bradreactjs.jpg",
     tags: ["Javascript", "react" ],
   },
+  {
+    name: "That Weird JavaScript Course",
+    instructor: "Fireship.io",
+    url: "https://fireship.io/courses/javascript/",
+    description: "That Weird JavaScript Course takes a unique approach towards teaching fundamental programming concepts. Not only will you learn practical techniques for building apps, but you will also gain knowledge about the history, science, and culture that surrounds the world’s most widely-used programming language.",
+    image: "that-weird-javascript-course.png",
+    tags: ["javascript", "nodejs",]
+  },
  {
   name:'Introduction To Python Programming',
   instructor: 'Avinash Jain, TheCodex',
