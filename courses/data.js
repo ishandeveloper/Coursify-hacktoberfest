@@ -283,4 +283,12 @@ let data = [
   image: 'goelvaibhav009.png',
   tags:['flutter', 'dart', 'dev']
 }
+{
+  name:'Flutter Tutorial for Beginners',
+  instructor: 'Net ninja',
+  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
+  description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
+  image: '',
+  tags:['flutter', 'App development']
+}
 ];
