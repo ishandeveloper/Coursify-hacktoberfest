@@ -9,6 +9,7 @@
 body {
   background: #f0f0f0;
   overflow-x: hidden;
+  position: relative;
 }
 
 .main__navbar {
@@ -216,5 +217,71 @@ body {
 .filter__message--tagname {
   text-decoration: underline;
 }
+
+.top-link {
+  transition: all .25s ease-in-out;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  display: inline-flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  margin: 0 3em 3em 0;
+  border-radius: 50%;
+  padding: .25em;
+  width: 80px;
+  height: 80px;
+  background-color: #F8F8F8;
+}
+.top-link.show {
+  visibility: visible;
+  opacity: 1;
+}
+.top-link.hide {
+  visibility: hidden;
+  opacity: 0;
+}
+.top-link svg {
+  fill: #000;
+  width: 24px;
+  height: 12px;
+}
+.top-link:hover {
+  background-color: #E8E8E8;
+}
+.top-link:hover svg {
+  fill: #000000;
+}
+
+.screen-reader-text {
+  position: absolute;
+  clip-path: inset(50%);
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  word-wrap: normal !important;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+.screen-reader-text:focus {
+  display: block;
+  top: 5px;
+  left: 5px;
+  z-index: 100000;
+  clip-path: none;
+  background-color: #eee;
+  padding: 15px 23px 14px;
+  width: auto;
+  height: auto;
+  text-decoration: none;
+  line-height: normal;
+  color: #444;
+  font-size: 1em;
+  clip: auto !important;
+}
+
 
 /*# sourceMappingURL=main.css.map */
