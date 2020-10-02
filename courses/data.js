@@ -262,5 +262,13 @@ let data = [
     description: 'Much Needed Course for Algorithms',
     image: 'abdulbari.jpg',
     tags: ['C++', 'Algorithms', 'Data Structure']
+  },
+  {
+    name: 'Python Tutorial',
+    instructor: 'Corey Schafer',
+    url: 'https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU',
+    description: 'An in-depth look at the Python programming language. Learn about Python development, tips and tricks, walkthroughs, and best practices.',
+    image: 'corey.jpg',
+    tags: ['Python', 'Flask', 'Django']
   }
 ];
