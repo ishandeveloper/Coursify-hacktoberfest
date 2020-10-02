@@ -188,6 +188,14 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
+    name: "Machine Learning",
+    instructor: "Andrew Ng",
+    url: "https://www.coursera.org/learn/machine-learning",
+    description: "Machine learning is the science of getting computers to act without being explicitly programmed.This course provided by Stanford University provides a broad introduction to machine learning, datamining, and statistical pattern recognition. ",
+    image: "courses/images/AndrewNg.jpg",
+    tags: ["Machine Learning", "Artificial Neural Network", "Logistic Regression","Machine Learning Algorithms"],
+  },
+  {
     name:'Single Page Web Applications with AngularJS',
     instructor: 'Yaakov Chaikin',
     url:'https://www.coursera.org/learn/single-page-web-apps-with-angularjs',
@@ -202,7 +210,8 @@ let data = [
   description:'This Big Data & Hadoop Tutorial is ideal for both beginners as well as professionals who want to master the Hadoop Ecosystem.',
   image: '',
   tags:['Bigdata', 'Hadoop']
-},{
+},
+  {
     name: "Javascript Course",
     instructor: "Hitesh Choudhary",
     url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
