@@ -286,260 +286,76 @@ let data = [
       "If you are a beginner with nodejs, express or mongodb ,this tutorial will give you a good idea of how these technologies work well together.",
     image: "rest-api.png",
     tags: ["javascript", "nodejs", "express", "MongoDB"],
-  },
+},
+{
+  name:'Ethical Hacking using Python',
+  instructor: 'Alexis Ahmed',
+  url:'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+  description:'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+  image: '',
+  tags:['Python', 'Hacking','Scripting','Beginner to Advanced']
+},
   {
-    name: "Ethical Hacking using Python",
-    instructor: "Alexis Ahmed",
-    url:
-      "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
-    description:
-      "Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.",
-    image: "ethical-hacking.png",
-    tags: ["Python", "Hacking", "Scripting", "Beginner to Advanced"],
-  },
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "",
+  tags: ["Angular", "typescript", "javascript"],
+},
   {
-    name: "Introduction to JavaScript",
-    instructor: "freeCodeCamp",
-    url:
-      "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
-    description: `javascript algorithms and data structures certification`,
-    image: "intro-to-js.png",
-    tags: ["javascript", "web"],
-  },
-  {
-    name: "Angular Crash Course for Beginners",
-    instructor: "Hitesh Choudhary",
-    url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-    description:
-      "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-    image: "angular-crash-course.png",
-    tags: ["Angular", "typescript", "javascript"],
-  },
-  {
-    name: "Data Structure and Algorithms",
-    instructor: "Rahul Garg",
-    url:
-      "https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1",
-    description: "Intro to DS and Algo",
-    image: "ds-algo.png",
-    tags: ["Data Structures", "Java"],
-  },
-  {
-    name: "Simple App State Management",
-    instructor: "Vaibhav Goel",
-    url: "https://dev.to/dsc_ciet/simple-app-state-management-ehi",
-    description: "Simple App State-Management in Flutter",
-    image: "goelvaibhav009.png",
-    tags: ["flutter", "dart", "dev"],
-  },
-  {
-    name: "React Native Crash Course 2020",
-    instructor: "Brad Traversy",
-    url: "https://www.youtube.com/watch?v=Hf4MJH0jDb4",
-    description:
-      "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
-    image: "react-native-crash-course.png",
-    tags: ["Javascript", "react", "react native"],
-  },
-  {
-    name: "Flutter Tutorial for Beginners",
-    instructor: "Net ninja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
-    description:
-      "In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!",
-    image: "flutter-tutorial.png",
-    tags: ["flutter", "App development"],
-  },
-  {
-    name: "Clustering Data in Google Maps and React",
-    instructor: "Leigh Halliday",
-    url: "https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s",
-    description:
-      "Loading remote data from an API,clustering it, and zooming in to expand a cluster.",
-    image: "clustering-data-react.png",
-    tags: ["React", "Javascript", "Google Maps API"],
-  },
-  {
-    name: "Deep Learning with tensorflow",
-    instructor: "IBM - DL0120EN",
-    url: "Intro to tensorflow, CNN, RNN,Autoencoders,Scaling",
-    description:
-      "Learn to use tensorflow and more details of CNN and RNN networks",
-    image: "dl-with-tensorflow.png",
-    tags: ["CNN", "Tensorflow", "RNN"],
-  },
-  {
-    name: "Ethical Hacking using Python",
-    instructor: "Alexis Ahmed",
-    url:
-      "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
-    description:
-      "Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.",
-    image: "ethical-hacking.png",
-    tags: ["Python", "Hacking", "Scripting"],
-  },
-  {
-    name: "CSS Animation Tutorial",
-    instructor: "Net Ninja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
-    description:
-      "Starting with the basics, including keyframes, transforms, and the animation property",
-    image: "artworknetninja.jpg",
-    tags: ["CSS", "CSS3", "Animations", "Front-end"],
-  },
-  {
-    name: "Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)",
-    instructor: "Sarthak",
-    url: "https://www.youtube.com/watch?v=BXiHvgrJfkg",
-    description:
-      "Learn Laravel PHP framework from very basics to advanced using Laravel Livewire by creating advanced todo list project in this full course in 6.5 hours",
-    image: "",
-    tags: ["Laravel"],
-  },
-  {
-    name: "Deep Learning Intuitions",
-    instructor: "3Blue1Brown",
-    url:
-      "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
-    description:
-      "Beginner friendly Deep Learning Intuition and then adding in a deep dive towards how Neural Networks work",
-    image: "artworknetninja.jpg",
-    tags: ["Deep Learning", "Visualization", "Animations", "Neural Networks"],
-  },
-  {
-    name: "Java For Beginners",
-    instructor: "Anuj Kumar Sharma",
-    url: "https://www.youtube.com/watch?v=aQatrXw0njs&t=205s",
-    description: "Crash Course Of Java for beginners",
-    image: "",
-    tags: ["Programming", "Java", "Hindi"],
-  },
-  {
-    name: "JavaScript: Understanding the Weird Parts",
-    instructor: "Tony Alicea",
-    url:
-      "https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea",
-    description:
-      "An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more",
-    image: "",
-    tags: ["Javascript", "Framework", "jQuery"],
-  },
-  {
-    name: "React Native Tutorial",
-    instructor: "codedamn",
-    url:
-      "https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h&ab_channel=codedamn",
-    description:
-      "Introduce yourself to a new world of write-once-run-anywhere world! This is REACT NATIVE, running your apps natively on Android/iOS/blackberry (you need a bridge, though), etc.",
-    image: "codedamn.jpg",
-    tags: ["reactnative", "react", "javascript", "android", "ios"],
-  },
-  {
-    name: "Learn C++",
-    instructor: "Alex",
-    url: "https://www.learncpp.com/",
-    description:
-      "LearnCpp.com is a free website devoted to teaching you how to program in C++.",
-    image: "",
-    tags: ["C++"],
-  },
-  {
-    name: "CSS Animation Tutorial",
-    instructor: "Net Ninja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
-    description:
-      "Starting with the basics, including keyframes, transforms, and the animation property",
-    image: "artworknetninja.jpg",
-    tags: ["CSS", "CSS3", "Animations", "Front-end"],
-  },
-  {
-    name: "Curso de Git e GitHub",
-    instructor: "Gustavo Guanabara",
-    url:
-      "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
-    description:
-      "a course for those who want to start their journey on git and github",
-    image: "",
-    tags: ["git", "github", "portuguese"],
-  },
-  {
-    name: "Flutter Tutorial",
-    instructor: "MTECHVIRAL",
-    url:
-      "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
-    description:
-      "Learn Flutter from  basic to advance with some awesome projects to make",
-    image: "",
-    tags: ["Flutter", "Dart", "App devlopment"],
-  },
-  {
-    name:
-      "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
-    instructor: "Maximilian Schwarzmüller",
-    url: "https://www.youtube.com/watch?v=x0uinJvhNxI&t=5202s",
-    description:
-      "Free Flutter Introduction for Beginners: Get Started with Flutter and learn how to build an iOS and Android app with Flutter!",
-    image: "",
-    tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
-  },
-  {
-    name: "Java Programming",
-    instructor: "University of Helsinki",
-    url: "https://java-programming.mooc.fi/",
-    description:
-      "Learn the basics of computer programming through a project-based learning approach",
-    image: "mooc-java.png",
-    tags: ["Java", "Object-Oriented Programming", "OOP"],
-  },
-   {
-    name: 'AWS CloudFormation Tutorial',
-    instructor: 'Simplilearn',
-    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
-    description: 'AWS CloudFormation basics for beginners',
-    image: '',
-    tags: ['AWS', 'CloudFormation']
-  },
-    {
-    name: 'UIButtons in Swift',
-    instructor: 'Neeraj Gupta',
-    url: 'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
-    description: 'This course will instruct you about UIButtons in Swift',
-    image: 'UI_Buttons_in_Swift.jpeg',
-    tags: ['Swift', 'iOS', 'UIKit', 'apple']
-  },
-    {
-    name:'CS50 Computer Science',
-    instructor: 'CS50 - Harvard and Yale University',
-    url:'https://www.youtube.com/c/cs50/videos',
-    description:'This is a general programming and computer science course from Harvard University',
-    image: 'cs50image.jpg',
-    tags:['Computer Science', 'Programming']
-    }
-,  {
-    name: 'Responsive Web Design',
-    instructor: 'freecodecamp',
-    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
-    description: 'Responsive Web Design for absolute beginners',
-    image: '',
-    tags: ['Development', 'Front-end']
-  },
-  {
-    name: "The Cherno C++ Playlist",
-    instructor: "Yan Chernikov",
-    url: "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
-    description: "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
-    image: "cpp_playlist.jpg",
-    tags: ["C++", "Technology", "C", "Cpp"],
-  },
-  {
-    name: 'Data Structures',
-    instructor: 'freeCodeCamp',
-    url: 'https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org',
-    description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
-    image: '',
-    tags: ['data structures', 'Java']
-  }
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+},
+{
+  name: "React Native Crash Course 2020",
+  instructor: "Brad Traversy",
+  url:"https://www.youtube.com/watch?v=Hf4MJH0jDb4",
+  description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
+  image: "",
+  tags: ["Javascript", "react", "react native" ],
+},{
+  name:'Flutter Tutorial for Beginners',
+  instructor: 'Net ninja',
+  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
+  description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
+  image: '',
+  tags:['flutter', 'App development']
+},
+{
+  name:'Clustering Data in Google Maps and React',
+  instructor: 'Leigh Halliday',
+  url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
+  description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
+  image: '',
+  tags:['React', 'Javascript','Google Maps API']
+},
+{
+  name:'Angular - The Complete Guide (2020 Edition)',
+  instructor: 'Maximilian Schwarzmüller',
+  url:'https://www.udemy.com/course/the-complete-guide-to-angular-2',
+  description:'Master Angular 10 (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js',
+  image: '',
+  tags:['Javascript', 'Angular', 'Modern web development']
+}
 ];
