@@ -2,52 +2,69 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   font-family: "Poppins";
 }
 
 body {
   background: #f0f0f0;
   overflow-x: hidden;
+  position: relative;
 }
 
 .main__navbar {
   top: 0;
   z-index: 999;
+  position: -webkit-sticky;
   position: sticky;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   width: 100vw;
-  align-items: center;
-  justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   padding: 1em 2em;
   background: #ffffff;
 }
+
 .main__navbar .navbar__logo {
   height: 60px;
 }
+
 .main__navbar a {
   background: #9c4668;
   padding: 0.25rem 1.5rem;
   border-radius: 50px;
   text-decoration: none;
   color: white;
+  -webkit-transition: all ease-in-out 250ms;
   transition: all ease-in-out 250ms;
 }
+
 .main__navbar a h4 {
   font-size: 1.1em;
   font-weight: 500;
 }
+
 .main__navbar a h4:before {
   content: "Contribute on ";
 }
+
 @media screen and (max-width: 720px) {
   .main__navbar a h4:before {
     content: "";
   }
 }
+
 .main__navbar a h4 i {
   margin-left: 0.2rem;
 }
+
 .main__navbar a:hover {
   padding: 0.25rem 1.75rem;
   font-size: 1.1em;
@@ -55,36 +72,45 @@ body {
 }
 
 .hero__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   background: #ffffff;
   overflow: hidden;
   max-height: 500px;
 }
+
 .hero__wrapper .hero__title {
   padding-left: 2em;
   padding-top: 2em;
   padding-bottom: 2em;
   width: 75%;
 }
+
 .hero__wrapper .hero__title h3 {
   font-size: 3em;
   font-weight: 600;
 }
+
 .hero__wrapper .hero__title h5 {
   color: #9c4668;
   margin-top: 1em;
   font-size: 1em;
   letter-spacing: 0.05rem;
 }
+
 .hero__wrapper .hero__title h5 i {
   color: red;
 }
+
 @media screen and (max-width: 720px) {
   .hero__wrapper .hero__title {
     padding-left: 1.5em;
     padding-right: 1.5em;
     padding-bottom: 2.5em;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     width: 100%;
   }
   .hero__wrapper .hero__title h3 {
@@ -94,19 +120,25 @@ body {
     font-size: 0.8em;
   }
 }
+
 .hero__wrapper .hero__image {
   opacity: 0.25;
   max-width: 50%;
-  transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
   display: block;
-  object-fit: contain;
-  object-position: top;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: top;
+     object-position: top;
 }
+
 @media screen and (max-width: 720px) {
   .hero__wrapper .hero__image {
     display: none;
   }
 }
+
 @media screen and (max-width: 1080px) {
   .hero__wrapper .hero__image {
     display: none;
@@ -118,53 +150,81 @@ body {
   padding: 5em 5em;
   overflow-x: hidden;
 }
+
 @media screen and (max-width: 720px) {
   .courses__wrapper {
     padding: 0;
   }
 }
+
 .courses__wrapper .courses__list {
+  display: -ms-grid;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  -ms-grid-columns: (minmax(400px, 1fr))[auto-fill];
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
 }
+
 @media screen and (max-width: 720px) {
   .courses__wrapper .courses__list {
-    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+    -ms-grid-columns: (minmax(100%, 1fr))[auto-fill];
+        grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
   }
 }
+
 .courses__wrapper .courses__list .courses__card {
   width: 400px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   margin: 1rem 1rem;
   background: white;
   position: relative;
 }
+
 @media screen and (max-width: 720px) {
   .courses__wrapper .courses__list .courses__card {
     width: 100%;
     margin: 1rem 0;
   }
 }
+
 .courses__wrapper .courses__list .courses__card .course__image {
   min-height: 220px;
   max-height: 220px;
   display: block;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   width: 100%;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info {
   padding: 1rem 1rem;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info .course__tags {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex: 1;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
   margin-bottom: 0.5rem;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info .course__tags .course__tag {
-  flex: 0;
+  -webkit-box-flex: 0;
+      -ms-flex: 0;
+          flex: 0;
   margin-right: 0.5rem;
+  width: -webkit-max-content;
+  width: -moz-max-content;
   width: max-content;
   border-radius: 1px;
   font-size: 0.75rem;
@@ -172,49 +232,171 @@ body {
   padding: 0.1rem 0.4rem;
   color: white;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info .course__name {
   font-size: 1.5em;
   font-weight: bold;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info .course__description {
   font-size: 1em;
   font-weight: 300;
   color: #797979;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info .course__instructor {
   color: #444444;
   padding-bottom: 0.2rem;
 }
+
 .courses__wrapper .courses__list .courses__card .course__info .course__instructor::before {
   content: "by";
   margin-right: 0.25rem;
   color: #949494;
 }
+
 .courses__wrapper .courses__list .courses__card .course__call_to_action {
   margin-top: 1rem;
   border: 1px solid #9c4668;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   text-decoration: none;
   color: #9c4668;
   padding: 0.5rem 0;
   text-align: center;
   width: 100%;
+  -webkit-transition: all ease-in-out 250ms;
   transition: all ease-in-out 250ms;
 }
+
 .courses__wrapper .courses__list .courses__card .course__call_to_action:hover {
   background: #9c4668;
   color: white;
 }
 
+.courses__wrapper .pagination {
+  margin: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.courses__wrapper .pagination a {
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 5px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+
+.courses__wrapper .pagination a.active {
+  background-color: #9c4668;
+  color: white;
+}
+
+.courses__wrapper .pagination a:hover:not(.active) {
+  background-color: #ddd;
+}
+
 .filter__message {
   position: absolute;
-  top: 20px;
+  top: 25px;
   right: 25px;
   margin-bottom: 25px;
 }
+
 .filter__message--tagname {
   text-decoration: underline;
 }
+.top-link {
+  transition: all .25s ease-in-out;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  display: inline-flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  margin: 0 3em 3em 0;
+  border-radius: 50%;
+  padding: .25em;
+  width: 80px;
+  height: 80px;
+  background-color: #F8F8F8;
+}
+.top-link.show {
+  visibility: visible;
+  opacity: 1;
+}
+.top-link.hide {
+  visibility: hidden;
+  opacity: 0;
+}
+.top-link svg {
+  fill: #000;
+  width: 24px;
+  height: 12px;
+}
+.top-link:hover {
+  background-color: #E8E8E8;
+}
+.top-link:hover svg {
+  fill: #000000;
+}
 
+.screen-reader-text {
+  position: absolute;
+  clip-path: inset(50%);
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  word-wrap: normal !important;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+.screen-reader-text:focus {
+  display: block;
+  top: 5px;
+  left: 5px;
+  z-index: 100000;
+  clip-path: none;
+  background-color: #eee;
+  padding: 15px 23px 14px;
+  width: auto;
+  height: auto;
+  text-decoration: none;
+  line-height: normal;
+  color: #444;
+  font-size: 1em;
+  clip: auto !important;
+}
+
+@media only screen and (max-width: 480px){
+  .top-link{
+    width: 50px;
+    height: 50px;
+    margin: 0 1.5em 1.5em 0;
+  }
+  .top-link > svg{
+    width: 18px;
+    height: 9px;
+  }
+}
+
+
+/*# sourceMappingURL=main.css.map */
+=======
 /*# sourceMappingURL=main.css.map */
