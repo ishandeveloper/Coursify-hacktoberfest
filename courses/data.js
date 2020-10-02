@@ -10,13 +10,13 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
-  name:'Djano Tutorial',
-  instructor: 'Django Girls',
-  url:'https://tutorial.djangogirls.org/en/',
-  description:'A well designed course for beginners ',
-  image: '',
-  tags:['web development', 'Django']
-},
+    name: 'Djano Tutorial',
+    instructor: 'Django Girls',
+    url: 'https://tutorial.djangogirls.org/en/',
+    description: 'A well designed course for beginners ',
+    image: 'django-tutorial.png',
+    tags: ['web development', 'Django']
+  },
   {
     name: "Intro To React",
     instructor: "Ishan Sharma",
@@ -79,25 +79,25 @@ let data = [
     url: "https://www.udemy.com/course/learn-flutter-beginners-course/",
     description:
       "Build Android and iOS apps with a flutter framework .",
-    image: "",
+    image: "learn-flutter.png",
     tags: ["flutter", "app"],
   },
   {
-    name:'ReactJS / Redux Tutorial',
+    name: 'ReactJS / Redux Tutorial',
     instructor: 'Maximilian Schwarzmuller',
-    url:'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
-    description:'Covers basic concept of reactjs',
-    image: '',
-    tags:['Web Development', 'ReactJS']
+    url: 'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
+    description: 'Covers basic concept of reactjs',
+    image: 'react-redux.png',
+    tags: ['Web Development', 'ReactJS']
   },
- {
- 	name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
- 	instructor: "Katacoda",
- 	url: "https://www.katacoda.com/courses/docker",
- 	description: "If you are beginner with docker and containers take this Browser-Based Interactive course and improve your skills in docker and build your own docker and containers",
- 	image: "",
- 	tags: ["docker", "containers"]
- },
+  {
+    name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
+    instructor: "Katacoda",
+    url: "https://www.katacoda.com/courses/docker",
+    description: "If you are beginner with docker and containers take this Browser-Based Interactive course and improve your skills in docker and build your own docker and containers",
+    image: "docker-container.png",
+    tags: ["docker", "containers"]
+  },
   {
     name: "Python Tutorial for Beginners",
     instructor: "Codewithharry",
@@ -105,10 +105,10 @@ let data = [
       "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
     description:
       "This is python tutorial for beginners in hindi",
-    image: "",
+    image: "python.png",
     tags: ["Python", "Hindi"],
   },
-   {
+  {
     name: "Fullstack React GraphQL TypeScript Tutorial",
     instructor: "Ben Awad",
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
@@ -161,7 +161,7 @@ let data = [
     description:
       "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc.",
     image: "bradreactjs.jpg",
-    tags: ["Javascript", "react" ],
+    tags: ["Javascript", "react"],
   },
   {
     name: "That Weird JavaScript Course",
@@ -171,15 +171,15 @@ let data = [
     image: "that-weird-javascript-course.png",
     tags: ["javascript", "nodejs",]
   },
- {
-  name:'Introduction To Python Programming',
-  instructor: 'Avinash Jain, TheCodex',
-  url:'https://www.udemy.com/course/pythonforbeginnersintro/',
-  description:'A Quick and Easy Intro into Python Programming',
-  image: '',
-  tags:['python', 'oops']
-},
-{
+  {
+    name: 'Introduction To Python Programming',
+    instructor: 'Avinash Jain, TheCodex',
+    url: 'https://www.udemy.com/course/pythonforbeginnersintro/',
+    description: 'A Quick and Easy Intro into Python Programming',
+    image: '',
+    tags: ['python', 'oops']
+  },
+  {
     name: "Flutter Firebase - The Full Coursee",
     instructor: "Jeff Delaney",
     url: "https://fireship.io/courses/flutter-firebase/",
@@ -204,35 +204,35 @@ let data = [
     tags: ["javascript", "typescript", "web", "Portuguese"],
   },
   {
-    name:'Flutter Tutorials for Beginners',
+    name: 'Flutter Tutorials for Beginners',
     instructor: 'The Growing Developer',
-    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
-    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    url: 'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description: 'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
-    tags:['Flutter', 'Firebase','App development']
-},
-{
-  name:'Introduction to JavaScript',
-  instructor: 'freeCodeCamp',
-  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
-  description:`javascript algorithms and data structures certification`,
-  image: '',
-  tags:[ 'javascript', 'web']
-},
-{
-  name: "Angular Crash Course for Beginners",
-  instructor: "Hitesh Choudhary",
-  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
-  tags: ["Angular", "typescript", "javascript"],
-},
+    tags: ['Flutter', 'Firebase', 'App development']
+  },
   {
-  name:'Data Structure and Algorithms',
-  instructor: 'Rahul Garg',
-  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
-  description:'Intro to DS and Algo',
-  image: '',
-  tags:['Data Structures', 'Java']
-}
+    name: 'Introduction to JavaScript',
+    instructor: 'freeCodeCamp',
+    url: 'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+    description: `javascript algorithms and data structures certification`,
+    image: '',
+    tags: ['javascript', 'web']
+  },
+  {
+    name: "Angular Crash Course for Beginners",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+    description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+    image: "",
+    tags: ["Angular", "typescript", "javascript"],
+  },
+  {
+    name: 'Data Structure and Algorithms',
+    instructor: 'Rahul Garg',
+    url: 'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+    description: 'Intro to DS and Algo',
+    image: '',
+    tags: ['Data Structures', 'Java']
+  }
 ];
