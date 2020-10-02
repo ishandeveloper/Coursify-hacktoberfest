@@ -322,5 +322,13 @@ let data = [
   description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
   image: '',
   tags:['React', 'Javascript','Google Maps API']
+},
+{
+  name:'iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp',
+  instructor: 'Dr. Angela Yu',
+  url:'https://www.udemy.com/course/ios-13-app-development-bootcamp/',
+  description:'From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!',
+  image: '',
+  tags:['iOS', 'Swift','App development']
 }
 ];
