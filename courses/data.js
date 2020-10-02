@@ -241,9 +241,17 @@ let data = [
     url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
-    tags:['Flutter', 'Firebase','App development']
+    tags:['Flutter', 'Firebase','App development',]
 },
 {
+  name:'Ethical Hacking using Python',
+  instructor: 'Alexis Ahmed',
+  url:'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+  description:'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+  image: '',
+  tags:['Python', 'Hacking','Scripting','Beginner to Advanced']
+},
+  {
   name:'Introduction to JavaScript',
   instructor: 'freeCodeCamp',
   url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
