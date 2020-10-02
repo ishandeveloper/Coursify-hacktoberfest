@@ -64,6 +64,15 @@ let data = [
     tags: ["react-native", "javascript"],
   },
   {
+    name: "Learn Flutter - Beginners Course",
+    instructor: "Mayuresh Wankhede",
+    url: "https://www.udemy.com/course/learn-flutter-beginners-course/",
+    description:
+      "Build Android and iOS apps with a flutter framework .",
+    image: "",
+    tags: ["flutter", "app"],
+  },
+  {
     name:'ReactJS / Redux Tutorial',
     instructor: 'Maximilian Schwarzmuller',
     url:'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
