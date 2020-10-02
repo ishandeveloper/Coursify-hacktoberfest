@@ -225,11 +225,25 @@ body {
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  border-radius: 1px;
+  /* border-radius: 1px;
   font-size: 0.75rem;
   background: #9c4668;
   padding: 0.1rem 0.4rem;
+  color: white; */
+  margin-bottom: 0.5rem;
+  background: #9c4668;
+  padding: 0.1rem 0.4rem;
+  border-radius: 15px;
+  font-size: 0.75rem;
+  text-decoration: none;
   color: white;
+  -webkit-transition: all ease-in-out 250ms;
+  transition: all ease-in-out 250ms;
+}
+.courses__wrapper .courses__list .courses__card .course__info .course__tags .course__tag:hover{
+  padding: 0.2rem 1.50rem;
+  font-size: 0.9em;
+  background: #444444;
 }
 
 .courses__wrapper .courses__list .courses__card .course__info .course__name {
