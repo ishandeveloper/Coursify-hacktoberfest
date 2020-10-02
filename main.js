@@ -53,7 +53,7 @@ if (isValidTag) {
           </div>
     `);
   });
- 
+ //to remove current contents on div class courses__card
 function remove(){
   $("div").remove(".courses__card");
 }
