@@ -1,29 +1,3 @@
-<img src="./assets/hero2.png" width="100%">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fishandeveloper%2FCoursify-hacktoberfest&count_bg=%23CBA4DE&title_bg=%239C4668&icon=hackster.svg&icon_color=%23E7E7E7&title=Hacktoberfest+Hackers&edge_flat=true)](https://github.com/ishandeveloper/Coursify-hacktoberfest)
-
-This repository contains a list of few of the best learning resources out there for developers, which includes video tutorials, articles, blogs, youtube playlists etc.
-
-You can view the current list, live here :
-
-<pre>
-<a href="http://ishandeveloper.com/Coursify-hacktoberfest/">coursify.ishandeveloper.com</a>
-</pre>
-
-
-**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
-
-***  
-  
-### What is Hacktoberfest 2020?
-Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/), [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://www.dev.to/) this year in 2020.
-
-During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
-
-If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
-
-***
-
 ### Why Should I Contribute?
 Hacktoberfest has a simple and plain moto.
 > Support open source and earn a limited edition T-shirt and few stickers!
@@ -111,7 +85,3 @@ This project uses SASS/SCSS syntax for styling.
 ### Contributors
 
 [![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/0)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/0)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/1)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/1)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/2)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/2)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/3)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/3)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/4)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/4)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/5)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/5)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/6)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/6)[![](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/images/7)](https://sourcerer.io/fame/ishandeveloper/ishandeveloper/Coursify-hacktoberfest/links/7)
-
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
