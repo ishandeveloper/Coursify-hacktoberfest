@@ -323,4 +323,13 @@ let data = [
   image: '',
   tags:['React', 'Javascript','Google Maps API']
 }
+
+{
+  name:'Advanced Android App Development',
+  instructor: 'Cezanne Camacho',
+  url:'https://classroom.udacity.com/courses/ud855',
+  description:'Make your app production-ready by applying advanced features like library integration, material design, widgets, receiving cloud messages, and more!',
+  image: '',
+  tags:['Andoid', 'App development']
+}
 ];
