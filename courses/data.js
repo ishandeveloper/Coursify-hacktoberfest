@@ -307,7 +307,8 @@ let data = [
   description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
   image: "",
   tags: ["Javascript", "react", "react native" ],
-},{
+},
+{
   name:'Flutter Tutorial for Beginners',
   instructor: 'Net ninja',
   url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
@@ -322,5 +323,13 @@ let data = [
   description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
   image: '',
   tags:['React', 'Javascript','Google Maps API']
+},
+{
+  name:'Linux Commands for Beginners',
+  instructor: 'Jay',
+  url:'https://www.youtube.com/watch?v=lvSoxOMg5_c&list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ&index=1',
+  description:'Basics of how to use the linux terminal, how to install packages and properly navigate in your distro.',
+  image: '',
+  tags:['Linux', 'Terminal']
 }
 ];
