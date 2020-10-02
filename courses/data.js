@@ -242,7 +242,16 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
-},
+  },
+  {
+  name:'Neural Networks From Scratch',
+  instructor: 'Harrison Kinsley(sentdex)',
+  url:'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex',
+  description:'This Accompanies the neural networks from scratch book and as per its name, It aims to help you learn to build neural networks from scratch',
+  image: 'nnfs.png',
+  tags:['machine learning', 'ai','neural networks', 'deep learning']
+  }
+,
   {
     name: "A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial",
     instructor: "Dev Ed",
@@ -298,7 +307,7 @@ let data = [
   description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
   image: '',
   tags:['flutter', 'App development']
-}
+},
 {
   name:'Clustering Data in Google Maps and React',
   instructor: 'Leigh Halliday',
