@@ -201,4 +201,12 @@ let data = [
   image: "",
   tags: ["Angular", "typescript", "javascript"],
 },
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Technology', 'Java']
+}
 ];
