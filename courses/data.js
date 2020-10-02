@@ -259,6 +259,77 @@ let data = [
     description: "If you are a beginner with nodejs, express or mongodb ,this tutorial will give you a good idea of how these technologies work well together.",
     image: "",
     tags: ["javascript", "nodejs", "express", "MongoDB"],
+},
+{
+  name:'Ethical Hacking using Python',
+  instructor: 'Alexis Ahmed',
+  url:'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+  description:'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+  image: '',
+  tags:['Python', 'Hacking','Scripting','Beginner to Advanced']
+},
+  {
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "",
+  tags: ["Angular", "typescript", "javascript"],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+},
+{
+  name: "React Native Crash Course 2020",
+  instructor: "Brad Traversy",
+  url:"https://www.youtube.com/watch?v=Hf4MJH0jDb4",
+  description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
+  image: "",
+  tags: ["Javascript", "react", "react native" ],
+},{
+  name:'Flutter Tutorial for Beginners',
+  instructor: 'Net ninja',
+  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
+  description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
+  image: '',
+  tags:['flutter', 'App development']
+},
+{
+  name:'Clustering Data in Google Maps and React',
+  instructor: 'Leigh Halliday',
+  url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
+  description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
+  image: '',
+  tags:['React', 'Javascript','Google Maps API']
+},
+ {
+  name:'Deep Learning with tensorflow',
+  instructor: 'IBM - DL0120EN',
+  url:'Intro to tensorflow, CNN, RNN,Autoencoders,Scaling',
+  description:'Learn to use tensorflow and more details of CNN and RNN networks',
+  image: 'https://www.edx.org/course/deep-learning-with-tensorflow',
+  tags:['CNN','Tensorflow','RNN']
   },
   {
     name: 'Ethical Hacking using Python',
