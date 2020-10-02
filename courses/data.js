@@ -6,7 +6,7 @@ let data = [
       "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
     description:
       "A step by step walk-through what Node JS is, and how it all works. We'll also be creating a Node JS application from scratch using express, and hook it up to MongoDB - a noSQL database perfect for using with Node.",
-    image: "",
+    image: "NetNinja.jpg",
     tags: ["nodejs", "javascript", "web"],
   },
   {
@@ -32,7 +32,7 @@ let data = [
     url: "https://www.youtube.com/watch?v=Ib2FlirtcmE",
     description:
       "Get Started with Flutter and learn how to build natively compiled applications for mobile (Android & iOS), web, and desktop from a single codebase.",
-    image: "",
+    image: 'Pawan-Kumar.jpg',
     tags: ["flutter", "app"],
   },
   {
@@ -87,7 +87,7 @@ let data = [
     instructor: 'Maximilian Schwarzmuller',
     url:'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
     description:'Covers basic concept of reactjs',
-    image: '',
+    image: 'Maximilian-Schwarzmuller.jpg',
     tags:['Web Development', 'ReactJS']
   },
  {
@@ -105,7 +105,7 @@ let data = [
       "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
     description:
       "This is python tutorial for beginners in hindi",
-    image: "",
+    image: 'Codewithharry.jpg',
     tags: ["Python", "Hindi"],
   },
    {
@@ -114,7 +114,7 @@ let data = [
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
     description:
       "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
-    image: "",
+    image: 'Ben-Awad.jpg',
     tags: ["react", "graphql", "typescript", "javascript"],
   },
   {
@@ -123,7 +123,7 @@ let data = [
     url: "https://goo.gl/TdJpMi",
     description:
       "get familiar with common data structures that are frequently tested on in coding interviews.",
-    image: "",
+    image: 'LucidProgramming.jpg',
     tags: ["python", "data structures"],
   },
   {
@@ -140,7 +140,7 @@ let data = [
     url: "https://bit.ly/3n85AjH",
     description:
       "This course will assume only a little basic understanding of python programming language from you and will guide you on creating you own beautiful website.",
-    image: "",
+    image: "codeWithHarry.jpg",
     tags: ["Python", "Flask"],
   },
   {
@@ -148,7 +148,7 @@ let data = [
     instructor: "DesignCourse",
     url: "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
     description: "A great resource to get started with UI/UX Design using Adobe XD",
-    image: "",
+    image: 'DesignCourse.jpg',
     tags: ["Adobe XD", "UI/UX"]
   },
   {
@@ -281,7 +281,7 @@ let data = [
   instructor: "Hitesh Choudhary",
   url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
   description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
+  image: "Hitesh-Choudhary.png",
   tags: ["Angular", "typescript", "javascript"],
 },
   {
@@ -305,14 +305,14 @@ let data = [
   instructor: "Brad Traversy",
   url:"https://www.youtube.com/watch?v=Hf4MJH0jDb4",
   description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
-  image: "",
+  image: 'Brad-Traversy.png',
   tags: ["Javascript", "react", "react native" ],
 },{
   name:'Flutter Tutorial for Beginners',
   instructor: 'Net ninja',
   url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
   description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
-  image: '',
+  image: 'Net-ninja.jpg',
   tags:['flutter', 'App development']
 },
 {
@@ -320,7 +320,7 @@ let data = [
   instructor: 'Leigh Halliday',
   url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
   description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
-  image: '',
+  image: 'Leigh-Halliday.jpg',
   tags:['React', 'Javascript','Google Maps API']
 }
 ];
