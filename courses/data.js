@@ -322,5 +322,12 @@ let data = [
   description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
   image: '',
   tags:['React', 'Javascript','Google Maps API']
-}
+},
+ {
+  name:'Deep Learning with tensorflow',
+  instructor: 'IBM - DL0120EN',
+  url:'Intro to tensorflow, CNN, RNN,Autoencoders,Scaling',
+  description:'Learn to use tensorflow and more details of CNN and RNN networks',
+  image: 'https://www.edx.org/course/deep-learning-with-tensorflow',
+  tags:['CNN','Tensorflow','RNN']
 ];
