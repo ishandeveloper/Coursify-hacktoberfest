@@ -249,5 +249,14 @@ let data = [
   description:'Intro to DS and Algo',
   image: '',
   tags:['Data Structures', 'Java']
+},
+{
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
 }
+
 ];
