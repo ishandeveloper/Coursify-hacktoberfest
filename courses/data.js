@@ -381,4 +381,15 @@ let data = [
     image: "artworknetninja.jpg",
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
+  {
+    name: "Flutter & Dart - The Complete Guide [2020 Edition]",
+    instructor: "Maximilian Schwarzmüller",
+    url:
+      "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+    description:
+      "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
+    image: "",
+    tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
+  },
+  
 ];
