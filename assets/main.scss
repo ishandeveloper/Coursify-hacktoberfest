@@ -159,11 +159,13 @@ body {
 
                 .course__tags {
                     display: flex;
+                    flex-wrap: wrap;
                     flex: 1;
                     margin-bottom: 0.5rem;
                     .course__tag {
                         flex: 0;
                         margin-right: 0.5rem;
+                        margin-bottom: 0.5rem;
                         width: max-content;
                         border-radius: 1px;
                         font-size: 0.75rem;
