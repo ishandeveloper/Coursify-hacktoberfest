@@ -402,4 +402,12 @@ let data = [
     image: 'artworknetninja.jpg',
     tags: ['CSS', 'CSS3', 'Animations', 'Front-end']
   }
+   {
+    name: 'AWS CloudFormation Tutorial',
+    instructor: 'Simplilearn',
+    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
+    description: 'AWS CloudFormation basics for beginners',
+    image: '',
+    tags: ['AWS', 'CloudFormation']
+  }
 ];
