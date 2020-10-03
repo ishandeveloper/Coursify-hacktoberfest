@@ -156,8 +156,7 @@ body {
   }
 }
 
-.courses__wrapper .courses__list {
-  display: -ms-grid;
+.courses__wrapper .courses__list  {
   display: grid;
   -ms-grid-columns: (minmax(400px, 1fr))[auto-fill];
       grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -318,4 +317,20 @@ body {
 .filter__message--tagname {
   text-decoration: underline;
 }
+
+
+.search-courses {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.search-bar {
+  width: 300px;
+  height:40px;
+  border-width: 1px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
 /*# sourceMappingURL=main.css.map */
+

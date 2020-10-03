@@ -260,6 +260,7 @@ let data = [
     image: "",
     tags: ["Flutter", "Firebase", "App development"],
   },
+
   {
     name: "Neural Networks From Scratch",
     instructor: "Harrison Kinsley(sentdex)",
@@ -277,8 +278,8 @@ let data = [
     description:
       "If you are a beginner with nodejs, express or mongodb ,this tutorial will give you a good idea of how these technologies work well together.",
     image: "",
-    tags: ["javascript", "nodejs", "express", "MongoDB"],
-  },
+    tags: ["javascript", "nodejs", "express", "MongoD
+},
   {
     name: "Ethical Hacking using Python",
     instructor: "Alexis Ahmed",
