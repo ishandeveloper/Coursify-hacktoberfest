@@ -293,7 +293,7 @@ let data = [
   tags:['Data Structures', 'Java']
 },
 {
-  name:'Data Structure and Algorithms',
+  name:'State-Management in Flutter',
   instructor: 'Vaibhav Goel',
   url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
   description:'Simple App State-Management in Flutter',
