@@ -401,5 +401,13 @@ let data = [
     description: 'Starting with the basics, including keyframes, transforms, and the animation property',
     image: 'artworknetninja.jpg',
     tags: ['CSS', 'CSS3', 'Animations', 'Front-end']
+  },
+  {
+    name: "Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal",
+    instructor: "Gustavo Guanabara",
+    url: "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
+    description: "a course for those who want to start their journey on git and github",
+    image: "",
+    tags: ["git", "github"]
   }
 ];
