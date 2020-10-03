@@ -381,4 +381,12 @@ let data = [
     image: "artworknetninja.jpg",
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
+  {
+    name: 'Java For Beginners',
+    instructor: 'Anuj Kumar Sharma',
+    url: 'https://www.youtube.com/watch?v=aQatrXw0njs&t=205s',
+    description: 'Crash Course Of Java for beginners',
+    image: '',
+    tags: ['Programming','Java']
+  },
 ];
