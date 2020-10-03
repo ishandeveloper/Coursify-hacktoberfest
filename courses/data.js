@@ -401,5 +401,21 @@ let data = [
     description: 'Starting with the basics, including keyframes, transforms, and the animation property',
     image: 'artworknetninja.jpg',
     tags: ['CSS', 'CSS3', 'Animations', 'Front-end']
+  },
+  {
+    name: 'Responsive Web Design',
+    instructor: 'freecodecamp',
+    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
+    description: 'Starting with the basics, will lead to Responsive Designning',
+    image: 'artworknetninja.jpg',
+    tags: ['web', 'Responsive', 'Front-end']
+  },
+  {
+    name: 'Java For Beginners',
+    instructor: 'Anuj Kumar Sharma',
+    url: 'https://www.youtube.com/watch?v=aQatrXw0njs&t=205s',
+    description: 'Crash Course Of Java for beginners',
+    image: '',
+    tags: ['Programming','Java']
   }
 ];
