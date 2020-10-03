@@ -381,4 +381,14 @@ let data = [
     image: "artworknetninja.jpg",
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
+  {
+    name: "React Native Tutorial",
+    instructor: "codedamn",
+    url:
+      "https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h&ab_channel=codedamn",
+    description:
+      "Introduce yourself to a new world of write-once-run-anywhere world! This is REACT NATIVE, running your apps natively on Android/iOS/blackberry (you need a bridge, though), etc.",
+    image: "codedamn.jpg",
+    tags: ["reactnative", "react", "javascript", "android", "ios"],
+  },
 ];
