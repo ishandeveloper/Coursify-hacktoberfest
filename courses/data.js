@@ -483,5 +483,13 @@ let data = [
     description: 'This course will instruct you about UIButtons in Swift',
     image: 'UI_Buttons_in_Swift.jpeg',
     tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  },
+   {
+    name: 'Flutter Course - Full Tutorial for Beginners (Build iOS and Android Apps)',
+    instructor: 'freeCodeCamp.org',
+    url: 'https://www.youtube.com/watch?v=pTJJsmejUOQ',
+    description: 'Flutter course for iOS and Android and takes you through the basic of all media.',
+    image: 'UI_Buttons_in_Swift.jpeg',
+    tags: ['Flutter', 'iOS', 'Android']
   }
 ];
