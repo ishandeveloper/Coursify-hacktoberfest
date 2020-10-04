@@ -421,4 +421,15 @@ let data = [
     description: "Learn Flutter from  basic to advance with some awesome projects to make",
     image: "",
     tags: ["Flutter","Dart","App devlopment"],
-  }];
+  },
+  {
+    name: "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
+    instructor: "Maximilian Schwarzmüller",
+    url:
+      "https://www.youtube.com/watch?v=x0uinJvhNxI&t=5202s",
+    description:
+      "Free Flutter Introduction for Beginners: Get Started with Flutter and learn how to build an iOS and Android app with Flutter!",
+    image: "",
+    tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
+  }
+];
