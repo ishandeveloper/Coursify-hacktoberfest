@@ -483,5 +483,13 @@ let data = [
     description: 'This course will instruct you about UIButtons in Swift',
     image: 'UI_Buttons_in_Swift.jpeg',
     tags: ['Swift', 'iOS', 'UIKit', 'apple']
-  }
+  },
+   {
+    name: 'Neural Networks for Machine Learning',
+    instructor: 'Geoffrey Hinton',
+    url: 'https://www.classcentral.com/course/neuralnets-398',
+    description: 'Learn about artificial neural networks and how they\'re being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc.',
+    image: '',
+    tags: ['Neural Networks', 'Machine Learning', 'Python']
+  },
 ];
