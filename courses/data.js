@@ -475,5 +475,13 @@ let data = [
     description: 'AWS CloudFormation basics for beginners',
     image: '',
     tags: ['AWS', 'CloudFormation']
+  },
+  {
+    name: "CS50's Web Programming with Python and JavaScript",
+    instructor: ["David J. Malan","Brian Yu"],
+    url: "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
+    description: "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
+    image: "https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg",
+    tags: ["web development", "Django", "Javascript" , "Python"],
   }
 ];
