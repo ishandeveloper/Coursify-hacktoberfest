@@ -391,4 +391,20 @@ let data = [
     image: "codedamn.jpg",
     tags: ["reactnative", "react", "javascript", "android", "ios"],
   },
+  {
+    name:"Learn C++",
+    instructor: "Alex",
+    url:"https://www.learncpp.com/",
+    description:"LearnCpp.com is a free website devoted to teaching you how to program in C++.",
+    image: "",
+    tags:["C++"]
+  },
+  {
+    name: "Flutter Tutorial",
+    instructor: "MTECHVIRAL",
+    url: "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
+    description: "Learn Flutter from  basic to advance with some awesome projects to make",
+    image: "",
+    tags: ["Flutter","Dart","App devlopment"],
+  }
 ];
