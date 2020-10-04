@@ -44,6 +44,24 @@ let data = [
     image: "intro-linux.png",
     tags: ["linux", "bash"],
   },
+{
+    name: "Linux Essentials For Hackers",
+    instructor: "HackerSploit",
+    url: "https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by",
+    description:
+      " Linux essentials to get started with Ethical Hacking",
+    image: "https://i.ytimg.com/vi/T0Db6dVYyoA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBBvfOcGnAP7JLXWp7MEdX-Dx9MXg",
+    tags: ["linux", "Ethical Hacking"],
+  },
+{
+    name: "Basics of Backend Engineering",
+    instructor: "Hussein Nasser",
+    url: "https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by",
+    description:
+      " Major system design concepts and basics of Backend Engineering",
+    image: "https://i.ytimg.com/vi/V3ZPPPKEipA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6luQN6lmiM5m92rRUlVeAGYxi8w",
+    tags: ["Web Dev", "Backend"],
+  },  
 
   {
     name:
