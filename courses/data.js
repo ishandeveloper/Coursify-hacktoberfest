@@ -1,5 +1,23 @@
 let data = [
   {
+    name: "How to test firebase app locally using firebase emulators",
+    instructor: "uNicoDev",
+    url: "https://youtu.be/oP6mwWoj7D4?t=70",
+    description:
+      "this tutorial is perfect to learn how to test your app using firebase emulator",
+    image: "",
+    tags: ["firebase", "firebase emulator"],
+  },
+  {
+    name: "deploy firebase cloud functions",
+    instructor: "Srinivas Tamada",
+    url: "https://youtu.be/Qnw2bO3ljZs?t=147",
+    description:
+      "from creating a new express, Nodejs project to deploying to firebase cloud functions, this video covers all steps and commands",
+    image: "",
+    tags: ["firebase", "firebase deploy", ["firebase cloud functions"]],
+  },
+  {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
     url:
