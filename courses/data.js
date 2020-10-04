@@ -382,16 +382,6 @@ let data = [
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
   {
-    name: "NestJS Zero to Hero - Modern TypeScript Back-end Development",
-    instructor: "Ariel Weinberger",
-    url:
-      "https://www.udemy.com/course/nestjs-zero-to-hero/",
-    description:
-      "Develop and deploy enterprise back-end applications following best practices using Node.js and TypeScript",
-    image: "",
-    tags: ["Nestjs", "TypeScript", "PostgreSQL","JWT"],
-  },
-  {
     name: "Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)",
     instructor: "Sarthak",
     url:
