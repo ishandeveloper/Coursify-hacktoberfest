@@ -475,5 +475,13 @@ let data = [
     description: 'AWS CloudFormation basics for beginners',
     image: '',
     tags: ['AWS', 'CloudFormation']
+  },
+  {
+    name: 'MATLAB FOR ENGINEERS',
+    instructor: 'Engineers Academy',
+    url: 'https://www.youtube.com/watch?v=GyMkCWZf-70&list=PLPLlcVV9fXj8-CqZAQSbAVwF9KJC1O7o_',
+    description: 'A series of MATLAB tutorials for beginners and Engineers.',
+    image: '',
+    tags: ['MATLAB']
   }
 ];
