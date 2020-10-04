@@ -126,6 +126,7 @@ body {
     .courses__list {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+        justify-items: center;
 
         @media screen and (max-width: 720px) {
             grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
@@ -159,11 +160,15 @@ body {
 
                 .course__tags {
                     display: flex;
+                    flex-wrap: wrap;
                     flex: 1;
                     margin-bottom: 0.5rem;
+                    a{
+                        text-decoration: none;
+                    }
                     .course__tag {
                         flex: 0;
-                        margin-right: 0.5rem;
+                        margin: .3rem ;
                         width: max-content;
                         border-radius: 1px;
                         font-size: 0.75rem;
