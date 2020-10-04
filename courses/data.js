@@ -382,6 +382,16 @@ let data = [
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
   {
+    name: "Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)",
+    instructor: "Sarthak",
+    url:
+      "https://www.youtube.com/watch?v=BXiHvgrJfkg",
+    description:
+      "Learn Laravel PHP framework from very basics to advanced using Laravel Livewire by creating advanced todo list project in this full course in 6.5 hours",
+    image: "",
+    tags: ["Laravel"],
+  },
+  {
     name: "Deep Learning Intuitions",
     instructor: "3Blue1Brown",
     url:
