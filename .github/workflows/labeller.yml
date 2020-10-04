@@ -1,0 +1,26 @@
+# This is a basic workflow that is manually triggered
+
+name: Add Hacktoberfest Label
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  pull_request:
+    branches:
+      - master
+    types:
+      - opened
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  add-label:
+    name: Add Label
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: christianvuerings/add-labels@v1
+        with:
+          labels: |
+            hacktoberfest-accepted
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
