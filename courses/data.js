@@ -381,4 +381,12 @@ let data = [
     image: "artworknetninja.jpg",
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
+  {
+    name: "Flutter Tutorial",
+    instructor: "MTECHVIRAL",
+    url: "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
+    description: "Learn Flutter from  basic to advance with some awesome projects to make",
+    image: "",
+    tags: ["Flutter","Dart","App devlopment"],
+  }
 ];
