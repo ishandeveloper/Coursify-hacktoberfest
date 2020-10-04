@@ -425,6 +425,22 @@ let data = [
     tags:["C++"]
   },
   {
+    name: 'CSS Animation Tutorial',
+    instructor: 'Net Ninja',
+    url: 'https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5',
+    description: 'Starting with the basics, including keyframes, transforms, and the animation property',
+    image: 'artworknetninja.jpg',
+    tags: ['CSS', 'CSS3', 'Animations', 'Front-end']
+  },
+  {
+    name: "Curso de Git e GitHub",
+    instructor: "Gustavo Guanabara",
+    url: "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
+    description: "a course for those who want to start their journey on git and github",
+    image: "",
+    tags: ["git", "github", "portuguese"],
+  },
+  {
     name: "Flutter Tutorial",
     instructor: "MTECHVIRAL",
     url: "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
