@@ -18,6 +18,25 @@ let data = [
     tags: ["firebase", "firebase deploy", ["firebase cloud functions"]],
   },
   {
+    name: "Getting Started with Cloud Firestore with Node.js - Firecasts",
+    instructor: "Firebase",
+    url: "https://youtu.be/Z87OZtIYC_0",
+    description: "store your web app data on firestore. firestore full guid.",
+    image: "",
+    tags: ["firebase", "firestore", "firebase database"],
+  },
+  {
+    name:
+      "Cloud Functions deployment requires the pay-as-you-go (Blaze) billing plan), solution on stackoverflow",
+    instructor: "Stackoverflow",
+    url:
+      "https://stackoverflow.com/questions/62824043/is-function-cloud-in-firebase-free-or-not-cloud-functions-deployment-requires-t",
+    description:
+      "this solution will tell you how to deploy on firebase even if you have free Spark-plan.",
+    image: "",
+    tags: ["firebase", "firebase-deploy", "firebase spark-plan"],
+  },
+  {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
     url:
