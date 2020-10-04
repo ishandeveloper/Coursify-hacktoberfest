@@ -457,5 +457,13 @@ let data = [
       "Free Flutter Introduction for Beginners: Get Started with Flutter and learn how to build an iOS and Android app with Flutter!",
     image: "",
     tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
+  },
+   {
+    name: 'AWS CloudFormation Tutorial',
+    instructor: 'Simplilearn',
+    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
+    description: 'AWS CloudFormation basics for beginners',
+    image: '',
+    tags: ['AWS', 'CloudFormation']
   }
 ];
