@@ -382,6 +382,16 @@ let data = [
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
   {
+    name: "Deep Learning Intuitions",
+    instructor: "3Blue1Brown",
+    url:
+      "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+    description:
+      "Beginner friendly Deep Learning Intuition and then adding in a deep dive towards how Neural Networks work",
+    image: "artworknetninja.jpg",
+    tags: ["Deep Learning", "Visualization", "Animations", "Neural Networks"],
+  },
+    {
     name: 'Java For Beginners',
     instructor: 'Anuj Kumar Sharma',
     url: 'https://www.youtube.com/watch?v=aQatrXw0njs&t=205s',
