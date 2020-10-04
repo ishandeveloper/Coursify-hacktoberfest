@@ -382,7 +382,14 @@ let data = [
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
   {
-    name:'JavaScript: Understanding the Weird Parts',
+    name: 'Java For Beginners',
+    instructor: 'Anuj Kumar Sharma',
+    url: 'https://www.youtube.com/watch?v=aQatrXw0njs&t=205s',
+    description: 'Crash Course Of Java for beginners',
+    image: '',
+    tags: ['Programming','Java','Hindi']
+  },
+  {    name:'JavaScript: Understanding the Weird Parts',
     instructor: 'Tony Alicea',
     url:'https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea',
     description:'An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more',
@@ -414,7 +421,7 @@ let data = [
     description: "Learn Flutter from  basic to advance with some awesome projects to make",
     image: "",
     tags: ["Flutter","Dart","App devlopment"],
-  }
+  },
   {
     name: "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
     instructor: "Maximilian Schwarzmüller",
@@ -424,5 +431,5 @@ let data = [
       "Free Flutter Introduction for Beginners: Get Started with Flutter and learn how to build an iOS and Android app with Flutter!",
     image: "",
     tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
-  },
+  }
 ];
