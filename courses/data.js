@@ -382,6 +382,14 @@ let data = [
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
   {
+    name:'JavaScript: Understanding the Weird Parts',
+    instructor: 'Tony Alicea',
+    url:'https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea',
+    description:'An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more',
+    image: '',
+    tags:['Javascript', 'Framework', 'jQuery'],
+  },
+  {
     name: "React Native Tutorial",
     instructor: "codedamn",
     url:
