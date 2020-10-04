@@ -381,4 +381,12 @@ let data = [
     image: "artworknetninja.jpg",
     tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
+  {
+    name:"Learn C++",
+    instructor: "Alex",
+    url:"https://www.learncpp.com/",
+    description:"LearnCpp.com is a free website devoted to teaching you how to program in C++.",
+    image: "",
+    tags:["C++"]
+  },
 ];
