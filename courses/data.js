@@ -415,4 +415,12 @@ let data = [
     image: "",
     tags: ["Flutter","Dart","App devlopment"],
   }
+  {
+    name: "M001: MongoDB Basics",
+    instructor: "Yulia Genkina",
+    url: "https://university.mongodb.com/courses/M001/about",
+    description: "learn how to set up your database and start exploring different ways to search, create, and analyze your data with MongoDB",
+    image: "",
+    tags:['Database', 'MongoDB'],
+  }
 ];
