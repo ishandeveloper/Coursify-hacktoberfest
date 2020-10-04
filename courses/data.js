@@ -391,7 +391,25 @@ let data = [
     image: "",
     tags: ["Laravel"],
   },
-    name:'JavaScript: Understanding the Weird Parts',
+  {
+    name: "Deep Learning Intuitions",
+    instructor: "3Blue1Brown",
+    url:
+      "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+    description:
+      "Beginner friendly Deep Learning Intuition and then adding in a deep dive towards how Neural Networks work",
+    image: "artworknetninja.jpg",
+    tags: ["Deep Learning", "Visualization", "Animations", "Neural Networks"],
+  },
+    {
+    name: 'Java For Beginners',
+    instructor: 'Anuj Kumar Sharma',
+    url: 'https://www.youtube.com/watch?v=aQatrXw0njs&t=205s',
+    description: 'Crash Course Of Java for beginners',
+    image: '',
+    tags: ['Programming','Java','Hindi']
+  },
+  {    name:'JavaScript: Understanding the Weird Parts',
     instructor: 'Tony Alicea',
     url:'https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea',
     description:'An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more',
@@ -417,11 +435,45 @@ let data = [
     tags:["C++"]
   },
   {
+    name: 'CSS Animation Tutorial',
+    instructor: 'Net Ninja',
+    url: 'https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5',
+    description: 'Starting with the basics, including keyframes, transforms, and the animation property',
+    image: 'artworknetninja.jpg',
+    tags: ['CSS', 'CSS3', 'Animations', 'Front-end']
+  },
+  {
+    name: "Curso de Git e GitHub",
+    instructor: "Gustavo Guanabara",
+    url: "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
+    description: "a course for those who want to start their journey on git and github",
+    image: "",
+    tags: ["git", "github", "portuguese"],
+  },
+  {
     name: "Flutter Tutorial",
     instructor: "MTECHVIRAL",
     url: "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
     description: "Learn Flutter from  basic to advance with some awesome projects to make",
     image: "",
     tags: ["Flutter","Dart","App devlopment"],
+  },
+  {
+    name: "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
+    instructor: "Maximilian Schwarzmüller",
+    url:
+      "https://www.youtube.com/watch?v=x0uinJvhNxI&t=5202s",
+    description:
+      "Free Flutter Introduction for Beginners: Get Started with Flutter and learn how to build an iOS and Android app with Flutter!",
+    image: "",
+    tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
+  },
+   {
+    name: 'AWS CloudFormation Tutorial',
+    instructor: 'Simplilearn',
+    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
+    description: 'AWS CloudFormation basics for beginners',
+    image: '',
+    tags: ['AWS', 'CloudFormation']
   }
 ];
