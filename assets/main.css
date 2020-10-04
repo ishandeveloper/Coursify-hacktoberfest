@@ -161,6 +161,7 @@ body {
   display: grid;
   -ms-grid-columns: (minmax(400px, 1fr))[auto-fill];
       grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  justify-items: center;
 }
 
 @media screen and (max-width: 720px) {
@@ -211,17 +212,23 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
   margin-bottom: 0.5rem;
 }
 
+.courses__wrapper .courses__list .courses__card .course__info .course__tags a {
+  text-decoration: none;
+}
+
 .courses__wrapper .courses__list .courses__card .course__info .course__tags .course__tag {
   -webkit-box-flex: 0;
       -ms-flex: 0;
           flex: 0;
-  margin-right: 0.5rem;
+  margin: .3rem;
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
