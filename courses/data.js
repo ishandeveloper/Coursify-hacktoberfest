@@ -24,7 +24,7 @@ let data = [
     description:
       "from creating a new express, Nodejs project to deploying to firebase cloud functions, this video covers all steps and commands",
     image: "",
-    tags: ["firebase", "firebase deploy", ["firebase cloud functions"]],
+    tags: ["firebase", "firebase deploy", "firebase cloud functions"],
   },
   {
     name: "Getting Started with Cloud Firestore with Node.js - Firecasts",
