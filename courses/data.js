@@ -483,5 +483,29 @@ let data = [
     description: 'This course will instruct you about UIButtons in Swift',
     image: 'UI_Buttons_in_Swift.jpeg',
     tags: ['Swift', 'iOS', 'UIKit', 'apple']
-  }
+  },
+  {
+    name: "Flutter Animation Course",
+    instructor: "The Net Ninja",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1",
+    description: "Learn all about Flutter Animations, from start to finish, to make your apps slicker & smoother.",
+    image: "",
+    tags: ["Flutter","Dart","App devlopment"],
+  },
+  {
+    name: "JavaScript Course",
+    instructor: "The Net Ninja",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET",
+    description: "Learn JavaScript from zero to Ninja level.",
+    image: "js-course.png",
+    tags: ["JavaScript"],
+  },
+  {
+    name: "Complete React Tutorial - with Redux",
+    instructor: "The Net Ninja",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG",
+    description: "Lean everything about React from basics and ground level.",
+    image: "intro-react.png",
+    tags: ["React"],
+  },
 ];
