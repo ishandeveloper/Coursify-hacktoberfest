@@ -12,7 +12,7 @@ let data = [
     name: "The Web Developer Bootcamp",
     instructor: "Colt Steele",
     url: "https://www.udemy.com/share/101W9CAkEcd15aTHw=/",
-    discription:
+    description:
       "in this course you will learn NodeJs, express, jQuery, ejx, Mongoose, Mongodb, Bootstrape, Css, Authentication, and will build a complete website.",
     image: "",
     tags: ["web development", "udemy"],
