@@ -200,6 +200,15 @@ let data = [
     tags: ["flutter", "firebase", "app"],
   },
   {
+    name: "WEB DEVELOPMENT- BEGINNER COURSE",
+    instructor: "Code With Harry",
+    url: "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
+    description:
+      "A full beginner course with detailed tutorials on HTML,CSS,JAVASCRIPT along with Backend Introduction",
+    image: " ",
+    tags: ["Web Development", "HTML", "CSS", "JAVASCRIPT"],
+  },
+  {
     name: "Machine Learning",
     instructor: "Andrew Ng",
     url: "https://www.coursera.org/learn/machine-learning",
