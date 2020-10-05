@@ -9,6 +9,15 @@ let data = [
     tags: ["firebase", "firebase emulator"],
   },
   {
+    name: "The Web Developer Bootcamp",
+    instructor: "Colt Steele",
+    url: "https://www.udemy.com/share/101W9CAkEcd15aTHw=/",
+    discription:
+      "in this course you will learn NodeJs, express, jQuery, ejx, Mongoose, Mongodb, Bootstrape, Css, Authentication, and will build a complete website.",
+    image: "",
+    tags: ["web development", "udemy"],
+  },
+  {
     name: "deploy firebase cloud functions",
     instructor: "Srinivas Tamada",
     url: "https://youtu.be/Qnw2bO3ljZs?t=147",
