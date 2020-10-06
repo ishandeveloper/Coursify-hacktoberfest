@@ -483,5 +483,5 @@ let data = [
     description: "This course picks up where CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.",
     image: "https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg",
     tags: ["web development", "Django", "Javascript" , "Python"],
-  }
+  },
 ];
