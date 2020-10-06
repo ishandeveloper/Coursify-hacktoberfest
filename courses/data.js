@@ -1,4 +1,20 @@
 let data = [
+    {
+    name: "Introduction to Data Science in Python",
+    instructor: "Christopher Brooks",
+    url: "https://www.coursera.org/learn/python-data-analysis",
+    description: "Introduce the learner to the basics of the python programming environment, including fundamental python programming techniques.",
+    image: "Christopher-Brooks.png",
+    tags: ["Python", "Data analysis"],
+  },
+  {
+    name: "Applied Plotting, Charting & Data Representation in Python",
+    instructor: "Christopher Brooks",
+    url:"https://www.coursera.org/learn/python-plotting",
+    description: " Introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library.",
+    image: "Christopher-Brooks.png",
+    tags: ["Python", "Data-visualizations"],
+  },
   {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
