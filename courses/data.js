@@ -17,6 +17,16 @@ let data = [
     image: "django-tutorial.png",
     tags: ["web development", "Django"],
   },
+  
+    {
+      name:'Frontend Masters Bootcamp',
+      instructor: ['Jen Kramer','Brian Holt'],
+      url:'https://frontendmasters.com/bootcamp/',
+      description:"Get a complete, ground up introduction to HTML, CSS and JavaScript. You'll also get hands-on experience building projects to show off your new skills along the way!'",
+      image: '',
+      tags:['HTML', 'CSS', 'Javascript']
+    }
+  ,
   {
     name: "Intro To React",
     instructor: "Ishan Sharma",
