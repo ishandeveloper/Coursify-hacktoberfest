@@ -499,5 +499,21 @@ let data = [
     description: 'Responsive Web Design for absolute beginners',
     image: '',
     tags: ['Development', 'Front-end']
+  },
+  {	
+  name:'iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp',
+  instructor: 'Dr. Angela Yu',
+  url:'https://www.udemy.com/course/ios-13-app-development-bootcamp/',
+  description:'From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!',
+  image: '',
+  tags:['iOS', 'Swift','App development']
+  },
+  {
+    name: 'CS193p - Developing apps for iOS Stanford University',
+    instructor: 'Paul Hegarty',
+    url: 'https://cs193p.sites.stanford.edu/',
+    description: 'Developing Apps for iOS',
+    image: '',
+    tags: ['iOS', 'Swift','App development','SwiftUI']
   }
 ];
