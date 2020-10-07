@@ -483,5 +483,13 @@ let data = [
     description: 'This course will instruct you about UIButtons in Swift',
     image: 'UI_Buttons_in_Swift.jpeg',
     tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  },
+    {
+    name:'CS50 Computer Science',
+    instructor: 'CS50 - Harvard and Yale University',
+    url:'https://www.youtube.com/c/cs50/videos',
+    description:'This is a general programming and computer science course from Harvard University',
+    image: 'cs50image.jpg',
+    tags:['Computer Science', 'Programming']
   }
 ];
