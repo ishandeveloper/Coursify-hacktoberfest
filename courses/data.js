@@ -43,8 +43,22 @@ let data = [
       "One of the most important tools for a programmer is the Operating System, it runs your whole device and it’s important to choose the one that suits you the best!",
     image: "intro-linux.png",
     tags: ["linux", "bash"],
+  }, 
+  {
+    name: "Intro to Neural Networks",
+    instructor: "Daniel Shiffman",
+    url: "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh",
+    description: "A begginer friendly course for getting started with neural networks",
+    image: "intro_neural_network.jpg",
+    tags: ["machine learning", "neural network","nature of code"],  },
+  { 
+    name: "Linux Shell Scripting",
+    instructor: "Jason Cannon",
+    url: "https://www.udemy.com/course/linux-shell-scripting-projects/",
+    description: "Learn how to shell script through project-based training (Bash Scripting, Bash Programming, Sed, Grep, Awk, and More)",
+    image: "Linux-Shell-Scripting.png",
+    tags: ["linux", "shell scripting", "bash"],
   },
-
   {
     name:
       "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
@@ -360,16 +374,6 @@ let data = [
       "Learn to use tensorflow and more details of CNN and RNN networks",
     image: "dl-with-tensorflow.png",
     tags: ["CNN", "Tensorflow", "RNN"],
-  },
-  {
-    name: "Ethical Hacking using Python",
-    instructor: "Alexis Ahmed",
-    url:
-      "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
-    description:
-      "Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.",
-    image: "ethical-hacking.png",
-    tags: ["Python", "Hacking", "Scripting"],
   },
   {
     name: "CSS Animation Tutorial",
