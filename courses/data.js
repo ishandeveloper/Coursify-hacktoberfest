@@ -50,7 +50,8 @@ let data = [
     url: "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh",
     description: "A begginer friendly course for getting started with neural networks",
     image: "intro_neural_network.jpg",
-    tags: ["machine learning", "neural network","nature of code"],  },
+    tags: ["machine learning", "neural network","nature of code"],  
+  },
   { 
     name: "Linux Shell Scripting",
     instructor: "Jason Cannon",
