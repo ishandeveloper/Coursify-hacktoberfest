@@ -500,18 +500,10 @@ let data = [
     image: '',
     tags: ['Development', 'Front-end']
   },
-  {	
-  name:'iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp',
-  instructor: 'Dr. Angela Yu',
-  url:'https://www.udemy.com/course/ios-13-app-development-bootcamp/',
-  description:'From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!',
-  image: '',
-  tags:['iOS', 'Swift','App development']
-  },
   {
     name: 'CS193p - Developing apps for iOS Stanford University',
     instructor: 'Paul Hegarty',
-    url: 'https://cs193p.sites.stanford.edu/',
+    url: 'https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG',
     description: 'Developing Apps for iOS',
     image: '',
     tags: ['iOS', 'Swift','App development','SwiftUI']
