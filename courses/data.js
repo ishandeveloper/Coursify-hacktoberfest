@@ -259,6 +259,55 @@ let data = [
     tags: ["javascript", "typescript", "web", "Portuguese"],
   },
   {
+
+    name:'Flutter Tutorials for Beginners',
+    instructor: 'The Growing Developer',
+    url:'https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj',
+    description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
+    image: '',
+    tags:['Flutter', 'Firebase','App development']
+},
+{
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "",
+  tags: ["Angular", "typescript", "javascript"],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Introduction to Flutter Development Using Dart',
+  instructor: 'Angela Yu',
+  url:'https://www.appbrewery.co/p/intro-to-flutter',
+  description:'Intro to Flutter and Dart, Building over 8 fully-fledged apps',
+  image: "flutter-dart.png",
+  tags:['Flutter', 'Dart','App development'],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+},
+  {
     name: "Flutter Tutorials for Beginners",
     instructor: "The Growing Developer",
     url:
@@ -527,3 +576,4 @@ let data = [
     tags: ['Development', 'Front-end']
   }
 ];
+
