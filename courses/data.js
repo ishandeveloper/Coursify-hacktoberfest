@@ -510,15 +510,15 @@ let data = [
     image: 'UI_Buttons_in_Swift.jpeg',
     tags: ['Swift', 'iOS', 'UIKit', 'apple']
   },
-  {
-    name: 'AWS CloudFormation Tutorial',
-    instructor: 'Simplilearn',
-    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
-    description: 'AWS CloudFormation basics for beginners',
-    image: '',
-    tags: ['AWS', 'CloudFormation']
-  },
-  {
+    {
+    name:'CS50 Computer Science',
+    instructor: 'CS50 - Harvard and Yale University',
+    url:'https://www.youtube.com/c/cs50/videos',
+    description:'This is a general programming and computer science course from Harvard University',
+    image: 'cs50image.jpg',
+    tags:['Computer Science', 'Programming']
+    }
+,  {
     name: 'Responsive Web Design',
     instructor: 'freecodecamp',
     url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
