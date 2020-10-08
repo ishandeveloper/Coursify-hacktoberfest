@@ -525,5 +525,13 @@ let data = [
     description: 'Responsive Web Design for absolute beginners',
     image: '',
     tags: ['Development', 'Front-end']
+  },
+  {
+    name:'Kotlin Básico',
+    instructor: 'Rapadura Dev',
+    url:'https://www.youtube.com/watch?v=Kd3msE3lMuc&list=PLlGFv5gh9fBIJ8SEaQ_AKon-uenAlUbjE',
+    description:'A simple course for learning about Kotlin',
+    image: '',
+    tags:['Technology', 'Kotlin', 'Android', 'Google', 'hacktoberfest']
   }
 ];
