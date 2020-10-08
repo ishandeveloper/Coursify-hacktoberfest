@@ -52,14 +52,6 @@ let data = [
     image: "intro_neural_network.jpg",
     tags: ["machine learning", "neural network","nature of code"],  
   },
-  { 
-    name: "Linux Shell Scripting",
-    instructor: "Jason Cannon",
-    url: "https://www.udemy.com/course/linux-shell-scripting-projects/",
-    description: "Learn how to shell script through project-based training (Bash Scripting, Bash Programming, Sed, Grep, Awk, and More)",
-    image: "Linux-Shell-Scripting.png",
-    tags: ["linux", "shell scripting", "bash"],
-  },
   {
     name:
       "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
