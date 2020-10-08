@@ -478,22 +478,6 @@ let data = [
     tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
   },
   {
-    name: "AWS CloudFormation Tutorial",
-    instructor: "Simplilearn",
-    url: "https://www.youtube.com/watch?v=t97jZch4lMY",
-    description: "AWS CloudFormation basics for beginners",
-    image: "",
-    tags: ["AWS", "CloudFormation"],
-  },
-  {
-    name: "UIButtons in Swift",
-    instructor: "Neeraj Gupta",
-    url: "https://dev.to/dsc_ciet/uibuttons-in-swift-7i4",
-    description: "This course will instruct you about UIButtons in Swift",
-    image: "UI_Buttons_in_Swift.jpeg",
-    tags: ["Swift", "iOS", "UIKit", "apple"],
-  },
-  {
     name: "Java Programming",
     instructor: "University of Helsinki",
     url: "https://java-programming.mooc.fi/",
@@ -502,4 +486,36 @@ let data = [
     image: "mooc-java.png",
     tags: ["Java", "Object-Oriented Programming", "OOP"],
   },
+   {
+    name: 'AWS CloudFormation Tutorial',
+    instructor: 'Simplilearn',
+    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
+    description: 'AWS CloudFormation basics for beginners',
+    image: '',
+    tags: ['AWS', 'CloudFormation']
+  },
+    {
+    name: 'UIButtons in Swift',
+    instructor: 'Neeraj Gupta',
+    url: 'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
+    description: 'This course will instruct you about UIButtons in Swift',
+    image: 'UI_Buttons_in_Swift.jpeg',
+    tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  },
+  {
+    name: 'AWS CloudFormation Tutorial',
+    instructor: 'Simplilearn',
+    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
+    description: 'AWS CloudFormation basics for beginners',
+    image: '',
+    tags: ['AWS', 'CloudFormation']
+  },
+  {
+    name: 'Responsive Web Design',
+    instructor: 'freecodecamp',
+    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
+    description: 'Responsive Web Design for absolute beginners',
+    image: '',
+    tags: ['Development', 'Front-end']
+  }
 ];
