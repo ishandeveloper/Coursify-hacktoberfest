@@ -1,5 +1,13 @@
 let data = [
   {
+    name:'Javascript Basics',
+    instructor: 'Steven Hancock',
+    url:'https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w',
+    description:'From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language',
+    image: '',
+    tags:['web development', 'Javascript']
+  },
+  {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
     url:
