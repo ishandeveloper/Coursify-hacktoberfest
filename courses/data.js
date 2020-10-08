@@ -525,5 +525,13 @@ let data = [
     description: 'Responsive Web Design for absolute beginners',
     image: '',
     tags: ['Development', 'Front-end']
-  }
+  },
+  {
+    name: "The Cherno C++ Playlist",
+    instructor: "Yan Chernikov",
+    url: "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+    description: "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
+    image: "cpp_playlist.jpg",
+    tags: ["C++", "Technology", "C", "Cpp"],
+  },
 ];
