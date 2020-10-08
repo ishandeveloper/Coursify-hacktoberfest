@@ -88,8 +88,9 @@ Here are the steps to follow :
     If you go to your forked repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
     <img src="./assets/steps/compare-and-pull.png">
-
-    * Now submit your pull request, by clicking the `Create Pull Request` button.
+    
+    *Now write the `title` and `add comment`. Submit the pool request(PR) clicking  `Create Pull Request` button.
+    <img src="./assets/steps/PR_Final.png" width="100%">
 
 If the above guide was tough for you to follow, you can follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
