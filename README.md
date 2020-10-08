@@ -42,7 +42,7 @@ Here are the steps to follow :
 
 1. Fork this repository by click the Fork button in the top right of this page or just [click here](https://github.com/ishandeveloper/Coursify-hacktoberfest/fork). Feel free to leave a star, if you'd like 
 
-    <img src="./assets/steps/fork.png">
+    <img src="./assets/steps/ishanDeveloper_github_fork.png">
 
 1. Clone the forked repository on your desktop using
 
