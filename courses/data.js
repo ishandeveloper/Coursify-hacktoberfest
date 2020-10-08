@@ -525,5 +525,13 @@ let data = [
     description: 'Responsive Web Design for absolute beginners',
     image: '',
     tags: ['Development', 'Front-end']
+  },
+  {
+    name: 'CS193p - Developing apps for iOS Stanford University',
+    instructor: 'Paul Hegarty',
+    url: 'https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG',
+    description: 'Developing Apps for iOS',
+    image: '',
+    tags: ['iOS', 'Swift','App development','SwiftUI']
   }
 ];
