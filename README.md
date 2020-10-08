@@ -41,7 +41,7 @@ If you know a course that will help the other developers please feel free to add
 Here are the steps to follow : 
 
 1. Fork this repository by click the Fork button in the top right of this page or just [click here](https://github.com/ishandeveloper/Coursify-hacktoberfest/fork). Feel free to leave a star, if you'd like 
-    <img src="./assets/steps/ishanDeveloper_github_fork.png" width="100%">
+    <img src="./assets/steps/ishanDeveloper_github_star.png" width="100%">
     <img src="./assets/steps/ishanDeveloper_github_fork.png" width="100%">
 
 1. Clone the forked repository on your desktop using
