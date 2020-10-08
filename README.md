@@ -89,7 +89,7 @@ Here are the steps to follow :
 
     <img src="./assets/steps/compare-and-pull.png">
     
-    *Now write the `title` and `add comment`. Submit the pool request(PR) clicking  `Create Pull Request` button.
+    *Now write the `title` and `Leave a comment`. Submit the pool request(PR) clicking  `Create Pull Request` button.
     <img src="./assets/steps/PR_Final.png" width="100%">
 
 If the above guide was tough for you to follow, you can follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
