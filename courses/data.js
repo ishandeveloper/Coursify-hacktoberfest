@@ -525,5 +525,15 @@ let data = [
     description: 'Responsive Web Design for absolute beginners',
     image: '',
     tags: ['Development', 'Front-end']
+  },
+  {
+    name: 'Machine Learning With Python',
+    instructor: 'Sentdex',
+    url: 'https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v',
+    description: 'Learning Machine Learning with Python',
+    image: '',
+    tags: ['ML', 'Python']
   }
+  
+  
 ];
