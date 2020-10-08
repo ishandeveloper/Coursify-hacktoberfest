@@ -483,5 +483,21 @@ let data = [
     description: 'This course will instruct you about UIButtons in Swift',
     image: 'UI_Buttons_in_Swift.jpeg',
     tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  },
+  {
+    name: 'AWS CloudFormation Tutorial',
+    instructor: 'Simplilearn',
+    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
+    description: 'AWS CloudFormation basics for beginners',
+    image: '',
+    tags: ['AWS', 'CloudFormation']
+  },
+  {
+    name: 'Responsive Web Design',
+    instructor: 'freecodecamp',
+    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
+    description: 'Responsive Web Design for absolute beginners',
+    image: '',
+    tags: ['Development', 'Front-end']
   }
 ];
