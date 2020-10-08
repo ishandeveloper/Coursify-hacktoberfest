@@ -384,8 +384,7 @@ let data = [
   {
     name: "Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)",
     instructor: "Sarthak",
-    url:
-      "https://www.youtube.com/watch?v=BXiHvgrJfkg",
+    url: "https://www.youtube.com/watch?v=BXiHvgrJfkg",
     description:
       "Learn Laravel PHP framework from very basics to advanced using Laravel Livewire by creating advanced todo list project in this full course in 6.5 hours",
     image: "",
@@ -401,20 +400,23 @@ let data = [
     image: "artworknetninja.jpg",
     tags: ["Deep Learning", "Visualization", "Animations", "Neural Networks"],
   },
-    {
-    name: 'Java For Beginners',
-    instructor: 'Anuj Kumar Sharma',
-    url: 'https://www.youtube.com/watch?v=aQatrXw0njs&t=205s',
-    description: 'Crash Course Of Java for beginners',
-    image: '',
-    tags: ['Programming','Java','Hindi']
+  {
+    name: "Java For Beginners",
+    instructor: "Anuj Kumar Sharma",
+    url: "https://www.youtube.com/watch?v=aQatrXw0njs&t=205s",
+    description: "Crash Course Of Java for beginners",
+    image: "",
+    tags: ["Programming", "Java", "Hindi"],
   },
-  {    name:'JavaScript: Understanding the Weird Parts',
-    instructor: 'Tony Alicea',
-    url:'https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea',
-    description:'An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more',
-    image: '',
-    tags:['Javascript', 'Framework', 'jQuery'],
+  {
+    name: "JavaScript: Understanding the Weird Parts",
+    instructor: "Tony Alicea",
+    url:
+      "https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea",
+    description:
+      "An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more",
+    image: "",
+    tags: ["Javascript", "Framework", "jQuery"],
   },
   {
     name: "React Native Tutorial",
@@ -427,61 +429,77 @@ let data = [
     tags: ["reactnative", "react", "javascript", "android", "ios"],
   },
   {
-    name:"Learn C++",
+    name: "Learn C++",
     instructor: "Alex",
-    url:"https://www.learncpp.com/",
-    description:"LearnCpp.com is a free website devoted to teaching you how to program in C++.",
+    url: "https://www.learncpp.com/",
+    description:
+      "LearnCpp.com is a free website devoted to teaching you how to program in C++.",
     image: "",
-    tags:["C++"]
+    tags: ["C++"],
   },
   {
-    name: 'CSS Animation Tutorial',
-    instructor: 'Net Ninja',
-    url: 'https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5',
-    description: 'Starting with the basics, including keyframes, transforms, and the animation property',
-    image: 'artworknetninja.jpg',
-    tags: ['CSS', 'CSS3', 'Animations', 'Front-end']
+    name: "CSS Animation Tutorial",
+    instructor: "Net Ninja",
+    url:
+      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
+    description:
+      "Starting with the basics, including keyframes, transforms, and the animation property",
+    image: "artworknetninja.jpg",
+    tags: ["CSS", "CSS3", "Animations", "Front-end"],
   },
   {
     name: "Curso de Git e GitHub",
     instructor: "Gustavo Guanabara",
-    url: "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
-    description: "a course for those who want to start their journey on git and github",
+    url:
+      "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
+    description:
+      "a course for those who want to start their journey on git and github",
     image: "",
     tags: ["git", "github", "portuguese"],
   },
   {
     name: "Flutter Tutorial",
     instructor: "MTECHVIRAL",
-    url: "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
-    description: "Learn Flutter from  basic to advance with some awesome projects to make",
+    url:
+      "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
+    description:
+      "Learn Flutter from  basic to advance with some awesome projects to make",
     image: "",
-    tags: ["Flutter","Dart","App devlopment"],
+    tags: ["Flutter", "Dart", "App devlopment"],
   },
   {
-    name: "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
+    name:
+      "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
     instructor: "Maximilian Schwarzmüller",
-    url:
-      "https://www.youtube.com/watch?v=x0uinJvhNxI&t=5202s",
+    url: "https://www.youtube.com/watch?v=x0uinJvhNxI&t=5202s",
     description:
       "Free Flutter Introduction for Beginners: Get Started with Flutter and learn how to build an iOS and Android app with Flutter!",
     image: "",
     tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
   },
-   {
-    name: 'AWS CloudFormation Tutorial',
-    instructor: 'Simplilearn',
-    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
-    description: 'AWS CloudFormation basics for beginners',
-    image: '',
-    tags: ['AWS', 'CloudFormation']
+  {
+    name: "AWS CloudFormation Tutorial",
+    instructor: "Simplilearn",
+    url: "https://www.youtube.com/watch?v=t97jZch4lMY",
+    description: "AWS CloudFormation basics for beginners",
+    image: "",
+    tags: ["AWS", "CloudFormation"],
   },
-    {
-    name: 'UIButtons in Swift',
-    instructor: 'Neeraj Gupta',
-    url: 'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
-    description: 'This course will instruct you about UIButtons in Swift',
-    image: 'UI_Buttons_in_Swift.jpeg',
-    tags: ['Swift', 'iOS', 'UIKit', 'apple']
-  }
+  {
+    name: "UIButtons in Swift",
+    instructor: "Neeraj Gupta",
+    url: "https://dev.to/dsc_ciet/uibuttons-in-swift-7i4",
+    description: "This course will instruct you about UIButtons in Swift",
+    image: "UI_Buttons_in_Swift.jpeg",
+    tags: ["Swift", "iOS", "UIKit", "apple"],
+  },
+  {
+    name: "Java Programming",
+    instructor: "University of Helsinki",
+    url: "https://java-programming.mooc.fi/",
+    description:
+      "Learn the basics of computer programming through a project-based learning approach",
+    image: "mooc-java.png",
+    tags: ["Java", "Object-Oriented Programming", "OOP"],
+  },
 ];
