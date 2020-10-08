@@ -1,5 +1,51 @@
 let data = [
   {
+    name: "How to test firebase app locally using firebase emulators",
+    instructor: "uNicoDev",
+    url: "https://youtu.be/oP6mwWoj7D4?t=70",
+    description:
+      "this tutorial is perfect to learn how to test your app using firebase emulator",
+    image: "",
+    tags: ["firebase", "firebase emulator"],
+  },
+  {
+    name: "The Web Developer Bootcamp",
+    instructor: "Colt Steele",
+    url: "https://www.udemy.com/share/101W9CAkEcd15aTHw=/",
+    description:
+      "in this course you will learn NodeJs, express, jQuery, ejx, Mongoose, Mongodb, Bootstrape, Css, Authentication, and will build a complete website.",
+    image: "",
+    tags: ["web development", "udemy"],
+  },
+  {
+    name: "deploy firebase cloud functions",
+    instructor: "Srinivas Tamada",
+    url: "https://youtu.be/Qnw2bO3ljZs?t=147",
+    description:
+      "from creating a new express, Nodejs project to deploying to firebase cloud functions, this video covers all steps and commands",
+    image: "",
+    tags: ["firebase", "firebase deploy", "firebase cloud functions"],
+  },
+  {
+    name: "Getting Started with Cloud Firestore with Node.js - Firecasts",
+    instructor: "Firebase",
+    url: "https://youtu.be/Z87OZtIYC_0",
+    description: "store your web app data on firestore. firestore full guid.",
+    image: "",
+    tags: ["firebase", "firestore", "firebase database"],
+  },
+  {
+    name:
+      "Cloud Functions deployment requires the pay-as-you-go (Blaze) billing plan), solution on stackoverflow",
+    instructor: "Stackoverflow",
+    url:
+      "https://stackoverflow.com/questions/62824043/is-function-cloud-in-firebase-free-or-not-cloud-functions-deployment-requires-t",
+    description:
+      "this solution will tell you how to deploy on firebase even if you have free Spark-plan.",
+    image: "",
+    tags: ["firebase", "firebase-deploy", "firebase spark-plan"],
+  },
+  {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
     url:
