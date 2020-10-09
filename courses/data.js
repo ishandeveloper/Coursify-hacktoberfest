@@ -526,4 +526,12 @@ let data = [
     image: '',
     tags: ['Development', 'Front-end']
   }
+  ,  {
+    name: 'Python Tutorial - Python for Beginners',
+    instructor: 'Programming with Mosh',
+    url: 'https://youtu.be/_uQrJ0TkZlc',
+    description: 'This 6 hour course will teach an absolute beginner the basics of Python',
+    image: '',
+    tags: ['Web Development', 'Python']
+  }
 ];
