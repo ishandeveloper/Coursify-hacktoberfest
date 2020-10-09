@@ -18,7 +18,7 @@ let data = [
     tags: ["nodejs", "javascript", "web"],
   },
   {
-    name: "Djano Tutorial",
+    name: "Django Tutorial",
     instructor: "Django Girls",
     url: "https://tutorial.djangogirls.org/en/",
     description: "A well designed course for beginners ",
