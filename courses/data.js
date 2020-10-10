@@ -534,4 +534,12 @@ let data = [
     image: "cpp_playlist.jpg",
     tags: ["C++", "Technology", "C", "Cpp"],
   },
+  {
+    name: 'Data Structures',
+    instructor: 'freeCodeCamp',
+    url: 'https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org',
+    description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
+    image: '',
+    tags: ['data structures', 'Java']
+  }
 ];
