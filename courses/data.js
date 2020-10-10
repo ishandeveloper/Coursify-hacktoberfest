@@ -541,5 +541,13 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
+  },
+  {
+    name:'The Cybersecurity Training',
+    instructor: 'CYBRARY',
+    url:'https://www.cybrary.it/',
+    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
+    image: "cybrary.png",
+    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
   }
 ];
