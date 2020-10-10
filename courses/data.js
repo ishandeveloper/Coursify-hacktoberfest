@@ -26,6 +26,14 @@ let data = [
     tags: ["web development", "Django"],
   },
   {
+    name: "Complete Machine Learning",
+    instructor: "Krish Naik",
+    url: "https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe",
+    description: "A well designed, comprehensive course for beginners which covers all the basic yet important concepts of ML.",
+    image: "",
+    tags: ["Machine Learning", "Python"],
+  },
+  {
     name: "Intro To React",
     instructor: "Ishan Sharma",
     url: "https://blog.ishandeveloper.com/react-intro",
