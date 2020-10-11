@@ -541,5 +541,13 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
-  }
+  },
+  {
+    name:"Express JS Crash Course",
+    instructor: "Brad Traversy",
+    url:"https://www.youtube.com/watch?v=L72fhGm1tfE",
+    description:"In this crash course we will dive into the Express JS framework for Node.js. Best For Beginners",
+    image:'',
+    tags:['Web Development', 'NodeJS', 'ExpessJS', 'Javascript']
+  },
 ];
