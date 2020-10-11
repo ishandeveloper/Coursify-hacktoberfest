@@ -541,5 +541,13 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
-  }
+  },
+  {
+    name: 'React Redux Unit & Integration Testing with Jest and Enzyme',
+    instructor: 'SimpleTut',
+    url: 'https://www.youtube.com/watch?v=EgJZv9Iyj-E&list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_&ab_channel=SimpleTut',
+    description: 'The purpose of this tutorial series is to demonstrate how to properly implement a test first approach (TDD) to coding with react and redux.',
+    image: '',
+    tags: ['test', 'unit test', 'Jest', 'Enzyme', 'React Redux']
+  },
 ];
