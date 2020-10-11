@@ -549,5 +549,5 @@ let data = [
     description: 'The purpose of this tutorial series is to demonstrate how to properly implement a test first approach (TDD) to coding with react and redux.',
     image: '',
     tags: ['test', 'unit test', 'Jest', 'Enzyme', 'React Redux']
-  },
+  }
 ];
