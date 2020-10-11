@@ -542,4 +542,14 @@ let data = [
     image: '',
     tags: ['data structures', 'Java']
   }
+
+
+  {
+  name:'Advanced CSS and Sass: Flexbox, Grid, Animations and More!',
+  instructor: 'Jonas Schmedtmann',
+  url:'https://www.udemy.com/course/advanced-css-and-sass/',
+  description:'he most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.',
+  image: '',
+  tags:['CSS','SASS', 'HTML']
+}
 ];
