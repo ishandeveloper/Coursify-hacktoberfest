@@ -541,5 +541,15 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
-  }
+  }, 
+
+
+  {
+  name:'Advanced CSS and Sass: Flexbox, Grid, Animations and More!',
+  instructor: 'Jonas Schmedtmann',
+  url:'https://www.udemy.com/course/advanced-css-and-sass/',
+  description:'he most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.',
+  image: '',
+  tags:['CSS','SASS', 'HTML']
+}
 ];
