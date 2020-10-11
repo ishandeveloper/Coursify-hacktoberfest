@@ -549,5 +549,5 @@ let data = [
     description:"In this crash course we will dive into the Express JS framework for Node.js. Best For Beginners",
     image:'',
     tags:['Web Development', 'NodeJS', 'ExpessJS', 'Javascript']
-  }
+  },
 ];
