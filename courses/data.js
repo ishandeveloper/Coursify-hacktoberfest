@@ -1,11 +1,12 @@
 let data = [
   {
-    name:'Javascript Basics',
-    instructor: 'Steven Hancock',
-    url:'https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w',
-    description:'From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language',
-    image: '',
-    tags:['web development', 'Javascript']
+    name: "Javascript Basics",
+    instructor: "Steven Hancock",
+    url: "https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+    description:
+      "From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language",
+    image: "",
+    tags: ["web development", "Javascript"],
   },
   {
     name: "Node JS Tutorial",
@@ -494,52 +495,67 @@ let data = [
     image: "mooc-java.png",
     tags: ["Java", "Object-Oriented Programming", "OOP"],
   },
-   {
-    name: 'AWS CloudFormation Tutorial',
-    instructor: 'Simplilearn',
-    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
-    description: 'AWS CloudFormation basics for beginners',
-    image: '',
-    tags: ['AWS', 'CloudFormation']
+  {
+    name: "AWS CloudFormation Tutorial",
+    instructor: "Simplilearn",
+    url: "https://www.youtube.com/watch?v=t97jZch4lMY",
+    description: "AWS CloudFormation basics for beginners",
+    image: "",
+    tags: ["AWS", "CloudFormation"],
   },
-    {
-    name: 'UIButtons in Swift',
-    instructor: 'Neeraj Gupta',
-    url: 'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
-    description: 'This course will instruct you about UIButtons in Swift',
-    image: 'UI_Buttons_in_Swift.jpeg',
-    tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  {
+    name: "UIButtons in Swift",
+    instructor: "Neeraj Gupta",
+    url: "https://dev.to/dsc_ciet/uibuttons-in-swift-7i4",
+    description: "This course will instruct you about UIButtons in Swift",
+    image: "UI_Buttons_in_Swift.jpeg",
+    tags: ["Swift", "iOS", "UIKit", "apple"],
   },
-    {
-    name:'CS50 Computer Science',
-    instructor: 'CS50 - Harvard and Yale University',
-    url:'https://www.youtube.com/c/cs50/videos',
-    description:'This is a general programming and computer science course from Harvard University',
-    image: 'cs50image.jpg',
-    tags:['Computer Science', 'Programming']
-    }
-,  {
-    name: 'Responsive Web Design',
-    instructor: 'freecodecamp',
-    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
-    description: 'Responsive Web Design for absolute beginners',
-    image: '',
-    tags: ['Development', 'Front-end']
+  {
+    name: "CS50 Computer Science",
+    instructor: "CS50 - Harvard and Yale University",
+    url: "https://www.youtube.com/c/cs50/videos",
+    description:
+      "This is a general programming and computer science course from Harvard University",
+    image: "cs50image.jpg",
+    tags: ["Computer Science", "Programming"],
+  },
+  {
+    name: "Responsive Web Design",
+    instructor: "freecodecamp",
+    url:
+      "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/",
+    description: "Responsive Web Design for absolute beginners",
+    image: "",
+    tags: ["Development", "Front-end"],
   },
   {
     name: "The Cherno C++ Playlist",
     instructor: "Yan Chernikov",
-    url: "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
-    description: "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
+    url:
+      "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+    description:
+      "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
     image: "cpp_playlist.jpg",
     tags: ["C++", "Technology", "C", "Cpp"],
   },
   {
-    name: 'Data Structures',
-    instructor: 'freeCodeCamp',
-    url: 'https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org',
-    description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
-    image: '',
-    tags: ['data structures', 'Java']
-  }
+    name: "Data Structures",
+    instructor: "freeCodeCamp",
+    url:
+      "https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org",
+    description:
+      "Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.",
+    image: "",
+    tags: ["data structures", "Java"],
+  },
+  {
+    name: "IELTS 7 plus IELTS preparation",
+    instructor: "udemy",
+    url: "https://www.udemy.com/",
+    description:
+      "IELTS Preparation for all sections of the academic IELTS test.",
+    image: "",
+    tags: ["IELTS", "Academic"],
+  },
 ];
