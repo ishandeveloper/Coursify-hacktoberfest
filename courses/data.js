@@ -557,5 +557,5 @@ let data = [
       "IELTS Preparation for all sections of the academic IELTS test.",
     image: "",
     tags: ["IELTS", "Academic"],
-  },
+  }
 ];
