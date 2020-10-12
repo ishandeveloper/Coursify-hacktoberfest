@@ -547,7 +547,7 @@ let data = [
     instructor: 'CYBRARY',
     url:'https://www.cybrary.it/',
     description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
-    image: "cybrary.png",
+    image: '',
     tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
   }
 ];
