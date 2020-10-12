@@ -541,5 +541,35 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
+  },
+  {
+    name: "Tutorial Codeigniter 4 Bahasa Indonesia",
+    instructor: "Sandhika Galih",
+    url:
+      "https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc",
+    description:
+      "Belajar codeigniter 4 dengan mudah",
+    image: "",
+    tags: ["Codeigniter", "Framework"],
+  },
+  {
+    name: "Membangun Web Profil Band dan Lirik dengan Laravel 8",
+    instructor: "Parsinta",
+    url:
+      "https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21",
+    description:
+      "Belajar laravel 8 dengan studi kasus",
+    image: "",
+    tags: ["laravel 8", "Framework"],
+  },
+  {
+    name: "Flutter Tutorial (Flutter Fundamentals) Bahasa Indonesia",
+    instructor: "Erico Darmawan Handoyo",
+    url:
+      "https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV",
+    description:
+      "Belajar Flutter Bahasa Indonesia",
+    image: "",
+    tags: ["Flutter", "Android"],
   }
 ];
