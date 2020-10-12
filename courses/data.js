@@ -558,7 +558,7 @@ let data = [
     url:
       "https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21",
     description:
-      "Belajar laravel 8 dengan studi kasus",
+      "Belajar laravel 8 dengan studi kasus bahasa indonesia",
     image: "",
     tags: ["laravel 8", "Framework"],
   },
