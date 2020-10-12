@@ -541,5 +541,13 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
+  },
+  {
+    name: 'Introduction to Algorithms',
+    instructor: 'MIT OpenCourseWare',
+    url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb',
+    description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
+    image: 'MIT-OCW.png',
+    tags: ['Algorithms', 'Computation', 'Programming']
   }
 ];
