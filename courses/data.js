@@ -541,5 +541,21 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
+  },
+  {
+    name: 'Data Structures',
+    instructor: 'Apni Kaksha',
+    url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
+    description: 'Tutorial on Data Structure and Algorithm in Java',
+    image: '',
+    tags: ['data structures', 'Java','Algorithm']
+  },
+  {
+    name: 'Android Developer Fundamentals',
+    instructor: 'Google Developer India',
+    url: 'https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB',
+    description: 'Tutorial on Android Development Fundamentals',
+    image: '',
+    tags: ['Android', 'Java']
   }
 ];
