@@ -543,6 +543,14 @@ let data = [
     tags: ['data structures', 'Java']
   },
   {
+    name:'The Cybersecurity Training',
+    instructor: 'CYBRARY',
+    url:'https://www.cybrary.it/',
+    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
+    image: '',
+    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
+  },
+  {
     name: 'Data Structures',
     instructor: 'Apni Kaksha',
     url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
