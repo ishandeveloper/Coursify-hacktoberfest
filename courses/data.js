@@ -630,11 +630,11 @@ let data = [
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
 },
 {
-  name:'The Complete Web Developer in 2020: Zero to Mastery',
-  instructor: 'Andrei Neagoie',
-  url:'https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/',
-  description:'Learn to code and become a Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!',
+  name:'The Complete JavaScript Course 2020: Build Real Projects',
+  instructor: 'Jonas Schmedtmann',
+  url:'https://www.udemy.com/course/the-complete-javascript-course/',
+  description:'Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack',
   image: '',
-  tags:['Technology', 'Framework']
-}
+  tags:['Technology', 'JavaScript', 'web']
+},
 ];
