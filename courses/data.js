@@ -543,6 +543,13 @@ let data = [
     tags: ['data structures', 'Java']
   },
   {
+    name: 'Introduction to Algorithms',
+    instructor: 'MIT OpenCourseWare',
+    url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb',
+    description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
+    image: 'MIT-OCW.png',
+    tags: ['Algorithms', 'Computation', 'Programming']
+  },{
     name:'The Cybersecurity Training',
     instructor: 'CYBRARY',
     url:'https://www.cybrary.it/',
