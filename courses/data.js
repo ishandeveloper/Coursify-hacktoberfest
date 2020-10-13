@@ -207,6 +207,16 @@ let data = [
     image: "flutter-firebase.png",
     tags: ["flutter", "firebase", "app"],
   },
+    {
+    name: "The Complete Web Developer in 2020: Zero to Mastery",
+    instructor: "Aman Kumar Choudhary",
+    url: "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/",
+    description:
+      "Learn to code and become a Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+    image: "intro-react.png",
+    tags: ["react", "javascript", "web"],
+  },
+
   {
     name: "Machine Learning",
     instructor: "Andrew Ng",
