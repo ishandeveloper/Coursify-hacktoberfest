@@ -587,6 +587,46 @@ let data = [
     url: 'https://youtu.be/_uQrJ0TkZlc',
     description: 'This 6 hour course will teach an absolute beginner the basics of Python',
     image: '',
-    tags: ['Web Development', 'Python']
-  }
+    tags:['Flutter', 'Firebase','App development']
+},
+{
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "",
+  tags: ["Angular", "typescript", "javascript"],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Simple State Management in Flutter',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+},
+{
+  name:'Cloud Fundamentals',
+  instructor: 'IBM Cloud',
+  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
+  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
+  image: 'Cloud.png',
+  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+}
 ];
