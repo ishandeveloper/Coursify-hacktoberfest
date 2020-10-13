@@ -10,7 +10,6 @@
 body {
   background: #f0f0f0;
   overflow-x: hidden;
-  position: relative;
 }
 
 .main__navbar {
@@ -162,6 +161,7 @@ body {
   display: grid;
   -ms-grid-columns: (minmax(400px, 1fr))[auto-fill];
       grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  justify-items: center;
 }
 
 @media screen and (max-width: 720px) {
@@ -212,17 +212,23 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
   margin-bottom: 0.5rem;
 }
 
+.courses__wrapper .courses__list .courses__card .course__info .course__tags a {
+  text-decoration: none;
+}
+
 .courses__wrapper .courses__list .courses__card .course__info .course__tags .course__tag {
   -webkit-box-flex: 0;
       -ms-flex: 0;
           flex: 0;
-  margin-right: 0.5rem;
+  margin: .3rem;
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
@@ -319,84 +325,4 @@ body {
 .filter__message--tagname {
   text-decoration: underline;
 }
-.top-link {
-  transition: all .25s ease-in-out;
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  display: inline-flex;
-  cursor: pointer;
-  align-items: center;
-  justify-content: center;
-  margin: 0 3em 3em 0;
-  border-radius: 50%;
-  padding: .25em;
-  width: 80px;
-  height: 80px;
-  background-color: #F8F8F8;
-}
-.top-link.show {
-  visibility: visible;
-  opacity: 1;
-}
-.top-link.hide {
-  visibility: hidden;
-  opacity: 0;
-}
-.top-link svg {
-  fill: #000;
-  width: 24px;
-  height: 12px;
-}
-.top-link:hover {
-  background-color: #E8E8E8;
-}
-.top-link:hover svg {
-  fill: #000000;
-}
-
-.screen-reader-text {
-  position: absolute;
-  clip-path: inset(50%);
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  word-wrap: normal !important;
-  clip: rect(1px, 1px, 1px, 1px);
-}
-.screen-reader-text:focus {
-  display: block;
-  top: 5px;
-  left: 5px;
-  z-index: 100000;
-  clip-path: none;
-  background-color: #eee;
-  padding: 15px 23px 14px;
-  width: auto;
-  height: auto;
-  text-decoration: none;
-  line-height: normal;
-  color: #444;
-  font-size: 1em;
-  clip: auto !important;
-}
-
-@media only screen and (max-width: 480px){
-  .top-link{
-    width: 50px;
-    height: 50px;
-    margin: 0 1.5em 1.5em 0;
-  }
-  .top-link > svg{
-    width: 18px;
-    height: 9px;
-  }
-}
-
-
-/*# sourceMappingURL=main.css.map */
-=======
 /*# sourceMappingURL=main.css.map */
