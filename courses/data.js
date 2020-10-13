@@ -557,5 +557,21 @@ let data = [
     description: 'Tutorial on Android Development Fundamentals',
     image: '',
     tags: ['Android', 'Java']
+  },
+  {
+    name:'System Administration',
+    instructor: 'Google',
+    url:'https://www.youtube.com/watch?v=1DvTwuByjo0',
+    description:'A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.',
+    image: 'sysadmin-google-course.jpg',
+    tags:['System Administration', 'Servers']
+  }
+  ,  {
+    name: 'Python Tutorial - Python for Beginners',
+    instructor: 'Programming with Mosh',
+    url: 'https://youtu.be/_uQrJ0TkZlc',
+    description: 'This 6 hour course will teach an absolute beginner the basics of Python',
+    image: '',
+    tags: ['Web Development', 'Python']
   }
 ];
