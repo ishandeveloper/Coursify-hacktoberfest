@@ -405,7 +405,7 @@ let data = [
       "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
     description:
       "Beginner friendly Deep Learning Intuition and then adding in a deep dive towards how Neural Networks work",
-    image: "artworknetninja.jpg",
+    image: "3blue1brown.png",
     tags: ["Deep Learning", "Visualization", "Animations", "Neural Networks"],
   },
   {
