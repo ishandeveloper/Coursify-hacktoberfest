@@ -543,11 +543,98 @@ let data = [
     tags: ['data structures', 'Java']
   },
   {
-    name:'Angular - The Complete Guide (2020 Edition)',
-    instructor: 'Maximilian Schwarzmüller',
-    url:'https://www.udemy.com/course/the-complete-guide-to-angular-2',
-    description:'Master Angular 10 (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js',
+    name: 'Introduction to Algorithms',
+    instructor: 'MIT OpenCourseWare',
+    url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb',
+    description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
+    image: 'MIT-OCW.png',
+    tags: ['Algorithms', 'Computation', 'Programming']
+  },{
+    name:'The Cybersecurity Training',
+    instructor: 'CYBRARY',
+    url:'https://www.cybrary.it/',
+    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
     image: '',
-    tags:['Javascript', 'Angular', 'Modern web development']
+    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
+  },
+  {
+    name: 'Data Structures',
+    instructor: 'Apni Kaksha',
+    url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
+    description: 'Tutorial on Data Structure and Algorithm in Java',
+    image: '',
+    tags: ['data structures', 'Java','Algorithm']
+  },
+  {
+    name: 'Android Developer Fundamentals',
+    instructor: 'Google Developer India',
+    url: 'https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB',
+    description: 'Tutorial on Android Development Fundamentals',
+    image: '',
+    tags: ['Android', 'Java']
+  },
+  {
+    name:'System Administration',
+    instructor: 'Google',
+    url:'https://www.youtube.com/watch?v=1DvTwuByjo0',
+    description:'A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.',
+    image: 'sysadmin-google-course.jpg',
+    tags:['System Administration', 'Servers']
   }
+  ,  {
+    name: 'Python Tutorial - Python for Beginners',
+    instructor: 'Programming with Mosh',
+    url: 'https://youtu.be/_uQrJ0TkZlc',
+    description: 'This 6 hour course will teach an absolute beginner the basics of Python',
+    image: '',
+    tags:['Flutter', 'Firebase','App development']
+},
+{
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "",
+  tags: ["Angular", "typescript", "javascript"],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Simple State Management in Flutter',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+},
+{
+  name:'Cloud Fundamentals',
+  instructor: 'IBM Cloud',
+  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
+  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
+  image: 'Cloud.png',
+  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Angular - The Complete Guide (2020 Edition)',
+  instructor: 'Maximilian Schwarzmüller',
+  url:'https://www.udemy.com/course/the-complete-guide-to-angular-2',
+  description:'Master Angular 10 (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js',
+  image: '',
+  tags:['Javascript', 'Angular', 'Modern web development']
+}
 ];
