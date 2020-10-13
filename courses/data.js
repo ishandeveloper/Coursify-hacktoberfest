@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+},
+{
+  name:'The Complete JavaScript Course 2020: Build Real Projects',
+  instructor: 'Jonas Schmedtmann',
+  url:'https://www.udemy.com/course/the-complete-javascript-course/',
+  description:'Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack',
+  image: '',
+  tags:['Technology', 'JavaScript', 'web']
+},
 ];
