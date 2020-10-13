@@ -549,5 +549,44 @@ let data = [
     description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
     image: 'MIT-OCW.png',
     tags: ['Algorithms', 'Computation', 'Programming']
+  },{
+    name:'The Cybersecurity Training',
+    instructor: 'CYBRARY',
+    url:'https://www.cybrary.it/',
+    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
+    image: '',
+    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
+  },
+  {
+    name: 'Data Structures',
+    instructor: 'Apni Kaksha',
+    url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
+    description: 'Tutorial on Data Structure and Algorithm in Java',
+    image: '',
+    tags: ['data structures', 'Java','Algorithm']
+  },
+  {
+    name: 'Android Developer Fundamentals',
+    instructor: 'Google Developer India',
+    url: 'https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB',
+    description: 'Tutorial on Android Development Fundamentals',
+    image: '',
+    tags: ['Android', 'Java']
+  },
+  {
+    name:'System Administration',
+    instructor: 'Google',
+    url:'https://www.youtube.com/watch?v=1DvTwuByjo0',
+    description:'A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.',
+    image: 'sysadmin-google-course.jpg',
+    tags:['System Administration', 'Servers']
+  }
+  ,  {
+    name: 'Python Tutorial - Python for Beginners',
+    instructor: 'Programming with Mosh',
+    url: 'https://youtu.be/_uQrJ0TkZlc',
+    description: 'This 6 hour course will teach an absolute beginner the basics of Python',
+    image: '',
+    tags: ['Web Development', 'Python']
   }
 ];
