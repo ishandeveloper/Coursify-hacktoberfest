@@ -541,5 +541,13 @@ let data = [
     description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
     image: '',
     tags: ['data structures', 'Java']
+  },
+  {
+    name:'System Administration',
+    instructor: 'Google',
+    url:'https://www.youtube.com/watch?v=1DvTwuByjo0',
+    description:'A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.',
+    image: 'sysadmin-google-course.jpg',
+    tags:['System Administration', 'Servers']
   }
 ];
