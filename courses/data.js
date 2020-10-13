@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Angular - The Complete Guide (2020 Edition)',
+  instructor: 'Maximilian Schwarzmüller',
+  url:'https://www.udemy.com/course/the-complete-guide-to-angular-2',
+  description:'Master Angular 10 (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js',
+  image: '',
+  tags:['Javascript', 'Angular', 'Modern web development']
 }
 ];
