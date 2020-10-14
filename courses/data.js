@@ -628,5 +628,22 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'zkStudyGroup',
+  instructor: 'people from the Zero Knowledge channel',
+  url:'https://www.youtube.com/watch?v=kmCXdjv5oP0&list=PLj80z0cJm8QHm_9BdZ1BqcGbgE-BEn-3Y&ab_channel=ZeroKnowledge',
+  description:'Quite advanced topics related to nowadays zero knowledge protocols and their applications',
+  image: '',
+  tags:['cryptography', 'zero knowledge protocols', 'multi-party computation', 'cryptocurrency']
+},
+{
+  name:'Learn You a Haskell for Great Good!',
+  instructor: ' Miran Lipovača',
+  url:'http://learnyouahaskell.com/chapters',
+  description:'Haskell tutorials and great explanations of concepts from functional programming, from the basics to quite advanced topics',
+  image: '',
+  tags:['Haskell', 'functional programming', 'lambdas', 'types', 'functors']
 }
+
 ];
