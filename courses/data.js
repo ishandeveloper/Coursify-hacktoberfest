@@ -628,5 +628,21 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+},
+{
+  name:'The Web Developer Bootcamp 2020',
+  instructor: 'Colt Steele',
+  url:'https://www.udemy.com/course/the-web-developer-bootcamp/',
+  description:'COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!',
+  image: '',
+  tags:['html', 'javascript', 'jquery', 'css', 'nodejs', 'express', 'heroku']
+},
+{
+  name:'Develop Minecraft Plugins (Java)',
+  instructor: 'Stephen King',
+  url:'https://www.udemy.com/course/develop-minecraft-plugins-java-programming/',
+  description:'High-quality tutorials providing you with the most sustainable practices available to make Minecraft plugins.',
+  image: '',
+  tags:['minecraft plugins', 'spigot', 'java', 'bukkit']
+},
 ];
