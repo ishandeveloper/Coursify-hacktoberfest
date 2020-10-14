@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Learn You a Haskell for Great Good!',
+  instructor: ' Miran Lipovača',
+  url:'http://learnyouahaskell.com/chapters',
+  description:'Haskell tutorials and great explanations of concepts from functional programming, from the basics to quite advanced topics',
+  image: '',
+  tags:['Haskell', 'functional programming', 'lambdas', 'types', 'functors']
 }
 ];
