@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+}, 
+{
+  name:'Javascript 30',
+  instructor: 'Wesbos',
+  url:'https://javascript30.com/',
+  description:'30 Day Vanilla JS Coding Challenge',
+  image: 'JS3-social-share.png',
+  tags:['javascript', 'web']
 }
 ];
