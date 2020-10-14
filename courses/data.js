@@ -589,5 +589,22 @@ let data = [
     description: 'Tutorial on C++ Programming Language',
     image: '',
     tags: ['Programming', 'C++']
+  },
+  {
+    name: 'Data Structure',
+    instructor: 'mycodeschool',
+    url: 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
+    description: 'Tutorial on Data Structure',
+    image: '',
+    tags: ['Programming', 'C', 'Data structures']
+  },
+  {
+    name: 'Intro to SQL',
+    instructor: 'Khan Academy',
+    url: 'https://www.youtube.com/playlist?list=PLSQl0a2vh4HCtgJXRDRah4IlKPfeflhii',
+    description: 'Tutorial on Intro to SQL: Querying and managing data | Computer Programming',
+    image: '',
+    tags: ['Programming', 'SQL', 'Data']
   }
+
 ];
