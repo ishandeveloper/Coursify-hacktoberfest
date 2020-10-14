@@ -543,21 +543,6 @@ let data = [
     tags: ['data structures', 'Java']
   },
   {
-    name: 'Introduction to Algorithms',
-    instructor: 'MIT OpenCourseWare',
-    url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb',
-    description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
-    image: 'MIT-OCW.png',
-    tags: ['Algorithms', 'Computation', 'Programming']
-  },{
-    name:'The Cybersecurity Training',
-    instructor: 'CYBRARY',
-    url:'https://www.cybrary.it/',
-    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
-    image: '',
-    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
-  },
-  {
     name: 'Data Structures',
     instructor: 'Apni Kaksha',
     url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
@@ -587,46 +572,39 @@ let data = [
     url: 'https://youtu.be/_uQrJ0TkZlc',
     description: 'This 6 hour course will teach an absolute beginner the basics of Python',
     image: '',
-    tags:['Flutter', 'Firebase','App development']
-},
-{
-  name:'Introduction to JavaScript',
-  instructor: 'freeCodeCamp',
-  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
-  description:`javascript algorithms and data structures certification`,
-  image: '',
-  tags:[ 'javascript', 'web']
-},
-{
-  name: "Angular Crash Course for Beginners",
-  instructor: "Hitesh Choudhary",
-  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
-  tags: ["Angular", "typescript", "javascript"],
-},
+    tags: ['Web Development', 'Python']
+  },
   {
-  name:'Data Structure and Algorithms',
-  instructor: 'Rahul Garg',
-  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
-  description:'Intro to DS and Algo',
-  image: '',
-  tags:['Data Structures', 'Java']
-},
-{
-  name:'Simple State Management in Flutter',
-  instructor: 'Vaibhav Goel',
-  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
-  description:'Simple App State-Management in Flutter',
-  image: 'goelvaibhav009.png',
-  tags:['flutter', 'dart', 'dev']
-},
-{
-  name:'Cloud Fundamentals',
-  instructor: 'IBM Cloud',
-  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
-  image: 'Cloud.png',
-  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+    name: 'Intro to Object Oriented Programming in Java',
+    instructor: 'Imtiaz Ahmad',
+    url: 'https://www.youtube.com/playlist?list=PL8rcHwQO3nbJIIEJH58PUHNBv_VxfJGgb',
+    description: 'Tutorial on Object Oriented Programming in Java',
+    image: '',
+    tags: ['OOPs', 'Java']
+  },
+  {
+    name: 'C++',
+    instructor: 'by The Cherno',
+    url: 'https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb',
+    description: 'Tutorial on C++ Programming Language',
+    image: '',
+    tags: ['Programming', 'C++']
+  },
+  {
+    name: 'Data Structure',
+    instructor: 'mycodeschool',
+    url: 'https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P',
+    description: 'Tutorial on Data Structure',
+    image: '',
+    tags: ['Programming', 'C', 'Data structures']
+  },
+  {
+    name: 'Intro to SQL',
+    instructor: 'Khan Academy',
+    url: 'https://www.youtube.com/playlist?list=PLSQl0a2vh4HCtgJXRDRah4IlKPfeflhii',
+    description: 'Tutorial on Intro to SQL: Querying and managing data | Computer Programming',
+    image: '',
+    tags: ['Programming', 'SQL', 'Data']
+  }
+
 ];
