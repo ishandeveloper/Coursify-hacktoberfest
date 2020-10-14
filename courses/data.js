@@ -634,7 +634,7 @@ let data = [
   instructor: 'Colt Steele',
   url:'https://www.udemy.com/course/the-web-developer-bootcamp/',
   description:'COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!',
-  image: '',
+  image: 'webdevbootcamp.jpg',
   tags:['html', 'javascript', 'jquery', 'css', 'nodejs', 'express', 'heroku']
 },
 {
@@ -642,7 +642,7 @@ let data = [
   instructor: 'Stephen King',
   url:'https://www.udemy.com/course/develop-minecraft-plugins-java-programming/',
   description:'High-quality tutorials providing you with the most sustainable practices available to make Minecraft plugins.',
-  image: '',
+  image: 'minecraft.jpg',
   tags:['minecraft plugins', 'spigot', 'java', 'bukkit']
 },
 ];
