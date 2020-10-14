@@ -557,5 +557,21 @@ let data = [
     description: 'Tutorial on Android Development Fundamentals',
     image: '',
     tags: ['Android', 'Java']
+  },
+  {
+    name: 'Intro to Object Oriented Programming in Java',
+    instructor: 'Imtiaz Ahmad',
+    url: 'https://www.youtube.com/playlist?list=PL8rcHwQO3nbJIIEJH58PUHNBv_VxfJGgb',
+    description: 'Tutorial on Object Oriented Programming in Java',
+    image: '',
+    tags: ['OOPs', 'Java']
+  },
+  {
+    name: 'C++',
+    instructor: 'by The Cherno',
+    url: 'https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb',
+    description: 'Tutorial on C++ Programming Language',
+    image: '',
+    tags: ['Programming', 'C++']
   }
 ];
