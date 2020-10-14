@@ -1,0 +1,8 @@
+{
+  name:'GIT with Visual Studio',
+  instructor: 'Alex Horea',
+  url:'https://www.udemy.com/course/git-with-visual-studio-code/?ranMID=39197',
+  description:'A course about version control ',
+  image: '',
+  tags:['GIT', 'Visual Studio']
+}
