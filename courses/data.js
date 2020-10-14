@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Data 8X: Foundations of Data Science',
+  instructor: 'University of California, Berkeley (BerkeleyX)',
+  url:'https://data.berkeley.edu/academics/undergraduate-programs/data-science-offerings/data-8/data-8x',
+  description:'Data 8X covers everything from testing hypotheses, applying statistical inferences, visualizing distributions and drawing conclusions— all while coding in Python and using real-world data sets.  One lesson might take economic data from different countries over the years to track global economic growth. The next might use a data set of cell samples to create a classification algorithm that can diagnose breast cancer.  These real-world explorations into data science make advanced statistics and computer science concepts intuitive and applicable to everyone.',
+  image: '',
+  tags:['Machine Learning', 'Python', 'Statistics', 'Data Science']
 }
 ];
