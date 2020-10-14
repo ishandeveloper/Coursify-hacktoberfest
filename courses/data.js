@@ -622,11 +622,12 @@ let data = [
   tags:['flutter', 'dart', 'dev']
 },
 {
-  name:'Cloud Fundamentals',
-  instructor: 'IBM Cloud',
-  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
-  image: 'Cloud.png',
-  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+  name:'Modern Big Data Analysis with SQL Specialization',
+  instructor: 'Glynn Durham, Ian Cook',
+  url:'https://www.coursera.org/specializations/cloudera-big-data-analysis-sql',
+  description:'Learn Data Analysis for Big Data. Master using SQL for data analysis on distributed big data systems',
+  image: 'BigDataCourse.png',
+  tags:['Cloud Storage', 'Date Analysis', 'Big Data', 'SQL', 'Apache Hive', 'Data Warehousing', 'Apache Impala']
 }
+ 
 ];
