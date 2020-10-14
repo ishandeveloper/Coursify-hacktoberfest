@@ -486,6 +486,14 @@ let data = [
     tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
   },
   {
+    name: 'React Redux Unit & Integration Testing with Jest and Enzyme',
+    instructor: 'SimpleTut',
+    url: 'https://www.youtube.com/watch?v=EgJZv9Iyj-E&list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_&ab_channel=SimpleTut',
+    description: 'The purpose of this tutorial series is to demonstrate how to properly implement a test first approach (TDD) to coding with react and redux.',
+    image: '',
+    tags: ['test', 'unit test', 'Jest', 'Enzyme', 'React Redux']
+  },
+  {
     name: "Java Programming",
     instructor: "University of Helsinki",
     url: "https://java-programming.mooc.fi/",
