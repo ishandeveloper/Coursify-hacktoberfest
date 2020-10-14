@@ -332,4 +332,14 @@ let data = [
   image: '',
   tags:['Andoid', 'App development']
 }
+{
+  name:'Machine Learning crash course',
+  instructor: 'Google',
+  url:'https://developers.google.com/machine-learning/crash-course',
+  description:'Google's fast-paced, practical introduction to machine learning with tensorflow APIs',
+  image: '',
+  tags:['Machine Learning', 'TensorFlow']
+}
+
+
 ];
