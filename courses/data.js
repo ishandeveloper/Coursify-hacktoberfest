@@ -628,5 +628,21 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Vue JS Crash Course',
+  instructor: 'Hitesh Choudhary',
+  url:'https://courses.learncodeonline.in/learn/Vue-JS-crash-course',
+  description:'A Crash Course on Vue JS with code files',
+  image: '',
+  tags:['vue', 'framework']
+},
+{
+  name:'Python Crash Course',
+  instructor: 'Hitesh Choudhary',
+  url:'https://courses.learncodeonline.in/learn/Python-Crash-Course',
+  description:'A Crash Course on Vue JS with code files',
+  image: '',
+  tags:['python', 'dev']
 }
 ];
