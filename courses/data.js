@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'The Complete Web Developer in 2020: Zero to Mastery',
+  instructor: 'Andrei Neagoie',
+  url:'https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/',
+  description:'Learn to code and become a Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more! ',
+  image: '',
+  tags:['web development', 'Javascript', 'HTML', 'CSS', 'React', 'Node.js', 'Machine Learning']
 }
 ];
