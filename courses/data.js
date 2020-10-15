@@ -636,5 +636,13 @@ let data = [
   description:'A Crash Course on Vue JS with code files',
   image: '',
   tags:['vue', 'framework']
+},
+{
+  name:'Python Crash Course',
+  instructor: 'Hitesh Choudhary',
+  url:'https://courses.learncodeonline.in/learn/Python-Crash-Course',
+  description:'A Crash Course on Vue JS with code files',
+  image: '',
+  tags:['python', 'dev']
 }
 ];
