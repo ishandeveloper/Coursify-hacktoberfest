@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+ {
+  name:'Microsoft Azure',
+  instructor: 'Andrew Brown',
+  url:'https://youtu.be/NKEFWyqJ5XA',
+  description:'Learn about Microsoft Azure and pass the Azure Fundamentals exam!',
+  image: '',
+  tags:['cloud', 'Azure', 'cloud services']
 }
 ];
