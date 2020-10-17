@@ -634,7 +634,7 @@ let data = [
   instructor: 'Zaydek Gualtieri',
   url:'https://scrimba.com/learn/learnvue',
   description:'Learn vue.js framework with interactive screencasts by building two super fun apps.',
-  image: '',
+  image: 'Vuejs.png',
   tags:['vue', 'interactive', 'app-build']
 }
 ];
