@@ -636,5 +636,13 @@ let data = [
   description:'This course explores the concepts and algorithms at the foundation of modern artificial intelligence, e.g. graph search algorithms, reinforcement learning, etc. through hands-on projects.',
   image: '',
   tags:['Artificial Intelligence', 'Machine Learning', 'Python']
-}
+},
+{
+  name:'CS50\'s Web Programming with Python and JavaScript',
+  instructor: 'Brian Yu',
+  url:'https://cs50.harvard.edu/ai/2020/',
+  description:'This course dives into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.',
+  image: '',
+  tags:['Web Development', 'Django', 'Python', 'JavaScript', 'Testing']
+} 
 ];
