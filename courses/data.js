@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+  {
+  name:'Deno Websockets Tutorial',
+  instructor: 'The Net ninja',
+  url:'https://youtu.be/CLLtnaOGIqo',
+  description:'Beginner course for Deno Websockets',
+  image: '',
+  tags:['Deno', 'Javascript' , 'Web development']
 }
 ];
