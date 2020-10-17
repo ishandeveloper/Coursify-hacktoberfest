@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Complete Kubernetes Tutorial for Beginners',
+  instructor: 'Nana Janashia',
+  url:'https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC',
+  description:'Here you learn everything about Kubernetes. From basic concepts to more advanced ones.',
+  image: 'k8s.jpg',
+  tags:['kubernetes', 'microservices']
 }
 ];
