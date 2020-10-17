@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name: "Strapi Fundamentals Training Course - Community Edition",
+  instructor: "Jim Laurie",
+  url: "https://strapi.teachable.com/",
+  description: "A great resource for the community to learn Strapi for free!, master the fundamentals of Strapi. This course walks you through all the steps and best practices to build a successful project with Strapi.",
+  image: "strapi.png",
+  tags: ["strapi", "javascript", "headless cms", "Self-hosted", "content-rich"],
 }
 ];
