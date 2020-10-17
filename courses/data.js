@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'CS50\'s Introduction to Artificial Intelligence with Python',
+  instructor: 'Brian Yu',
+  url:'https://cs50.harvard.edu/ai/2020/',
+  description:'This course explores the concepts and algorithms at the foundation of modern artificial intelligence, e.g. graph search algorithms, reinforcement learning, etc. through hands-on projects.',
+  image: '',
+  tags:['Artificial Intelligence', 'Machine Learning', 'Python']
 }
 ];
