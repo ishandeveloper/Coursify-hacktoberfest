@@ -628,5 +628,21 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name: "Strapi Fundamentals Training Course - Community Edition",
+  instructor: "Jim Laurie",
+  url: "https://strapi.teachable.com/",
+  description: "A great resource for the community to learn Strapi for free!, master the fundamentals of Strapi. This course walks you through all the steps and best practices to build a successful project with Strapi.",
+  image: "strapi.png",
+  tags: ["strapi", "javascript", "headless cms", "Self-hosted", "content-rich"],
+},
+{
+  name: "Building Serverless Web Applications with React & AWS Amplify",
+  instructor: "Nader Dabit",
+  url: "https://egghead.io/courses/building-serverless-web-applications-with-react-aws-amplify",
+  description: "This course walks you through setup and implementation to get your cloud-based react native application up and running.",
+  image: "",
+  tags: ["react", "javascript", "react native", "aws", "amplify"],
 }
 ];
