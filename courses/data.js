@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Learn Vue.js',
+  instructor: 'Zaydek Gualtieri',
+  url:'https://scrimba.com/learn/learnvue',
+  description:'Learn vue.js framework with interactive screencasts by building two super fun apps.',
+  image: '',
+  tags:['vue', 'interactive', 'app-build']
 }
 ];
