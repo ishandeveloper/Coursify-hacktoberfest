@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Computer Sc - Data Structures and Algorithms',
+  instructor: 'IBM Cloud',
+  url:'https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F',
+  description:'Complete Data Structures and Algorithms in Java',
+  image: '',
+  tags:['Data Structures', 'Algorithms', 'Java', 'Fundamentals']
 }
 ];
