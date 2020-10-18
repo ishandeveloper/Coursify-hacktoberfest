@@ -628,7 +628,7 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+},
 {
   name:'Computer Sc - Data Structures and Algorithms',
   instructor: 'Dr. Naveen Garg',
