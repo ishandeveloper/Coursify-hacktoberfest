@@ -636,5 +636,13 @@ let data = [
   description: "In this course, you'll follow a series of hands-on labs that demonstrate how to use containers for your applications. You'll start with the basics: creating and running your first Docker containers. By the end of the course, you'll get a brief introduction to running containers in production and how to solve problems of advanced orchestration such as high availability, service discovery, and reconciliation.",
   image: 'docker.png',
   tags:['dockerhub', 'containerization', 'docker', 'cloud services']
+},
+{
+  name:'Master React by Building a Product Hunt Clone by SolidSail',
+  instructor: 'Solid Sail',
+  url:'https://www.solidsail.com/product-hunt',
+  description: "Want to learn React? The best way is to build real startups. In this course, we'll build a curation app like Product Hunt, with React, Ionic, and Firebase.",
+  image: 'product-hunt.jpg',
+  tags:['react', 'ionic', 'firebase', 'crossplatform']
 }
 ];
