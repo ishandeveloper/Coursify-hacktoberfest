@@ -34,6 +34,7 @@ let data = [
     image: "intro-react.png",
     tags: ["react", "javascript", "web"],
   },
+
   {
     name: "Flutter Complete Course",
     instructor: "Pawan Kumar",
@@ -628,5 +629,14 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+},
+{
+  name: "FastAPI - A Web Framework for Python",
+  instructor: "iGnani Adda247",
+  url: "https://www.youtube.com/playlist?list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS",
+  description:
+    "A fastApi series for new python programmer and for exploring web framework with rest api using FastAPi ",
+  image: "fastapi.jpg",
+  tags: ["python", "web", "api"],
+},
 ];
