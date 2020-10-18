@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Docker Essentials: A Developer Introduction',
+  instructor: 'John Zaccone',
+  url:'https://cognitiveclass.ai/courses/docker-essentials',
+  description: "In this course, you'll follow a series of hands-on labs that demonstrate how to use containers for your applications. You'll start with the basics: creating and running your first Docker containers. By the end of the course, you'll get a brief introduction to running containers in production and how to solve problems of advanced orchestration such as high availability, service discovery, and reconciliation.",
+  image: 'docker.png',
+  tags:['dockerhub', 'containerization', 'docker', 'cloud services']
 }
 ];
