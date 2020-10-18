@@ -307,15 +307,6 @@ let data = [
     tags: ["javascript", "web"],
   },
   {
-    name: "Angular Crash Course for Beginners",
-    instructor: "Hitesh Choudhary",
-    url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-    description:
-      "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-    image: "angular-crash-course.png",
-    tags: ["Angular", "typescript", "javascript"],
-  },
-  {
     name: "Data Structure and Algorithms",
     instructor: "Rahul Garg",
     url:
