@@ -638,5 +638,5 @@ let data = [
     "A fastApi series for new python programmer and for exploring web framework with rest api using FastAPi ",
   image: "fastapi.jpg",
   tags: ["python", "web", "api"],
-},
+}
 ];
