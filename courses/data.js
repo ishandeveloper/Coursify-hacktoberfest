@@ -629,4 +629,12 @@ let data = [
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
 }
+{
+  name:'Computer Sc - Data Structures and Algorithms',
+  instructor: 'Dr. Naveen Garg',
+  url:'https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F',
+  description:'Complete Data Structures and Algorithms in Java',
+  image: '',
+  tags:['Data Structures', 'Algorithms', 'Java', 'Fundamentals']
+}
 ];
