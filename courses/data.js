@@ -598,14 +598,6 @@ let data = [
   tags:[ 'javascript', 'web']
 },
 {
-  name: "Angular Crash Course for Beginners",
-  instructor: "Hitesh Choudhary",
-  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
-  tags: ["Angular", "typescript", "javascript"],
-},
-  {
   name:'Data Structure and Algorithms',
   instructor: 'Rahul Garg',
   url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
@@ -628,5 +620,21 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Introduction to NLP in Python',
+  instructor: 'DataCamp',
+  url:'https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python',
+  description:'Learn fundamental natural language processing techniques using Python and how to apply them to extract insights from real-world text data.',
+  image: '',
+  tags:['natural language processing', 'python']
+},
+{
+  name:'Learn VueJS Full Course for Beginners',
+  instructor: 'FreeCodeCamp',
+  url:'https://www.youtube.com/watch?v=4deVCNJq3qc',
+  description:'Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.',
+  image: 'VUEJS.webp',
+  tags:['web development','vue js','javascript']
 }
 ];
