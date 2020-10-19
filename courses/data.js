@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Javascript Fundamentals',
+  instructor: 'Riza Cloud',
+  url:'https://github.com/rizaradiarivaldo',
+  description:'Make a cloud safety riding',
+  image: '',
+  tags:['Code']
 }
 ];
