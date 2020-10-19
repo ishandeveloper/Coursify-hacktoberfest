@@ -628,5 +628,29 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{ 
+  name:'JavaScript - The Complete Guide 2020',
+  instructor: 'Maximilian Schwarzmüller',
+  url:'https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/',
+  description:'52 hour on-demand course on complete JavaScript from begineer level to advanced level concepts with hands-on experience.',
+  image: 'jslogo.png',
+  tags:['javascript', 'web', 'web development']
+},
+{
+  name:'React - The Complete Guide (incl Hooks, React Router, Redux)',
+  instructor: 'Maximilian Schwarzmüller',
+  url:'https://www.udemy.com/course/react-the-complete-guide-incl-redux/',
+  description:'40.5 hour on-demand course on complete ReactJS with hands-on experience on Hooks, React Router, Redux, Next JS and many more.',
+  image: 'reactjslogo.png',
+  tags:['reactjs','redux','Front End', 'javascript']
+},
+{
+  name:'React, NodeJS, Express & MongoDB - The MERN Fullstack Guide',
+  instructor: 'Maximilian Schwarzmüller',
+  url:'https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/', 
+  description:'18.5 hours on-demand course on MERN stack(mongoDB, express, React, nodeJS).',
+  image: 'mernstack.png',
+  tags:['reactjs','mongodb','nodejs','express', 'javascript']
 }
 ];
