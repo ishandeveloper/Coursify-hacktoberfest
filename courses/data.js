@@ -632,9 +632,9 @@ let data = [
 {
   name:'Javascript Fundamentals',
   instructor: 'Riza Cloud',
-  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
+  url:'https://github.com/rizaradiarivaldo',
   description:'Make a cloud safety riding',
   image: '',
-  tags:['virtualization']
+  tags:['Code']
 }
 ];
