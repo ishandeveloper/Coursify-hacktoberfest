@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'The Flask Mega-Tutorial',
+  instructor: 'Miguel Grinberg',
+  url:'https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world',
+  description:'Complete Flask App Tutorial. Including deployment and API',
+  image: 'web-flask-python.png',
+  tags:['flask', 'python', 'web', 'heroku', 'docker', 'microblog']
 }
 ];
