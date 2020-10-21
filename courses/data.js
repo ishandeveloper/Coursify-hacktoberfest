@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Learn the MERN Stack',
+  instructor: 'Brad Traversy',
+  url:'https://www.youtube.com/watch?v=PBTYxXADG_k&ab_channel=TraversyMedia',
+  description:'Tutorial on buidling a full stack application with MERN (MongoDB, Express, React, Node.js). Also, implementing Redux for state management and other libraries like Reactstrap and React Transitions. Deployment to Heroku at the end.',
+  image: 'mern-stack.png',
+  tags:['mern', 'mongodb', 'react', 'express', 'heroku', 'node', 'javascript']
 }
 ];
