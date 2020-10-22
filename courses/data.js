@@ -634,7 +634,7 @@ let data = [
   instructor: 'React Bits (Damodar Lohani)',
   url:'https://www.youtube.com/watch?v=eYXb_xbUjio&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk',
   description:'Create a complete flutter application using appwrite as it\'s backend',
-  image: '',
+  image: 'appwrite.png',
   tags:['Flutter', 'Dart', 'Appwrite']
 }
 ];
