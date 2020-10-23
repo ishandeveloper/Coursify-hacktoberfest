@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+    name:'Design with Tailwind CSS Masterclass',
+    instructor: 'Adam Wathan',
+    url:'https://egghead.io/browse/frameworks/tailwind',
+    description:'Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.',
+    image: 'tailwind_course.png',
+    tags:['framework', 'css', 'design']
 }
 ];
