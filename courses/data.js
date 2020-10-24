@@ -628,5 +628,14 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+},
+  {
+    name:
+      "Web Development full Course- 10 Hours | Learn Web Development from Scratch | Edureka",
+    instructor: "Edureka",
+    url: "https://www.youtube.com/watch?v=Q33KBiDriJY",
+    description: "A well explained crash course on web development by Edureka",
+    image: "Web-Development.png",
+    tags: ["web-development", "Edureka"],
+  }
 ];
