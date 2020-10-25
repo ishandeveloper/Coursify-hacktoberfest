@@ -1,4 +1,4 @@
-let data = [
+﻿let data = [
   {
     name:'Javascript Basics',
     instructor: 'Steven Hancock',
@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'C++ Course',
+  instructor: 'Cláudio Rogério',
+  url:'https://www.youtube.com/watch?v=5W9YsbqnX0U&list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo',
+  description:'Um curso feito para aquele que nunca programou, como também, para quem já possui algum conhecimento. As aulas estão estruturadas numa sequência lógica com o grau de dificuldade elevado-se vagarosamente misturando teoria mas sem esquece da prática.',
+  image: 'cplusplus.jpg',
+  tags:['Technology', 'Logical', 'Programming']
 }
 ];
