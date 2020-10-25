@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)',
+  instructor: 'Maximilian Schwarzmüller, Manuel Lorenz',
+  url:'https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/',
+  description:'Starter course for anyone to get started with CSS, has a very gradual and step learning curve',
+  image: '',
+  tags:['Technology', 'CSS', 'SASS', 'Flexbox', 'Frontend']
 }
 ];
