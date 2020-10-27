@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Neural Networks from Scratch',
+  instructor: 'sentdex',
+  url:'https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3',
+  description:'Learn how to get started with training neural networks using pyton',
+  image: '',
+  tags:['Technology', 'AI','python']
 }
 ];
