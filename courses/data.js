@@ -629,4 +629,14 @@ let data = [
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
 }
+
+{
+  name:'Learn Java',
+  instructor: 'Codecademy',
+  url:'https://www.codecademy.com/learn/learn-java',
+  description:'In this course you’ll be exposed to fundamental programming concepts, including object-oriented programming (OOP) using Java. ',
+  image: 'images/codecademy.png',
+  tags:['Java', 'Programming', 'Development']
+}
+
 ];
