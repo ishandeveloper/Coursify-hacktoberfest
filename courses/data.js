@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Top 25 Data Science YouTube Channels',
+  instructor: 'Benedict Neo',
+  url:'https://decision.substack.com/p/statistics-the-complete-mini-course?r=8dnla&utm_campaign=post&utm_medium=email&utm_source=copy',
+  description:"A list of 25 educational Data Science youtube channels you should follow in 2020. I highly recommend Ken Jee's channel.",
+  image: '',
+  tags:['Data Science', 'Career Advice', 'Python', 'Java', 'R', 'YouTube']
 }
 ];
