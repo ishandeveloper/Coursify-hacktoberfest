@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Test Automation University',
+  instructor: 'So many World-Class Instructors and Industry Leaders',
+  url:'https://testautomationu.applitools.com/',
+  description:'Such a brilliant resource to help testers, devs, anyone learn more about testing, there are many paths you can follow to improve you skills in so many areas',
+  image: 'test-automation-university.png',
+  tags:['testing', 'selenium', 'testng', 'cucumber', 'automation', 'java', 'javascript', 'python', 'tdd']
 }
 ];
