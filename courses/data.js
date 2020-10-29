@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'JavaSript Crash Course 2019, WTMB',
+  instructor: 'Armağan Amcalar',
+  url:'https://www.youtube.com/watch?v=xCr2v8I4x-I&list=PL9pDl_Oth4cqVnLrf5DCK4a_HhoAEhV4a',
+  description:'JavaScript Crash Course',
+  image: '',
+  tags:['JavaScript', 'WTMB 2019']
 }
 ];
