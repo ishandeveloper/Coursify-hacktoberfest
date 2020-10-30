@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'React useEffect: 4 Tips Every Developer Should Know',
+  instructor: 'Helder Esteves',
+  url:'https://medium.com/swlh/useeffect-4-tips-every-developer-should-know-54b188b14d9c',
+  description:"Let’s talk about useEffects in React Hooks! I’m going to share with you 4 tips you should have in mind when using useEffect." ,
+  image: '',
+  tags:['react', 'react hook', 'js']
 }
 ];
