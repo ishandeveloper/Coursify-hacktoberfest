@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'What the heck is the event loop anyway?',
+  instructor: 'Philip Roberts',
+  url:'https://youtu.be/8aGhZQkoFbQ',
+  description:'Famous JSConf presentation that explains how the Java Script event loop works.',
+  image: 'javascript-event-loop.png',
+  tags:['javascript', 'web']
 }
 ];
