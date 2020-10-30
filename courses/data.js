@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Missing Semester IAP 2020',
+  instructor: 'Massachusetts Institute of Technology',
+  url:'https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J',
+  description:'A unique course that helps take full advantage of powerful tools such as version control and text editors',
+  image: '',
+  tags:['bash', 'developer', 'cloud', 'devops']
 }
 ];
