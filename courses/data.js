@@ -625,8 +625,16 @@ let data = [
   name:'Cloud Fundamentals',
   instructor: 'IBM Cloud',
   url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
+  description:'Basic concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'C# Tutorial Full Course',
+  instructor: 'Mike Dane',
+  url:'https://www.youtube.com/watch?v=GhQdlIFylQ8',
+  description:'Full 4 hour course on the introduction to C# programming',
+  image: '',
+  tags:['Programming', 'C#']
 }
 ];
