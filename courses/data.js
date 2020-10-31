@@ -628,5 +628,21 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'The Python Mega Course: Build 10 Real World Applications',
+  instructor: 'Ardit Sulce',
+  url:'https://www.udemy.com/course/the-python-mega-course/',
+  description:'A complete Python course for both beginners and intermediates! Master Python 3 by making 10 amazing Python apps.',
+  image: 'py-mega-course.png',
+  tags:['python', 'Flask']
+},
+{
+  name:'AI with Deep Learning Certification',
+  instructor: 'Guvi - IIT Madras',
+  url:'https://www.guvi.in/courses',
+  description:'A step wise introduction to Deep Learning concepts and capstone project',
+  image: 'Cloud.png',
+  tags:['python', 'AI', 'Deep Learning', 'NLP']
 }
 ];
