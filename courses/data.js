@@ -1,5 +1,37 @@
 let data = [
   {
+    name:'Machine Learning Crash Course',
+    instructor: 'Google',
+    url:'https://developers.google.com/machine-learning/crash-course',
+    description:'Machine Learning Crash Course with TensorFlow APIs',
+    image: '',
+    tags:['Machine Learning', 'TensorFlow']
+  },
+  {
+    name:'Elements of AI',
+    instructor: 'Elements of AI team',
+    url:'elementsofai.com',
+    description:'Free online courses for encouraging people to learn AI and start creating AI methods.',
+    image: '',
+    tags:['Machine Learning', 'TensorFlow']
+  }, 
+  {
+    name:'CS50 - Introduction to Artificial Intelligence with Python',
+    instructor: 'David J. Malan',
+    url:'https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python',
+    description:'Learn to use machine learning in Python in this introductory course on artificial intelligence.',
+    image: '',
+    tags:['Machine Learning', 'Python']
+  },
+  {
+    name:'Stanford University CS229',
+    instructor: 'Andrew Ng',
+    url:'https://www.youtube.com/watch?v=jGwO_UgTS7I&amp=&index=1&ab_channel=stanfordonline',
+    description:'Stanford CS229: Machine Learning',
+    image: '',
+    tags:['Machine Learning', 'Python']
+  },  
+  {
     name:'Javascript Basics',
     instructor: 'Steven Hancock',
     url:'https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w',
