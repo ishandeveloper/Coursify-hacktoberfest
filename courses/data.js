@@ -82,6 +82,14 @@ let data = [
     tags: ["react-native", "javascript"],
   },
   {
+      name: "Complete Jenkins Pipeline Tutorial | Jenkinsfile explained",
+      instructor: "TechWorld with Nana",
+      url: "https://www.youtube.com/watch?v=7KCS70sCoK0",
+      description: "An informative overview of the Jenkins pipeline.",
+      image: "complete-jenkins-pipeline-tutorial.png",
+      tags: ["jenkins", "DevOps", "Pipeline", "ContinuousIntegration", "ci", "automation"],
+  },
+  {
     name: "Learn Flutter - Beginners Course",
     instructor: "Mayuresh Wankhede",
     url: "https://www.udemy.com/course/learn-flutter-beginners-course/",
