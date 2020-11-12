@@ -80,7 +80,7 @@ Here are the steps to follow :
 1. Add and commit your changes using
 
     ```bash
-    git commit -am "ADDED : [COURSE NAME]"
+    git commit -m "ADDED : [COURSE NAME]"
     ```
 1. Push the changes to your forked repository.
 

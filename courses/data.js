@@ -10,11 +10,9 @@ let data = [
   {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
-    description:
-      "A step by step walk-through what Node JS is, and how it all works. We'll also be creating a Node JS application from scratch using express, and hook it up to MongoDB - a noSQL database perfect for using with Node.",
-    image: "node-js.png",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+    description: "A step by step walk-through what Node JS is, and how it all works. We'll also be creating a Node JS application from scratch using express, and hook it up to MongoDB - a noSQL database perfect for using with Node.",
+    image: "NetNinja.jpg",
     tags: ["nodejs", "javascript", "web"],
   },
   {
@@ -29,8 +27,7 @@ let data = [
     name: "Intro To React",
     instructor: "Ishan Sharma",
     url: "https://blog.ishandeveloper.com/react-intro",
-    description:
-      "A comprehensive beginner friendly guide to what react is and how you can benefit from it.",
+    description: "A comprehensive beginner friendly guide to what react is and how you can benefit from it.",
     image: "intro-react.png",
     tags: ["react", "javascript", "web"],
   },
@@ -38,9 +35,8 @@ let data = [
     name: "Flutter Complete Course",
     instructor: "Pawan Kumar",
     url: "https://www.youtube.com/watch?v=Ib2FlirtcmE",
-    description:
-      "Get Started with Flutter and learn how to build natively compiled applications for mobile (Android & iOS), web, and desktop from a single codebase.",
-    image: "flutter-course.png",
+    description: "Get Started with Flutter and learn how to build natively compiled applications for mobile (Android & iOS), web, and desktop from a single codebase.",
+    image: 'Pawan-Kumar.jpg',
     tags: ["flutter", "app"],
   },
   {
@@ -90,13 +86,12 @@ let data = [
     tags: ["flutter", "app"],
   },
   {
-    name: "ReactJS / Redux Tutorial",
-    instructor: "Maximilian Schwarzmuller",
-    url:
-      "https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_",
-    description: "Covers basic concept of reactjs",
-    image: "react-redux.png",
-    tags: ["Web Development", "ReactJS"],
+    name: 'ReactJS / Redux Tutorial',
+    instructor: 'Maximilian Schwarzmuller',
+    url: 'https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_',
+    description: 'Covers basic concept of reactjs',
+    image: 'Maximilian-Schwarzmuller.jpg',
+    tags: ['Web Development', 'ReactJS']
   },
   {
     name: "Learn Docker & Containers using Interactive Browser-Based Scenarios",
@@ -112,8 +107,8 @@ let data = [
     instructor: "Codewithharry",
     url:
       "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
+    image: 'Codewithharry.jpg',
     description: "This is python tutorial for beginners in hindi",
-    image: "python.png",
     tags: ["Python", "Hindi"],
   },
   {
@@ -122,7 +117,7 @@ let data = [
     url: "https://www.youtube.com/watch?v=I6ypD7qv3Z8",
     description:
       "A fullstack project course from scratch using React, Next.js, TypeScript, GraphQL, NodeJs, ORM, PostgreSQL.",
-    image: "fullstack-react-tutorial.png",
+    image: 'Ben-Awad.jpg',
     tags: ["react", "graphql", "typescript", "javascript"],
   },
   {
@@ -131,7 +126,7 @@ let data = [
     url: "https://goo.gl/TdJpMi",
     description:
       "get familiar with common data structures that are frequently tested on in coding interviews.",
-    image: "ds-python.png",
+    image: 'LucidProgramming.jpg',
     tags: ["python", "data structures"],
   },
   {
@@ -149,18 +144,16 @@ let data = [
     url: "https://bit.ly/3n85AjH",
     description:
       "This course will assume only a little basic understanding of python programming language from you and will guide you on creating you own beautiful website.",
-    image: "web-flask-python.png",
+    image: "codeWithHarry.jpg",
     tags: ["Python", "Flask"],
   },
   {
     name: "Adobe XD Tutorials",
     instructor: "DesignCourse",
-    url:
-      "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
-    description:
-      "A great resource to get started with UI/UX Design using Adobe XD",
-    image: "adobe-xd.png",
-    tags: ["Adobe XD", "UI/UX"],
+    url: "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
+    description: "A great resource to get started with UI/UX Design using Adobe XD",
+    image: 'DesignCourse.jpg',
+    tags: ["Adobe XD", "UI/UX"]
   },
   {
     name: "Svelte Tutorial for Beginners",
@@ -286,6 +279,85 @@ let data = [
       "If you are a beginner with nodejs, express or mongodb ,this tutorial will give you a good idea of how these technologies work well together.",
     image: "rest-api.png",
     tags: ["javascript", "nodejs", "express", "MongoDB"],
+},
+{
+  name:'Ethical Hacking using Python',
+  instructor: 'Alexis Ahmed',
+  url:'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+  description:'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+  image: '',
+  tags:['Python', 'Hacking','Scripting','Beginner to Advanced']
+},
+  {
+  name:'Introduction to JavaScript',
+  instructor: 'freeCodeCamp',
+  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
+  description:`javascript algorithms and data structures certification`,
+  image: '',
+  tags:[ 'javascript', 'web']
+},
+{
+  name: "Angular Crash Course for Beginners",
+  instructor: "Hitesh Choudhary",
+  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+  image: "Hitesh-Choudhary.png",
+  tags: ["Angular", "typescript", "javascript"],
+},
+  {
+  name:'Data Structure and Algorithms',
+  instructor: 'Rahul Garg',
+  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
+  description:'Intro to DS and Algo',
+  image: '',
+  tags:['Data Structures', 'Java']
+},
+{
+  name:'Data Structure and Algorithms',
+  instructor: 'Vaibhav Goel',
+  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
+  description:'Simple App State-Management in Flutter',
+  image: 'goelvaibhav009.png',
+  tags:['flutter', 'dart', 'dev']
+},
+{
+  name: "React Native Crash Course 2020",
+  instructor: "Brad Traversy",
+  url:"https://www.youtube.com/watch?v=Hf4MJH0jDb4",
+  description: "In this course we will talk about what React Native is and get setup, look at some of the built in components and build a small shopping list app",
+  image: 'Brad-Traversy.png',
+  tags: ["Javascript", "react", "react native" ],
+},{
+  name:'Flutter Tutorial for Beginners',
+  instructor: 'Net ninja',
+  url:'https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ',
+  description:'In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!',
+  image: 'Net-ninja.jpg',
+  tags:['flutter', 'App development']
+},
+{
+  name:'Clustering Data in Google Maps and React',
+  instructor: 'Leigh Halliday',
+  url:'https://www.youtube.com/watch?v=-NI5e_GTIko&t=1734s',
+  description:'Loading remote data from an API,clustering it, and zooming in to expand a cluster.',
+  image: 'Leigh-Halliday.jpg',
+  tags:['React', 'Javascript','Google Maps API']
+},
+ {
+  name:'Deep Learning with tensorflow',
+  instructor: 'IBM - DL0120EN',
+  url:'Intro to tensorflow, CNN, RNN,Autoencoders,Scaling',
+  description:'Learn to use tensorflow and more details of CNN and RNN networks',
+  image: 'https://www.edx.org/course/deep-learning-with-tensorflow',
+  tags:['CNN','Tensorflow','RNN']
+  },
+  {
+    name: 'Ethical Hacking using Python',
+    instructor: 'Alexis Ahmed',
+    url: 'https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/',
+    description: 'Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.',
+    image: '',
+    tags: ['Python', 'Hacking', 'Scripting', 'Beginner to Advanced']
   },
   {
     name: "Ethical Hacking using Python",
