@@ -625,8 +625,17 @@ let data = [
   name:'Cloud Fundamentals',
   instructor: 'IBM Cloud',
   url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
+  description:'Basic concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
 }
+{
+  name:'React Hooks',
+  instructor: 'Web Dev Simplified',
+  url:'https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h',
+  description:'Short tutorial on React Hooks, useState, use Effect, and other related React conventions',
+  image: 'Web-Dev-Simplified.png',
+  tags:['React', 'Web Dev Simplified', 'ReactHooks']
+}
+
 ];
