@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+},
+  {
+    name:'React Js Perfect Course',
+    Instructor: 'Udemy',
+    url:'https://www.udemy.com/course/perfect-react-js-course/',
+    description: 'Hands-on experience on ReactJs',
+    image: "",
+    tags:['Web development', 'React' 'Javascript']
+  }
 ];
