@@ -6,7 +6,7 @@ let data = [
     description:'The lessons in the AWS Machine Learning Foundations Course have been specially designed to prepare you to take the full Nanodegree program. We recommend you take the time to go through the carefully prepared lessons, as course completion is required to qualify for a Nanodegree program scholarship seat. A well designed course for beginners',
     image: 'PUSHPANJALI-ml.png',
     tags:["machine learning", "ai", "deep learning", "neural networks"]
-  }
+  },
   {
     name:'Javascript Basics',
     instructor: 'Steven Hancock',
