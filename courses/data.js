@@ -1,11 +1,12 @@
 let data = [
   {
-    name:'Javascript Basics',
-    instructor: 'Steven Hancock',
-    url:'https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w',
-    description:'From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language',
-    image: '',
-    tags:['web development', 'Javascript']
+    name: "Javascript Basics",
+    instructor: "Steven Hancock",
+    url: "https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+    description:
+      "From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language",
+    image: "",
+    tags: ["web development", "Javascript"],
   },
   {
     name: "Node JS Tutorial",
@@ -494,139 +495,173 @@ let data = [
     image: "mooc-java.png",
     tags: ["Java", "Object-Oriented Programming", "OOP"],
   },
-   {
-    name: 'AWS CloudFormation Tutorial',
-    instructor: 'Simplilearn',
-    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
-    description: 'AWS CloudFormation basics for beginners',
-    image: '',
-    tags: ['AWS', 'CloudFormation']
+  {
+    name: "AWS CloudFormation Tutorial",
+    instructor: "Simplilearn",
+    url: "https://www.youtube.com/watch?v=t97jZch4lMY",
+    description: "AWS CloudFormation basics for beginners",
+    image: "",
+    tags: ["AWS", "CloudFormation"],
   },
-    {
-    name: 'UIButtons in Swift',
-    instructor: 'Neeraj Gupta',
-    url: 'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
-    description: 'This course will instruct you about UIButtons in Swift',
-    image: 'UI_Buttons_in_Swift.jpeg',
-    tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  {
+    name: "UIButtons in Swift",
+    instructor: "Neeraj Gupta",
+    url: "https://dev.to/dsc_ciet/uibuttons-in-swift-7i4",
+    description: "This course will instruct you about UIButtons in Swift",
+    image: "UI_Buttons_in_Swift.jpeg",
+    tags: ["Swift", "iOS", "UIKit", "apple"],
   },
-    {
-    name:'CS50 Computer Science',
-    instructor: 'CS50 - Harvard and Yale University',
-    url:'https://www.youtube.com/c/cs50/videos',
-    description:'This is a general programming and computer science course from Harvard University',
-    image: 'cs50image.jpg',
-    tags:['Computer Science', 'Programming']
-    }
-,  {
-    name: 'Responsive Web Design',
-    instructor: 'freecodecamp',
-    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
-    description: 'Responsive Web Design for absolute beginners',
-    image: '',
-    tags: ['Development', 'Front-end']
+  {
+    name: "CS50 Computer Science",
+    instructor: "CS50 - Harvard and Yale University",
+    url: "https://www.youtube.com/c/cs50/videos",
+    description:
+      "This is a general programming and computer science course from Harvard University",
+    image: "cs50image.jpg",
+    tags: ["Computer Science", "Programming"],
+  },
+  {
+    name: "Responsive Web Design",
+    instructor: "freecodecamp",
+    url:
+      "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/",
+    description: "Responsive Web Design for absolute beginners",
+    image: "",
+    tags: ["Development", "Front-end"],
   },
   {
     name: "The Cherno C++ Playlist",
     instructor: "Yan Chernikov",
-    url: "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
-    description: "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
+    url:
+      "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+    description:
+      "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
     image: "cpp_playlist.jpg",
     tags: ["C++", "Technology", "C", "Cpp"],
   },
   {
-    name: 'Data Structures',
-    instructor: 'freeCodeCamp',
-    url: 'https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org',
-    description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
-    image: '',
-    tags: ['data structures', 'Java']
+    name: "Data Structures",
+    instructor: "freeCodeCamp",
+    url:
+      "https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org",
+    description:
+      "Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.",
+    image: "",
+    tags: ["data structures", "Java"],
   },
   {
-    name: 'Introduction to Algorithms',
-    instructor: 'MIT OpenCourseWare',
-    url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb',
-    description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
-    image: 'MIT-OCW.png',
-    tags: ['Algorithms', 'Computation', 'Programming']
-  },{
-    name:'The Cybersecurity Training',
-    instructor: 'CYBRARY',
-    url:'https://www.cybrary.it/',
-    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
-    image: '',
-    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
+    name: "Introduction to Algorithms",
+    instructor: "MIT OpenCourseWare",
+    url:
+      "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+    description:
+      "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+    image: "MIT-OCW.png",
+    tags: ["Algorithms", "Computation", "Programming"],
   },
   {
-    name: 'Data Structures',
-    instructor: 'Apni Kaksha',
-    url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
-    description: 'Tutorial on Data Structure and Algorithm in Java',
-    image: '',
-    tags: ['data structures', 'Java','Algorithm']
+    name: "The Cybersecurity Training",
+    instructor: "CYBRARY",
+    url: "https://www.cybrary.it/",
+    description:
+      "3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.",
+    image: "",
+    tags: [
+      "Cybersecurity",
+      "Network Security",
+      "VPN security",
+      "hacking",
+      "Cloud security",
+    ],
   },
   {
-    name: 'Android Developer Fundamentals',
-    instructor: 'Google Developer India',
-    url: 'https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB',
-    description: 'Tutorial on Android Development Fundamentals',
-    image: '',
-    tags: ['Android', 'Java']
+    name: "Data Structures",
+    instructor: "Apni Kaksha",
+    url:
+      "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
+    description: "Tutorial on Data Structure and Algorithm in Java",
+    image: "",
+    tags: ["data structures", "Java", "Algorithm"],
   },
   {
-    name:'System Administration',
-    instructor: 'Google',
-    url:'https://www.youtube.com/watch?v=1DvTwuByjo0',
-    description:'A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.',
-    image: 'sysadmin-google-course.jpg',
-    tags:['System Administration', 'Servers']
-  }
-  ,  {
-    name: 'Python Tutorial - Python for Beginners',
-    instructor: 'Programming with Mosh',
-    url: 'https://youtu.be/_uQrJ0TkZlc',
-    description: 'This 6 hour course will teach an absolute beginner the basics of Python',
-    image: '',
-    tags:['Flutter', 'Firebase','App development']
-},
-{
-  name:'Introduction to JavaScript',
-  instructor: 'freeCodeCamp',
-  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
-  description:`javascript algorithms and data structures certification`,
-  image: '',
-  tags:[ 'javascript', 'web']
-},
-{
-  name: "Angular Crash Course for Beginners",
-  instructor: "Hitesh Choudhary",
-  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
-  tags: ["Angular", "typescript", "javascript"],
-},
+    name: "Android Developer Fundamentals",
+    instructor: "Google Developer India",
+    url:
+      "https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB",
+    description: "Tutorial on Android Development Fundamentals",
+    image: "",
+    tags: ["Android", "Java"],
+  },
   {
-  name:'Data Structure and Algorithms',
-  instructor: 'Rahul Garg',
-  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
-  description:'Intro to DS and Algo',
-  image: '',
-  tags:['Data Structures', 'Java']
-},
-{
-  name:'Simple State Management in Flutter',
-  instructor: 'Vaibhav Goel',
-  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
-  description:'Simple App State-Management in Flutter',
-  image: 'goelvaibhav009.png',
-  tags:['flutter', 'dart', 'dev']
-},
-{
-  name:'Cloud Fundamentals',
-  instructor: 'IBM Cloud',
-  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
-  image: 'Cloud.png',
-  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+    name: "System Administration",
+    instructor: "Google",
+    url: "https://www.youtube.com/watch?v=1DvTwuByjo0",
+    description:
+      "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.",
+    image: "sysadmin-google-course.jpg",
+    tags: ["System Administration", "Servers"],
+  },
+  {
+    name: "Python Tutorial - Python for Beginners",
+    instructor: "Programming with Mosh",
+    url: "https://youtu.be/_uQrJ0TkZlc",
+    description:
+      "This 6 hour course will teach an absolute beginner the basics of Python",
+    image: "",
+    tags: ["Flutter", "Firebase", "App development"],
+  },
+  {
+    name: "Introduction to JavaScript",
+    instructor: "freeCodeCamp",
+    url:
+      "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+    description: `javascript algorithms and data structures certification`,
+    image: "",
+    tags: ["javascript", "web"],
+  },
+  {
+    name: "Angular Crash Course for Beginners",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+    description:
+      "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+    image: "",
+    tags: ["Angular", "typescript", "javascript"],
+  },
+  {
+    name: "Data Structure and Algorithms",
+    instructor: "Rahul Garg",
+    url:
+      "https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1",
+    description: "Intro to DS and Algo",
+    image: "",
+    tags: ["Data Structures", "Java"],
+  },
+  {
+    name: "Simple State Management in Flutter",
+    instructor: "Vaibhav Goel",
+    url: "https://dev.to/dsc_ciet/simple-app-state-management-ehi",
+    description: "Simple App State-Management in Flutter",
+    image: "goelvaibhav009.png",
+    tags: ["flutter", "dart", "dev"],
+  },
+  {
+    name: "Cloud Fundamentals",
+    instructor: "IBM Cloud",
+    url:
+      "https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ",
+    description:
+      "Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc",
+    image: "Cloud.png",
+    tags: ["cloud", "containerization", "virtualization", "cloud services"],
+  },
+  {
+    name: "The Complete CSS Flexbox Tutorial",
+    instructor: "Madhav Bahl",
+    url:
+      "https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY",
+    description: "A tiny course on CSS Flexbox",
+    image: "",
+    tags: ["CSS", "Flexbox"],
+  },
 ];
