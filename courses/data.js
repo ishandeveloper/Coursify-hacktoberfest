@@ -566,7 +566,7 @@ let data = [{
         instructor: 'Andrew NG',
         url: 'https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU',
         description: 'Stanford\'s CS229 Machine Learning Lectures taught by Andrew NG.',
-        image: 'ml-tutorial.png',
+        image: 'ml.png',
         tags: ['Machine Learning', 'Computer Science']
     }
 ];
