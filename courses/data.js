@@ -628,5 +628,22 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'Simplifying data pipelines with Apache Kafka',
+  instructor: 'Cognitive Class',
+  url:'https://cognitiveclass.ai/courses/simplyfingdatapipelines',
+  description:'Introduction to Kafka messaging system for data engineering or pipelines maintenance, includes an IBM Badge + certificate in the end of the course',
+  image: '',
+  tags:['Kafka', 'Data Engineering', 'Messaging Systems', 'Apache', 'Big Data']
+},
+{
+  name:'Data Analysis with Python',
+  instructor: 'Cognitive Class',
+  url:'https://cognitiveclass.ai/badges/data-analysis-with-python',
+  description:'Introduction to Data Analysis with Python using Jupyter to manipulate libraries such as numpy, pandas, scipy, scikit-learn etc. Includes an IBM badge + certificate',
+  image: '',
+  tags:['Python', 'Data Analytics', 'Data Science', 'Machine Learning', '101', "Badge", "Certificate", "Free"]
 }
+
 ];
