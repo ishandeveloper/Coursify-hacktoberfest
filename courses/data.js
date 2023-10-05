@@ -623,7 +623,7 @@ let data = [
     tags: ["cloud", "containerization", "virtualization", "cloud services"],
   },
   {
-    name: "Python Tutorial For Beginners",
+    name: "Python Tutorial For Beginners - Full Course in 11 Hours",
     instructor: "Clever Programmer",
     url: "https://www.youtube.com/watch?v=4F2m91eKmts",
     description: "Beginner friendly python course",
