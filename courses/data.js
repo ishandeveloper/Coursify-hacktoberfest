@@ -1,17 +1,17 @@
 let data = [
   {
-    name:'Javascript Basics',
-    instructor: 'Steven Hancock',
-    url:'https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w',
-    description:'From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language',
-    image: '',
-    tags:['web development', 'Javascript']
+    name: "Javascript Basics",
+    instructor: "Steven Hancock",
+    url: "https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+    description:
+      "From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language",
+    image: "",
+    tags: ["web development", "Javascript"],
   },
   {
     name: "Node JS Tutorial",
     instructor: "NetNinja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
     description:
       "A step by step walk-through what Node JS is, and how it all works. We'll also be creating a Node JS application from scratch using express, and hook it up to MongoDB - a noSQL database perfect for using with Node.",
     image: "node-js.png",
@@ -54,8 +54,7 @@ let data = [
   },
 
   {
-    name:
-      "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
+    name: "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
     instructor: "Edureka",
     url: "https://www.youtube.com/watch?v=Q33KBiDriJY",
     description: "A well explained crash course on web development by Edureka",
@@ -74,8 +73,7 @@ let data = [
   {
     name: "React Native Tutorial for Beginners",
     instructor: "The Net Ninja",
-    url:
-      "https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
+    url: "https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
     description:
       "Hey gang, and welcome to your first React Native tutorial for beginners. In this series we'll go from novice to ninja and create a React Native app from scratch. irst though, we'll get set up and talk about what React Native actually is. ",
     image: "react-native.png",
@@ -92,8 +90,7 @@ let data = [
   {
     name: "ReactJS / Redux Tutorial",
     instructor: "Maximilian Schwarzmuller",
-    url:
-      "https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_",
+    url: "https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_",
     description: "Covers basic concept of reactjs",
     image: "react-redux.png",
     tags: ["Web Development", "ReactJS"],
@@ -110,8 +107,7 @@ let data = [
   {
     name: "Python Tutorial for Beginners",
     instructor: "Codewithharry",
-    url:
-      "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
+    url: "https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
     description: "This is python tutorial for beginners in hindi",
     image: "python.png",
     tags: ["Python", "Hindi"],
@@ -155,8 +151,7 @@ let data = [
   {
     name: "Adobe XD Tutorials",
     instructor: "DesignCourse",
-    url:
-      "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
+    url: "https://www.youtube.com/playlist?list=PL0lNJEnwfVVO7neEAyqUVV-bannq8hu6x",
     description:
       "A great resource to get started with UI/UX Design using Adobe XD",
     image: "adobe-xd.png",
@@ -165,8 +160,7 @@ let data = [
   {
     name: "Svelte Tutorial for Beginners",
     instructor: "NetNinja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
     description:
       "in this Svelte tutorial for beginners I'll explain what Svelte is, what we'll be making & what you'll already need to know before starting",
     image: "svelte-beginner.jpg",
@@ -242,8 +236,7 @@ let data = [
   {
     name: "Javascript Course",
     instructor: "Hitesh Choudhary",
-    url:
-      "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
+    url: "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
     description:
       "A new javascript course designed, created and recorded fresh in 2020. This course will give you a fantastic start for your javascript journey. After this course you can move to reactjs, AngularJS, nodeJS and many other such JS libraries and framework.",
     image: "js-course.png",
@@ -252,8 +245,7 @@ let data = [
   {
     name: "Mini-curso de TypeScript",
     instructor: "Willian Justen",
-    url:
-      "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+    url: "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
     description: "This is a course for beginners about typescript",
     image: "typescript.png",
     tags: ["javascript", "typescript", "web", "Portuguese"],
@@ -261,8 +253,7 @@ let data = [
   {
     name: "Flutter Tutorials for Beginners",
     instructor: "The Growing Developer",
-    url:
-      "https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj",
+    url: "https://www.youtube.com/watch?v=yTFr11wABHw&list=PLJftqVZ-OFLi3NjZk0AG5T2U59xuerhsj",
     description:
       "The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.",
     image: "flutter-tutorial.png",
@@ -271,8 +262,7 @@ let data = [
   {
     name: "Neural Networks From Scratch",
     instructor: "Harrison Kinsley(sentdex)",
-    url:
-      "https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex",
+    url: "https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex",
     description:
       "This Accompanies the neural networks from scratch book and as per its name, It aims to help you learn to build neural networks from scratch",
     image: "nnfs.png",
@@ -290,8 +280,7 @@ let data = [
   {
     name: "Ethical Hacking using Python",
     instructor: "Alexis Ahmed",
-    url:
-      "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
+    url: "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
     description:
       "Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.",
     image: "ethical-hacking.png",
@@ -300,8 +289,7 @@ let data = [
   {
     name: "Introduction to JavaScript",
     instructor: "freeCodeCamp",
-    url:
-      "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+    url: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
     description: `javascript algorithms and data structures certification`,
     image: "intro-to-js.png",
     tags: ["javascript", "web"],
@@ -318,8 +306,7 @@ let data = [
   {
     name: "Data Structure and Algorithms",
     instructor: "Rahul Garg",
-    url:
-      "https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1",
+    url: "https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1",
     description: "Intro to DS and Algo",
     image: "ds-algo.png",
     tags: ["Data Structures", "Java"],
@@ -344,8 +331,7 @@ let data = [
   {
     name: "Flutter Tutorial for Beginners",
     instructor: "Net ninja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
     description:
       "In this Flutter tutorial for Beginners series, I will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We will learn all about widgets, packages, assets & asynchronous code to create a World Time app, as well as 2 other mini apps to put your Flutter skills to good use!",
     image: "flutter-tutorial.png",
@@ -372,8 +358,7 @@ let data = [
   {
     name: "Ethical Hacking using Python",
     instructor: "Alexis Ahmed",
-    url:
-      "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
+    url: "https://www.mindsmapped.com/courses/python-for-ethical-hacking-beginners-to-advanced-level/",
     description:
       "Ethical Hacking is the process of identifying potential threats and vulnerabilities on a computer or network through advanced tools and techniques. This course explains how to use Python to create ethical hacking tools and scripts.",
     image: "ethical-hacking.png",
@@ -382,8 +367,7 @@ let data = [
   {
     name: "CSS Animation Tutorial",
     instructor: "Net Ninja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
     description:
       "Starting with the basics, including keyframes, transforms, and the animation property",
     image: "artworknetninja.jpg",
@@ -401,8 +385,7 @@ let data = [
   {
     name: "Deep Learning Intuitions",
     instructor: "3Blue1Brown",
-    url:
-      "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+    url: "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
     description:
       "Beginner friendly Deep Learning Intuition and then adding in a deep dive towards how Neural Networks work",
     image: "artworknetninja.jpg",
@@ -419,8 +402,7 @@ let data = [
   {
     name: "JavaScript: Understanding the Weird Parts",
     instructor: "Tony Alicea",
-    url:
-      "https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea",
+    url: "https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=2187s&ab_channel=TonyAlicea",
     description:
       "An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more",
     image: "",
@@ -429,8 +411,7 @@ let data = [
   {
     name: "React Native Tutorial",
     instructor: "codedamn",
-    url:
-      "https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h&ab_channel=codedamn",
+    url: "https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h&ab_channel=codedamn",
     description:
       "Introduce yourself to a new world of write-once-run-anywhere world! This is REACT NATIVE, running your apps natively on Android/iOS/blackberry (you need a bridge, though), etc.",
     image: "codedamn.jpg",
@@ -448,8 +429,7 @@ let data = [
   {
     name: "CSS Animation Tutorial",
     instructor: "Net Ninja",
-    url:
-      "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
+    url: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5",
     description:
       "Starting with the basics, including keyframes, transforms, and the animation property",
     image: "artworknetninja.jpg",
@@ -458,8 +438,7 @@ let data = [
   {
     name: "Curso de Git e GitHub",
     instructor: "Gustavo Guanabara",
-    url:
-      "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
+    url: "https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
     description:
       "a course for those who want to start their journey on git and github",
     image: "",
@@ -468,16 +447,14 @@ let data = [
   {
     name: "Flutter Tutorial",
     instructor: "MTECHVIRAL",
-    url:
-      "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
+    url: "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
     description:
       "Learn Flutter from  basic to advance with some awesome projects to make",
     image: "",
     tags: ["Flutter", "Dart", "App devlopment"],
   },
   {
-    name:
-      "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
+    name: "Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart",
     instructor: "Maximilian Schwarzmüller",
     url: "https://www.youtube.com/watch?v=x0uinJvhNxI&t=5202s",
     description:
@@ -494,139 +471,163 @@ let data = [
     image: "mooc-java.png",
     tags: ["Java", "Object-Oriented Programming", "OOP"],
   },
-   {
-    name: 'AWS CloudFormation Tutorial',
-    instructor: 'Simplilearn',
-    url: 'https://www.youtube.com/watch?v=t97jZch4lMY',
-    description: 'AWS CloudFormation basics for beginners',
-    image: '',
-    tags: ['AWS', 'CloudFormation']
+  {
+    name: "AWS CloudFormation Tutorial",
+    instructor: "Simplilearn",
+    url: "https://www.youtube.com/watch?v=t97jZch4lMY",
+    description: "AWS CloudFormation basics for beginners",
+    image: "",
+    tags: ["AWS", "CloudFormation"],
   },
-    {
-    name: 'UIButtons in Swift',
-    instructor: 'Neeraj Gupta',
-    url: 'https://dev.to/dsc_ciet/uibuttons-in-swift-7i4',
-    description: 'This course will instruct you about UIButtons in Swift',
-    image: 'UI_Buttons_in_Swift.jpeg',
-    tags: ['Swift', 'iOS', 'UIKit', 'apple']
+  {
+    name: "UIButtons in Swift",
+    instructor: "Neeraj Gupta",
+    url: "https://dev.to/dsc_ciet/uibuttons-in-swift-7i4",
+    description: "This course will instruct you about UIButtons in Swift",
+    image: "UI_Buttons_in_Swift.jpeg",
+    tags: ["Swift", "iOS", "UIKit", "apple"],
   },
-    {
-    name:'CS50 Computer Science',
-    instructor: 'CS50 - Harvard and Yale University',
-    url:'https://www.youtube.com/c/cs50/videos',
-    description:'This is a general programming and computer science course from Harvard University',
-    image: 'cs50image.jpg',
-    tags:['Computer Science', 'Programming']
-    }
-,  {
-    name: 'Responsive Web Design',
-    instructor: 'freecodecamp',
-    url: 'https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/',
-    description: 'Responsive Web Design for absolute beginners',
-    image: '',
-    tags: ['Development', 'Front-end']
+  {
+    name: "CS50 Computer Science",
+    instructor: "CS50 - Harvard and Yale University",
+    url: "https://www.youtube.com/c/cs50/videos",
+    description:
+      "This is a general programming and computer science course from Harvard University",
+    image: "cs50image.jpg",
+    tags: ["Computer Science", "Programming"],
+  },
+  {
+    name: "Responsive Web Design",
+    instructor: "freecodecamp",
+    url: "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/",
+    description: "Responsive Web Design for absolute beginners",
+    image: "",
+    tags: ["Development", "Front-end"],
   },
   {
     name: "The Cherno C++ Playlist",
     instructor: "Yan Chernikov",
     url: "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
-    description: "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
+    description:
+      "Everything you need to know about C++, this series focuses on various fundamentals and working of C++",
     image: "cpp_playlist.jpg",
     tags: ["C++", "Technology", "C", "Cpp"],
   },
   {
-    name: 'Data Structures',
-    instructor: 'freeCodeCamp',
-    url: 'https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org',
-    description: 'Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.',
-    image: '',
-    tags: ['data structures', 'Java']
+    name: "Data Structures",
+    instructor: "freeCodeCamp",
+    url: "https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org",
+    description:
+      "Data Structures Easy to Advanced Course. This course teaches data structures to beginners using high quality animations to represent the data structures visually.",
+    image: "",
+    tags: ["data structures", "Java"],
   },
   {
-    name: 'Introduction to Algorithms',
-    instructor: 'MIT OpenCourseWare',
-    url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb',
-    description: 'This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.',
-    image: 'MIT-OCW.png',
-    tags: ['Algorithms', 'Computation', 'Programming']
-  },{
-    name:'The Cybersecurity Training',
-    instructor: 'CYBRARY',
-    url:'https://www.cybrary.it/',
-    description:'3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.',
-    image: '',
-    tags:['Cybersecurity', 'Network Security','VPN security','hacking','Cloud security']
+    name: "Introduction to Algorithms",
+    instructor: "MIT OpenCourseWare",
+    url: "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+    description:
+      "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+    image: "MIT-OCW.png",
+    tags: ["Algorithms", "Computation", "Programming"],
   },
   {
-    name: 'Data Structures',
-    instructor: 'Apni Kaksha',
-    url: 'https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s',
-    description: 'Tutorial on Data Structure and Algorithm in Java',
-    image: '',
-    tags: ['data structures', 'Java','Algorithm']
+    name: "The Cybersecurity Training",
+    instructor: "CYBRARY",
+    url: "https://www.cybrary.it/",
+    description:
+      "3 days Free crowd-sourced cybersecurity and IT learning videos. Covers topics like computer and forensics, cryptography, and cyber threat intelligence.",
+    image: "",
+    tags: [
+      "Cybersecurity",
+      "Network Security",
+      "VPN security",
+      "hacking",
+      "Cloud security",
+    ],
   },
   {
-    name: 'Android Developer Fundamentals',
-    instructor: 'Google Developer India',
-    url: 'https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB',
-    description: 'Tutorial on Android Development Fundamentals',
-    image: '',
-    tags: ['Android', 'Java']
+    name: "Data Structures",
+    instructor: "Apni Kaksha",
+    url: "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
+    description: "Tutorial on Data Structure and Algorithm in Java",
+    image: "",
+    tags: ["data structures", "Java", "Algorithm"],
   },
   {
-    name:'System Administration',
-    instructor: 'Google',
-    url:'https://www.youtube.com/watch?v=1DvTwuByjo0',
-    description:'A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.',
-    image: 'sysadmin-google-course.jpg',
-    tags:['System Administration', 'Servers']
-  }
-  ,  {
-    name: 'Python Tutorial - Python for Beginners',
-    instructor: 'Programming with Mosh',
-    url: 'https://youtu.be/_uQrJ0TkZlc',
-    description: 'This 6 hour course will teach an absolute beginner the basics of Python',
-    image: '',
-    tags:['Flutter', 'Firebase','App development']
-},
-{
-  name:'Introduction to JavaScript',
-  instructor: 'freeCodeCamp',
-  url:'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/',
-  description:`javascript algorithms and data structures certification`,
-  image: '',
-  tags:[ 'javascript', 'web']
-},
-{
-  name: "Angular Crash Course for Beginners",
-  instructor: "Hitesh Choudhary",
-  url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
-  description: "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
-  image: "",
-  tags: ["Angular", "typescript", "javascript"],
-},
+    name: "Android Developer Fundamentals",
+    instructor: "Google Developer India",
+    url: "https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB",
+    description: "Tutorial on Android Development Fundamentals",
+    image: "",
+    tags: ["Android", "Java"],
+  },
   {
-  name:'Data Structure and Algorithms',
-  instructor: 'Rahul Garg',
-  url:'https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1',
-  description:'Intro to DS and Algo',
-  image: '',
-  tags:['Data Structures', 'Java']
-},
-{
-  name:'Simple State Management in Flutter',
-  instructor: 'Vaibhav Goel',
-  url:'https://dev.to/dsc_ciet/simple-app-state-management-ehi',
-  description:'Simple App State-Management in Flutter',
-  image: 'goelvaibhav009.png',
-  tags:['flutter', 'dart', 'dev']
-},
-{
-  name:'Cloud Fundamentals',
-  instructor: 'IBM Cloud',
-  url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
-  image: 'Cloud.png',
-  tags:['cloud', 'containerization', 'virtualization', 'cloud services']
-}
+    name: "System Administration",
+    instructor: "Google",
+    url: "https://www.youtube.com/watch?v=1DvTwuByjo0",
+    description:
+      "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially single-user computers, such as servers.",
+    image: "sysadmin-google-course.jpg",
+    tags: ["System Administration", "Servers"],
+  },
+  {
+    name: "Python Tutorial - Python for Beginners",
+    instructor: "Programming with Mosh",
+    url: "https://youtu.be/_uQrJ0TkZlc",
+    description:
+      "This 6 hour course will teach an absolute beginner the basics of Python",
+    image: "",
+    tags: ["Flutter", "Firebase", "App development"],
+  },
+  {
+    name: "Introduction to JavaScript",
+    instructor: "freeCodeCamp",
+    url: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+    description: `javascript algorithms and data structures certification`,
+    image: "",
+    tags: ["javascript", "web"],
+  },
+  {
+    name: "Angular Crash Course for Beginners",
+    instructor: "Hitesh Choudhary",
+    url: "https://www.youtube.com/watch?v=T_Fe4IaG0KU",
+    description:
+      "In the first part of the video, we will talk about details of Angular and some common questions about it.In the second part of Angular crash course video, we will create a basic project to get hands-on with Angular.",
+    image: "",
+    tags: ["Angular", "typescript", "javascript"],
+  },
+  {
+    name: "Data Structure and Algorithms",
+    instructor: "Rahul Garg",
+    url: "https://www.youtube.com/watch?v=L0POiNCx9eY&list=PLqCERDVVgUd4ItS-racj9c6jCjw0cxAhP&index=1",
+    description: "Intro to DS and Algo",
+    image: "",
+    tags: ["Data Structures", "Java"],
+  },
+  {
+    name: "Simple State Management in Flutter",
+    instructor: "Vaibhav Goel",
+    url: "https://dev.to/dsc_ciet/simple-app-state-management-ehi",
+    description: "Simple App State-Management in Flutter",
+    image: "goelvaibhav009.png",
+    tags: ["flutter", "dart", "dev"],
+  },
+  {
+    name: "Cloud Fundamentals",
+    instructor: "IBM Cloud",
+    url: "https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ",
+    description:
+      "Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc",
+    image: "Cloud.png",
+    tags: ["cloud", "containerization", "virtualization", "cloud services"],
+  },
+  {
+    name: "Python Tutorial For Beginners",
+    instructor: "Clever Programmer",
+    url: "https://www.youtube.com/watch?v=4F2m91eKmts",
+    description: "Beginner friendly python course",
+    image: "",
+    tags: ["python", "projects"],
+  },
 ];
