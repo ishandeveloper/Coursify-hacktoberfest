@@ -625,8 +625,24 @@ let data = [
   name:'Cloud Fundamentals',
   instructor: 'IBM Cloud',
   url:'https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ',
-  description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
+  description:'Basic concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+}, 
+{
+  name:'Learn React',
+  instructor: 'Bob Ziroll',
+  url:'https://scrimba.com/learn/learnreact',
+  description:'After completing this course, you will be able to build web apps in modern React, using patterns like functional components and hooks. It is the perfect starting point for any React beginner. Learn the basics of modern React by solving 140+ interactive coding challenges and building eight fun projects.',
+  image: 'learn-react.png',
+  tags:['React', 'JavaScript', 'Web Design', 'Web Development']
+},
+{
+  name:'C++ Tutorial for Beginners - Full Course',
+  instructor: 'Bob Ziroll',
+  url:'https://www.youtube.com/watch?v=vLnPwxZdW4Y',
+  description:' It delves into fundamental programming concepts, data types, and control structures, while also introducing object-oriented programming and advanced topics like classes, objects, and inheritance.',
+  image: 'cPlusPlus.png',
+  tags:['Programming Fundamentals', 'Coding Tutorials', 'Object-Oriented Programming', 'Software Development']
 }
 ];
